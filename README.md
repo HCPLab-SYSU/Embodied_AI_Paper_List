@@ -12,23 +12,23 @@ Paper list for Embodied AI
     
 ## Surveys 
 
-* **A Survey on Vision-Language-Action Models for Embodied AI**, arXiv:2405.14093, 2024
-Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King
-[[Paper](https://arxiv.org/pdf/2405.14093)]
+* **A Survey on Vision-Language-Action Models for Embodied AI**, arXiv:2405.14093, 2024   
+Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King    
+[[Paper](https://arxiv.org/pdf/2405.14093)]    
 
-* **A survey of embodied ai: From simulators to research tasks**, IEEE Transactions on Emerging Topics in Computational Intelligence, 2022
-Jiafei Duan, Samson Yu, Hui Li Tan, Hongyuan Zhu, Cheston Tan
-[[Paper](https://arxiv.org/pdf/2103.04918)]
+* **A survey of embodied ai: From simulators to research tasks**, IEEE Transactions on Emerging Topics in Computational Intelligence, 2022    
+Jiafei Duan, Samson Yu, Hui Li Tan, Hongyuan Zhu, Cheston Tan    
+[[Paper](https://arxiv.org/pdf/2103.04918)]    
 
-* **The development of embodied cognition: Six lessons from babies**, Artificial life, 2005
-Linda Smith, Michael Gasser
-[[Paper](https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf)]
+* **The development of embodied cognition: Six lessons from babies**, Artificial life, 2005    
+Linda Smith, Michael Gasser    
+[[Paper](https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf)]    
 
-* **Embodied artificial intelligence: Trends and challenges**, Lecture notes in computer science, 2004
-Rolf Pfeifer, Fumiya Iida
-[[Paper](https://people.csail.mit.edu/iida/papers/PfeiferIidaEAIDags.pdf)]
+* **Embodied artificial intelligence: Trends and challenges**, Lecture notes in computer science, 2004    
+Rolf Pfeifer, Fumiya Iida   
+[[Paper](https://people.csail.mit.edu/iida/papers/PfeiferIidaEAIDags.pdf)]     
 
-## Year 2024 
+## Year 2024    
 
-## Year 2023 
+## Year 2023    
 
