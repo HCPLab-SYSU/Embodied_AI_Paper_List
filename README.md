@@ -10,7 +10,11 @@ Paper list for Embodied AI
 ## :collision: Update Log 
 * [2024.06.07] We release the first version of the paper list for Embodied AI. This page is continually updating!
     
-## Surveys 
+## Books & Surveys 
+
+* **Multimodal Large Models: The New Paradigm of Artificial General Intelligence**, Publishing House of Electronics Industry (PHE), 2024     
+Yang Liu, Liang Lin     
+[[Page](https://hcplab-sysu.github.io/Book-of-MLM/)]      
 
 * **A Survey on Vision-Language-Action Models for Embodied AI**, arXiv:2405.14093, 2024   
 Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King    
