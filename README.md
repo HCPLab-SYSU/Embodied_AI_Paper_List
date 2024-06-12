@@ -5,9 +5,6 @@ Paper list for Embodied AI
 <img src="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/EmbodiedAI.jpg" width="250">
 </p>
 
-<p align="center">
-<img src="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/Framework.jpg" width="1000">
-</p>
 
 #### We appreciate any useful suggestions for improvement of this paper list from peers. Please raise issues or send an email to **liuy856@mail.sysu.edu.cn** and **chen867820261@gmail.com**. Thanks for your cooperation!
 
