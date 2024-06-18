@@ -19,7 +19,15 @@ Yang Liu, Liang Lin
 
 * **A Survey on Vision-Language-Action Models for Embodied AI**, arXiv:2405.14093, 2024   
 Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King    
-[[Paper](https://arxiv.org/pdf/2405.14093)]    
+[[Paper](https://arxiv.org/pdf/2405.14093)]
+
+* **Towards Generalist Robot Learning from Internet Video: A Surve**, arXiv:2404.19664, 2024   
+McCarthy, Robert, Daniel CH Tan, Dominik Schmidt, Fernando Acero, Nathan Herr, Yilun Du, Thomas G. Thuruthel, and Zhibin Li.  
+[[Paper](https://arxiv.org/pdf/2404.19664)]
+
+* **Toward general-purpose robots via foundation models: A survey and meta-analysis**, arXiv:2312.08782, 2023   
+Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim et al.  
+[[Paper](https://arxiv.org/pdf/2312.08782)]    
 
 * **A survey of embodied ai: From simulators to research tasks**, IEEE Transactions on Emerging Topics in Computational Intelligence, 2022    
 Jiafei Duan, Samson Yu, Hui Li Tan, Hongyuan Zhu, Cheston Tan    
