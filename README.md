@@ -14,6 +14,7 @@ Paper list for Embodied AI
 <p align="center">
 <img src="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/survey.jpg" width="600">
 </p>  
+
 ## :collision: Update Log 
 * [2024.06.07] We release the first version of the paper list for Embodied AI. This page is continually updating!
     
