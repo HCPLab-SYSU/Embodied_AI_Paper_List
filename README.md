@@ -16,6 +16,7 @@ Paper list for Embodied AI
 </p>  
 
 ## :collision: Update Log 
+* [2024.07.10] We release the first version of the survey on Embodied AI!
 * [2024.06.07] We release the first version of the paper list for Embodied AI. This page is continually updating!
     
 ## Books & Surveys 
