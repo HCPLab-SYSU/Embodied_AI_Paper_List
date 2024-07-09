@@ -125,8 +125,17 @@ Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian
 ## Sim-to-Real Adaptation
 
 
+## :newspaper: Citation 
+If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
 
-## Year 2024    
-
-## Year 2023    
+```bibtex
+@misc{Liu2024EAISurvey,
+      title={Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI}, 
+      author={Yang Liu, Weixing Chen, Yongjie Bai, Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, Ganlong Zhao, Junyi Lin, Guanbin Li, Wen Gao and Liang Lin},
+      year={2024},
+      eprint={2407.XXXXX},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
