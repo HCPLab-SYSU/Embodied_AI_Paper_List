@@ -12,7 +12,7 @@ Paper list for Embodied AI
   [[Yang Liu](https://yangliu9208.github.io)], Weixing Chen, Yongjie Bai, Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, Ganlong Zhao, Junyi Lin, Guanbin Li, Wen Gao, Liang Lin, 2024 
   [[PDF](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/EmbodiedAI_survey_v1.pdf)] 
 <p align="center">
-<img src="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/survey.jpg" width="600">
+<img src="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/survey.jpg" width="800">
 </p>  
 
 ## :collision: Update Log 
