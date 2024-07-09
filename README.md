@@ -29,7 +29,7 @@ Yang Liu, Liang Lin
 Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King    
 [[Paper](https://arxiv.org/pdf/2405.14093)]
 
-* **Towards Generalist Robot Learning from Internet Video: A Surve**, arXiv:2404.19664, 2024   
+* **Towards Generalist Robot Learning from Internet Video: A Survey**, arXiv:2404.19664, 2024   
 McCarthy, Robert, Daniel CH Tan, Dominik Schmidt, Fernando Acero, Nathan Herr, Yilun Du, Thomas G. Thuruthel, and Zhibin Li.  
 [[Paper](https://arxiv.org/pdf/2404.19664)]
 
