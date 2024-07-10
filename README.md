@@ -1,5 +1,4 @@
-# Embodied_AI_Paper_List
-Paper list for Embodied AI 
+# Paper list for Embodied AI 
 
 <p align="center">
 <img src="./EmbodiedAI.jpg" width="250">
@@ -65,187 +64,245 @@ Rolf Pfeifer, Fumiya Iida
 
 
 * **Nvidia isaac sim: Robotics simulation and synthetic data**, NVIDIA, 2023
+[[page](https://developer.nvidia.com/isaac/sim)]
 
 * **Design and use paradigms for gazebo, an open-source multi-robot simulator**, IROS, 2004
 Koenig, Nathan, Andrew, Howard. 
+[[page](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=79f91c1c95271a075b91e9fdca43d6c31e4cbe17)]
 
-* **Pybullet, a python module for physics simulation for games, robotics and machine learning**, 2016.
+* **Pybullet, a python module for physics simulation for games, robotics and machine learning**, 2016
 Coumans, Erwin, Yunfei, Bai. 
 
 * **Webots: open-source robot simulator**
 Cyberbotics
+[[page](https://cyberbotics.com/doc/reference/index), [code](https://github.com/cyberbotics/webots)]
 
-* **MuJoCo: A physics engine for model-based control**, IROS, 2012.
+* **MuJoCo: A physics engine for model-based control**, IROS, 2012
 Todorov, Emanuel, Tom, Erez, Yuval, Tassa. 
+[[page](https://ieeexplore.ieee.org/abstract/document/6386109/), [code](https://github.com/google-deepmind/mujoco)]
 
-* **Unity: A general platform for intelligent agents**, arXiv, 2020
+* **Unity: A general platform for intelligent agents**, ArXiv, 2020
 Juliani, Arthur, Vincent-Pierre, Berges, Ervin, Teng, Andrew, Cohen, Jonathan, Harper, Chris, Elion, Chris, Goy, Yuan, Gao, Hunter, Henry, Marwan, Mattar, Danny, Lange. 
+[[page](https://arxiv.org/pdf/1809.02627)]
 
-* **AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles**, Field and Service Robotics. 2017.
+* **AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles**, Field and Service Robotics, 2017
 Shital Shah, , Debadeepta Dey, Chris Lovett, Ashish Kapoor. 
+[[page](https://arxiv.org/pdf/1705.05065.pdf%20http://arxiv.org/abs/1705.05065)]
 
-* **MORSE: the Modular Open Robots Simulator Engine**
-ISAE-SUPAERO
+* **Modular open robots simulation engine: Morse**, ICRA, 2011
+Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{\'e}verin
+[[page](https://www.openrobots.org/morse/material/media/pdf/paper-icra.pdf)]
 
-* **V-REP: A versatile and scalable robot simulation framework**, IROS 2013.
+* **V-REP: A versatile and scalable robot simulation framework**, IROS, 2013
 Rohmer, Eric, Surya PN, Singh, Marc, Freese. 
-
+[[page](https://coppeliarobotics.com/coppeliaSim_v-rep_iros2013.pdf)]
 
 
 ### Real-Scene Based Simulators
-* **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**, NeurIPS, 2021.
+* **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**, NeurIPS, 2021
 Gan, Chuang, J., Schwartz, Seth, Alter, Martin, Schrimpf, James, Traer, JulianDe, Freitas, Jonas, Kubilius, Abhishek, Bhandwaldar, Nick, Haber, Megumi, Sano, Kuno, Kim, Elias, Wang, Damian, Mrowca, Michael, Lingelbach, Aidan, Curtis, KevinT., Feigelis, DavidM., Bear, Dan, Gutfreund, DavidD., Cox, JamesJ., DiCarlo, JoshH., McDermott, JoshuaB., Tenenbaum, Daniel, Yamins. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2007.04954)]
 
-* **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes**, IROS, 2021.
+* **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes**, IROS, 2021
 Shen, Bokui, Fei, Xia, Chengshu, Li, Roberto, Martín-Martín, Linxi, Fan, Guanzhi, Wang, Claudia, Pérez-D’Arpino, Shyamal, Buch, Sanjana, Srivastava, Lyne, Tchapmi, Micael, Tchapmi, Kent, Vainio, Josiah, Wong, Li, Fei-Fei, Silvio, Savarese. 
+[[page](https://arxiv.org/pdf/2012.02924)]
 
-* **SAPIEN: A SimulAted Part-Based Interactive ENvironment**, CVPR, 2020.
+* **SAPIEN: A SimulAted Part-Based Interactive ENvironment**, CVPR, 2020
 Xiang, Fanbo, Yuzhe, Qin, Kaichun, Mo, Yikuan, Xia, Hao, Zhu, Fangchen, Liu, Minghua, Liu, Hanxiao, Jiang, Yifu, Yuan, He, Wang, Li, Yi, Angel X., Chang, Leonidas J., Guibas, Hao, Su. 
+[[page](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.pdf)]
 
-* **Habitat: A Platform for Embodied AI Research**, ICCV, 2019.
+* **Habitat: A Platform for Embodied AI Research**, ICCV, 2019
 Savva, Manolis, Abhishek, Kadian, Oleksandr, Maksymets, Yili, Zhao, Erik, Wĳmans, Bhavana, Jain, Julian, Straub, Jia, Liu, Vladlen, Koltun, Jitendra, Malik, Devi, Parikh, Dhruv, Batra. 
+[[page](http://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf)]
 
 * **VirtualHome: Simulating Household Activities Via Programs**, CVPR, 2018.
 Puig, Xavier, Kevin, Ra, Marko, Boben, Jiaman, Li, Tingwu, Wang, Sanja, Fidler, Antonio, Torralba. 
+[[page](http://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments**, 3DV, 2017.
 Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner, Manolis, Savva, Shuran, Song, Andy, Zeng, Yinda, Zhang. 
+[[page](https://arxiv.org/pdf/1709.06158)]
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI**. arXiv, 2017.
 Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi. 
+[[page](https://arxiv.org/pdf/1712.05474)]
 
 * **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023.
 Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan. 
+[[page](https://arxiv.org/pdf/2311.01455)]
 
 * **Holodeck: Language Guided Generation of 3D Embodied AI Environments**, CVPR, 2024.
 Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark. 
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)]
 
 * **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, CVPR, 2024
 Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang. 
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
 * **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI 29. 6(2007): 1052–1067.
 Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse. 
+[[page]()]
 
 * **A multi-state constraint Kalman filter for vision-aided inertial navigation**, IROS, 2007.
 Mourikis, Anastasios I, Stergios I, Roumeliotis. 
+[[page]()]
 
 * **Parallel tracking and mapping for small AR workspaces**, ISMAR, 2007.
 Klein, Georg, David, Murray. 
+[[page]()]
 
 * **ORB-SLAM: a versatile and accurate monocular SLAM system** IEEE T-RO 31. 5(2015): 1147–1163.
 Mur-Artal, Raul, Jose Maria Martinez, Montiel, Juan D, Tardos. 
+[[page]()]
 
 * **DTAM: Dense tracking and mapping in real-time**, ICCV, 2011.
 Newcombe, Richard A, Steven J, Lovegrove, Andrew J, Davison. 
+[[page]()]
 
 * **LSD-SLAM: Large-scale direct monocular SLAM**, ECCV, 2014.
 Engel, Jakob, Thomas, Schops, Daniel, Cremers. 
+[[page]()]
 
 * **Slam++: Simultaneous localisation and mapping at the level of objects**, CVPR, 2013.
 Salas-Moreno, Renato F, Richard A, Newcombe, Hauke, Strasdat, Paul HJ, Kelly, Andrew J, Davison. 
+[[page]()]
 
 * **Cubeslam: Monocular 3-d object slam**, IEEE T-RO 35. 4(2019): 925–938.
 Yang, Shichao, Sebastian, Scherer. 
+[[page]()]
 
 * **Hierarchical topic model based object association for semantic SLAM**, IEEE T-VCG 25. 11(2019): 3052–3062.
 Zhang, Jianhua, Mengping, Gui, Qichao, Wang, Ruyu, Liu, Junzhe, Xu, Shengyong, Chen. 
+[[page]()]
 
 * **Quadricslam: Dual quadrics from object detections as landmarks in object-oriented slam**, IEEE Robotics and Automation Letters 4. 1(2018): 1–8.
 Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf. 
+[[page]()]
 
 * **So-slam: Semantic object slam with scale proportional and symmetrical texture constraints**. IEEE Robotics and Automation Letters 7. 2(2022): 4008–4015.
 Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang. 
+[[page]()]
 
 * **DS-SLAM: A semantic visual SLAM towards dynamic environments**, IROS, 2018.
 Yu, Chao, Zuxin, Liu, Xin-Jun, Liu, Fugui, Xie, Yi, Yang, Qi, Wei, Qiao, Fei. 
+[[page]()]
 
 * **DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes**, IEEE Robotics and Automation Letters 3. 4(2018): 4076–4083.
 Bescos, Berta, José M, Facil, Javier, Civera, José, Neira. 
+[[page]()]
 
 * **SG-SLAM: A real-time RGB-D visual SLAM toward dynamic scenes with semantic and geometric information**, IEEE Transactions on Instrumentation and Measurement 72. (2022): 1–12.
 Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang. 
+[[page]()]
+
 
 * **OVD-SLAM: An online visual SLAM for dynamic environments**, IEEE Sensors Journal, 2023.
 He, Jiaming, Mingrui, Li, Yangyang, Wang, Hongyu, Wang. 
+[[page]()]
+
 
 * **Gs-slam: Dense visual slam with 3d gaussian splatting**, CVPR, 2024.
 Yan, Chi, Delin, Qu, Dan, Xu, Bin, Zhao, Zhigang, Wang, Dong, Wang, Xuelong, Li. 
+[[page]()]
 
 * **Multi-view 3d object detection network for autonomous driving**, CVPR, 2017.
 Chen, Xiaozhi, Huimin, Ma, Ji, Wan, Bo, Li, Tian, Xia. 
+[[page]()]
 
 * **Pointpillars: Fast encoders for object detection from point clouds**, CVPR, 2019.
 Lang, Alex H, Sourabh, Vora, Holger, Caesar, Lubing, Zhou, Jiong, Yang, Oscar, Beijbom. 
+[[page]()]
 
 * **Multi-view convolutional neural networks for 3d shape recognition**, ICCV, 2015.
 Su, Hang, Subhransu, Maji, Evangelos, Kalogerakis, Erik, Learned-Miller. 
+[[page]()]
 
 * **Voxnet: A 3d convolutional neural network for real-time object recognition**, IROS, 2015.
 Maturana, Daniel, Sebastian, Scherer. 
+[[page]()]
 
 * **Semantic scene completion from a single depth image**, CVPR, 2017.
 Song, Shuran, Fisher, Yu, Andy, Zeng, Angel X, Chang, Manolis, Savva, Thomas, Funkhouser. 
+[[page]()]
 
 * **4d spatio-temporal convnets: Minkowski convolutional neural networks**, CVPR, 2019.
 Choy, Christopher, JunYoung, Gwak, Silvio, Savarese. 
+[[page]()]
 
 * **3d semantic segmentation with submanifold sparse convolutional networks**, CVPR, 2018.
 Graham, Benjamin, Martin, Engelcke, Laurens, Van Der Maaten. 
+[[page]()]
 
 * **Embodiedscan: A holistic multi-modal 3d perception suite towards embodied ai** CVPR, 2024.
 Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others. 
+[[page]()]
 
 * **Pointnet: Deep learning on point sets for 3d classification and segmentation**, CVPR, 2017.
 Qi, Charles R, Hao, Su, Kaichun, Mo, Leonidas J, Guibas. 
+[[page]()]
 
 * **Pointnet++: Deep hierarchical feature learning on point sets in a metric space**, NeurIPS, 2017
 Qi, Charles Ruizhongtai, Li, Yi, Hao, Su, Leonidas J, Guibas. 
+[[page]()]
 
 * **Rethinking network design and local geometry in point cloud: A simple residual MLP framework**, arXiv, 2022.
 Ma, Xu, Can, Qin, Haoxuan, You, Haoxi, Ran, Yun, Fu. 
+[[page]()]
 
 * **Point transformer**, ICCV, 2021.
 Zhao, Hengshuang, Li, Jiang, Jiaya, Jia, Philip HS, Torr, Vladlen, Koltun. 
+[[page]()]
 
 * **Swin3d: A pretrained transformer backbone for 3d indoor scene understanding**, arXiv, 2023.
 Yang, Yu-Qi, Yu-Xiao, Guo, Jian-Yu, Xiong, Yang, Liu, Hao, Pan, Peng-Shuai, Wang, Xin, Tong, Baining, Guo. 
+[[page]()]
 
 * **Point transformer v2: Grouped vector attention and partition-based pooling** NeurIPS, 2022
 Wu, Xiaoyang, Yixing, Lao, Li, Jiang, Xihui, Liu, Hengshuang, Zhao. 
+[[page]()]
 
 * **Point Transformer V3: Simpler Faster Stronger**, CVPR, 2024.
 Wu, Xiaoyang, Li, Jiang, Peng-Shuai, Wang, Zhijian, Liu, Xihui, Liu, Yu, Qiao, Wanli, Ouyang, Tong, He, Hengshuang, Zhao. 
+[[page]()]
 
 * **PointMamba: A Simple State Space Model for Point Cloud Analysis**, arXiv, 2024.
 Liang, Dingkang, Xin, Zhou, Xinyu, Wang, Xingkui, Zhu, Wei, Xu, Zhikang, Zou, Xiaoqing, Ye, Xiang, Bai. 
+[[page]()]
 
 * **Point Could Mamba: Point Cloud Learning via State Space Model**, arXiv, 2024.
 Zhang, Tao, Xiangtai, Li, Haobo, Yuan, Shunping, Ji, Shuicheng, Yan. 
+[[page]()]
 
 * **Mamba3d: Enhancing local features for 3d point cloud analysis via state space model** arXiv, 2024.
 Han, Xu, Yuan, Tang, Zhaoxuan, Wang, Xianzhi, Li. 
+[[page]()]
 
 * **The curious robot: Learning visual representations via physical interactions**, ECCV, 2016.
 Pinto, Lerrel, Dhiraj, Gandhi, Yuanfeng, Han, Yong-Lae, Park, Abhinav, Gupta. 
+[[page]()]
 
 * **Transferring implicit knowledge of non-visual object properties across heterogeneous robot morphologies**, ICRA, 2023.
 Tatiya, Gyan, Jonathan, Francis, Jivko, Sinapov. 
+[[page]()]
 
 * **Learning to look around: Intelligently exploring unseen environments for unknown tasks**, CVPR, 2018.
 Jayaraman, Dinesh, Kristen, Grauman. 
+[[page]()]
 
 * **Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering**, IROS, 2023.
 Jin, Liren, Xieyuanli, Chen, Julius, Rückin, Marija, Popovi\'c. 
+[[page]()]
 
 * **Off-policy evaluation with online adaptation for robot exploration in challenging environments**, IEEE Robotics and Automation Letters, 2023.
 Hu, Yafei, Junyi, Geng, Chen, Wang, John, Keller, Sebastian, Scherer. 
+[[page]()]
 
 * **Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception**, CVPR, 2024.
 Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
+[[page]()]
 
 
 ### 3D Visual Grounding
@@ -319,97 +376,127 @@ Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments**, CVPR, 2018.
 Anderson, Peter, Qi, Wu, Damien, Teney, Jake, Bruce, Mark, Johnson, Niko, Sunderhauf, Ian, Reid, Stephen, Gould, Anton, Hengel. 
+[[page]()]
 
 * **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation**, ACL, 2019.
 Jain, Vihan, Gabriel, Magalhaes, Alexander, Ku, Ashish, Vaswani, Eugene, Ie, Jason, Baldridge. 
+[[page]()]
 
 * **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**, ECCV, 2020,
 Krantz, Jacob and Wijmans, Erik and Majumdar, Arjun and Batra, Dhruv and Lee, Stefan.
+[[page]()]
 
 * **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments**, CVPR, 2019.
 Chen, Howard, Alane, Suhr, Dipendra, Misra, Noah, Snavely, Yoav, Artzi. 
+[[page]()]
 
 * **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments**, CVPR, 2020.
 Qi, Yuankai, Qi, Wu, Peter, Anderson, Xin, Wang, William Yang, Wang, Chunhua, Shen, Anton, Hengel. 
+[[page]()]
 
 * **SOON: Scenario Oriented Object Navigation with Graph-based Exploration**, CVPR, 2021.
 Zhu, Fengda, Xiwen, Liang, Yi, Zhu, Qizhi, Yu, Xiaojun, Chang, Xiaodan, Liang. 
+[[page]()]
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks**, CVPR, 2020.
 Shridhar, Mohit, Jesse, Thomason, Daniel, Gordon, Yonatan, Bisk, Winson, Han, Roozbeh, Mottaghi, Luke, Zettlemoyer, Dieter, Fox. 
+[[page]()]
 
 * **HomeRobot: Open-Vocabulary Mobile Manipulation**, arXiv, 2023.
 Yenamandra, Sriram, Arun, Ramachandran, Karmesh, Yadav, Austin, Wang, Mukul, Khanna, Theophile, Gervet, Tsung-Yen, Yang, Vidhi, Jain, AlexanderWilliam, Clegg, John, Turner, Zsolt, Kira, Manolis, Savva, Angel, Chang, DevendraSingh, Chaplot, Dhruv, Batra, Roozbeh, Mottaghi, Yonatan, Bisk, Chris, Paxton. 
+[[page]()]
 
 * **Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation**, Conference on Robot Learning. 2023.
 Li, Chengshu, Ruohan, Zhang, Josiah, Wong, Cem, Gokmen, Sanjana, Srivastava, Roberto, Mart\in-Mart\'\in, Chen, Wang, Gabrael, Levine, Michael, Lingelbach, Jiankai, Sun, others. 
+[[page]()]
 
 * **Vision-and-dialog navigation**, Conference on Robot Learning. 2020.
 Thomason, Jesse, Michael, Murray, Maya, Cakmak, Luke, Zettlemoyer. 
+[[page]()]
 
 * **DialFRED: Dialogue-Enabled Agents for Embodied Instruction Following**, arXiv, 2022.
 Gao, Xiaofeng, Qiaozi, Gao, Ran, Gong, Kaixiang, Lin, Govind, Thattai, GauravS., Sukhatme. 
+[[page]()]
 
 * **Language and visual entity relationship graph for agent navigation**, NeurIPS, 2020.
 Hong, Yicong, Cristian, Rodriguez, Yuankai, Qi, Qi, Wu, Stephen, Gould. 
+[[page]()]
 
 * **Language-Guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning**, IEEE T-CSVT 31. (2020): 3469-3481.
 Weixia Zhang, , Chao Ma, Qi Wu, Xiaokang Yang. 
+[[page]()]
 
 * **Vision-Language Navigation Policy Learning and Adaptation**, IEEE T-PAMI 43. 12(2021): 4205-4216.
 Wang, Xin, Qiuyuan, Huang, Asli, Celikyilmaz, Jianfeng, Gao, Dinghan, Shen, Yuan-Fang, Wang, William Yang, Wang, Lei, Zhang. 
+[[page]()]
 
 * **FILM: Following Instructions in Language with Modular Methods**, ICLR, 2022.
 So Yeon Min, , Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov. 
+[[page]()]
 
 * **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, Conference on Robot Learning. 2022.
 Dhruv Shah, , Blazej Osinski, Brian Ichter, Sergey Levine. 
+[[page]()]
 
 * **HOP: History-and-Order Aware Pretraining for Vision-and-Language Navigation**, CVPR, 2022.
 Qiao, Yanyuan, Yuankai, Qi, Yicong, Hong, Zheng, Yu, Peng, Wang, Qi, Wu. 
+[[page]()]
 
 * **Towards Learning a Generalist Model for Embodied Navigation**, CVPR, 2024.
 Duo Zheng, , Shijia Huang, Lin Zhao, Yiwu Zhong, Liwei Wang. 
+[[page]()]
 
 * **Fast-Slow Test-time Adaptation for Online Vision-and-Language Navigation** ICML, 2024.
 Junyu Gao, , Xuan Yao, Changsheng Xu. 
+[[page]()]
 
 * **Discuss before moving: Visual language navigation via multi-expert discussions**, ICRA, 2024.
 Long, Yuxing, Xiaoqi, Li, Wenzhe, Cai, Hao, Dong. 
+[[page]()]
 
 * **Vision-and-Language Navigation via Causal Learning**, CVPR, 2024.
 Liuyi Wang, Qijun Chen. 
+[[page]()]
 
 * **Volumetric Environment Representation for Vision-Language Navigation**, CVPR, 2024.
 Rui Liu, Yi Yang. 
+[[page]()]
 
 * **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**, ArXiv, 2024.
 Jiazhao Zhang, , Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang, Qi Wu, Zhizheng Zhang, Wang He. 
+[[page]()]
 
 * **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**, ECCV, 2018.
 Xin Eric Wang, , Wenhan Xiong, Hongmin Wang, William Yang Wang. 
+[[page]()]
 
 * **Neighbor-view enhanced model for vision and language navigation**, MM, 2021.
 An, Dong, Yuankai, Qi, Yan, Huang, Qi, Wu, Liang, Wang, Tieniu, Tan. 
+[[page]()]
 
 * **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**, CVPR, 2022.
 Hong, Yicong, Zun, Wang, Qi, Wu, Stephen, Gould. 
+[[page]()]
 
 * **March in Chat: Interactive Prompting for Remote Embodied Referring Expression**, ICCV, 2023.
 Qiao, Yanyuan, Yuankai, Qi, Zheng, Yu, Jing, Liu, Qi, Wu. 
+[[page]()]
 
 * **Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**, CVPR 2024.
 Wang, Zihan, Xiangyang, Li, Jiahao, Yang, Yeqi, Liu, Junjie, Hu, Ming, Jiang, Shuqiang, Jiang. 
+[[page]()]
 
 * **ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**, IEEE T-PAMI, 2024.
 An, Dong, Hanqing, Wang, Wenguan, Wang, Zun, Wang, Yan, Huang, Keji, He, Liang, Wang. 
+[[page]()]
 
 * **Multi-level compositional reasoning for interactive instruction following**, AAAI, 2023.
 Bhambri, Suvaansh, Byeonghwi, Kim, Jonghyun, Choi. 
+[[page]()]
 
 * **Vision and Language Navigation in the Real World via Online Visual Language Mapping**, ArXiv, 2023.
 Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong. 
-
+[[page]()] 
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 * **Embodied Question Answering**, CVPR, 2018
@@ -566,165 +653,210 @@ Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jiron
 
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
-
-
 * **Rt-1: Robotics transformer for real-world control at scale**, ArXiv, 2022.
 Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis, Chelsea, Finn, Keerthana, Gopalakrishnan, Karol, Hausman, Alex, Herzog, Jasmine, Hsu, others. 
+[[page]()]
 
 * **Do as i can, not as i say: Grounding language in robotic affordances**, Conference on robot learning. 2023.
 Brohan, Anthony, Yevgen, Chebotar, Chelsea, Finn, Karol, Hausman, Alexander, Herzog, Daniel, Ho, Julian, Ibarz, Alex, Irpan, Eric, Jang, Ryan, Julian.
+[[page]()]
 
 * **Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions**, Conference on Robot Learning. 2023.
 Chebotar, Yevgen, Quan, Vuong, Karol, Hausman, Fei, Xia, Yao, Lu, Alex, Irpan, Aviral, Kumar, Tianhe, Yu, Alexander, Herzog, Karl, Pertsch, others. 
+[[page]()]
 
 * **Palm-e: An embodied multimodal language model**, ArXiv, 2023.
 Driess, Danny, Fei, Xia, Mehdi SM, Sajjadi, Corey, Lynch, Aakanksha, Chowdhery, Brian, Ichter, Ayzaan, Wahid, Jonathan, Tompson, Quan, Vuong, Tianhe, Yu, others. 
+[[page]()]
 
 * **Rt-2: Vision-language-action models transfer web knowledge to robotic control**, Conference on Robot Learning. 2023.
 Zitkovich, Brianna, Tianhe, Yu, Sichun, Xu, Peng, Xu, Ted, Xiao, Fei, Xia, Jialin, Wu, Paul, Wohlhart, Stefan, Welker, Ayzaan, Wahid, others. 
+[[page]()]
 
 * **Rt-h: Action hierarchies using language**, ArXiv, 2024.
 Belkhale, Suneel, Tianli, Ding, Ted, Xiao, Pierre, Sermanet, Quon, Vuong, Jonathan, Tompson, Yevgen, Chebotar, Debidatta, Dwibedi, Dorsa, Sadigh. 
+[[page]()]
 
 * **Open x-embodiment: Robotic learning datasets and rt-x models**, arXiv preprint arXiv:2310.08864. (2023).
 Padalkar, , others. 
+[[page]()]
 
 * **Embodiedgpt: Vision-language pre-training via embodied chain of thought**, NeurIPS, 2024
 Mu, Yao, Qinglong, Zhang, Mengkang, Hu, Wenhai, Wang, Mingyu, Ding, Jun, Jin, Bin, Wang, Jifeng, Dai, Yu, Qiao, Ping, Luo. 
+[[page]()]
 
 * **Vision-language foundation models as effective robot imitators**, ArXiv, 2023.
 Li, Xinghang, Minghuan, Liu, Hanbo, Zhang, Cunjun, Yu, Jie, Xu, Hongtao, Wu, Chilam, Cheang, Ya, Jing, Weinan, Zhang, Huaping, Liu, others. 
+[[page]()]
 
 * **Autort: Embodied foundation models for large scale orchestration of robotic agents**, arXiv preprint arXiv:2401.12963. (2024).
 Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others. 
+[[page]()]
 
 * **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, ArXiv, 2023.
 Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others. 
+[[page]()]
 
 * **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, ArXiv, 2024.
 Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An, Senqiao, Yang, Renrui, Zhang, Yandong, Guo, Shanghang, Zhang. 
+[[page]()]
 
 * **Rt-h: Action hierarchies using language**, ArXiv, 2024.
 Belkhale, Suneel, Tianli, Ding, Ted, Xiao, Pierre, Sermanet, Quon, Vuong, Jonathan, Tompson, Yevgen, Chebotar, Debidatta, Dwibedi, Dorsa, Sadigh. 
+[[page]()]
 
 * **Cliport: What and where pathways for robotic manipulation**, Conference on robot learning. 2022.
 Shridhar, Mohit, Lucas, Manuelli, Dieter, Fox. 
+[[page]()]
 
 * **Strips: A new approach to the application of theorem proving to problem solving**, Artificial Intelligence 2. 3(1971): 189-208.
 Richard E. Fikes, , Nils J. Nilsson. 
+[[page]()]
 
 * **PDDL-the planning domain definition language**, Technical Report. 1998.
 Drew McDermott, , Malik Ghallab, Adele E. Howe, Craig A. Knoblock, Ashwin Ram, Manuela M. Veloso, Daniel S. Weld, David E. Wilkins. 
+[[page]()]
 
 * **The Monte Carlo method**, Journal of the American Statistical Association 44 247. (1949): 335-41 .
 Nicholas C. Metropolis, , S. M. Ulam. 
+[[page]()]
 
 * **A Formal Basis for the Heuristic Determination of Minimum Cost Paths**, IEEE Trans. Syst. Sci. Cybern. 4. (1968): 100-107.
 Peter E. Hart, , Nils J. Nilsson, Bertram Raphael. 
+[[page]()]
 
 * **Language models as zero-shot planners: Extracting actionable knowledge for embodied agents**, ICML, 2022.
 Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch. 
+[[page]()]
 
 * **Inner Monologue: Embodied Reasoning through Planning with Language Models**, Conference on Robot Learning, 2022.
 Huang, Wenlong, Fei, Xia, Ted, Xiao, Harris, Chan, Jacky, Liang, Pete, Florence, Andy, Zeng, Jonathan, Tompson, Igor, Mordatch, Yevgen, Chebotar, Pierre, Sermanet, Noah, Brown, Tomas, Jackson, Linda, Luu, Sergey, Levine, Karol, Hausman, Brian, Ichter. 
+[[page]()]
 
 * **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, ICML, 2022.
 Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch. 
+[[page]()]
 
 * **Lota-bench: Benchmarking language-oriented task planners for embodied agents**, ArXiv, 2024.
 Choi, Jae-Woo, Youngwoo, Yoon, Hyobin, Ong, Jaehong, Kim, Minsu, Jang. 
+[[page]()]
 
 * **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**, ICCV, 2023
 Chan Hee Song, , Jiaman Wu, Clay Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su. 
+[[page]()]
 
 * **Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models** EMNLP, 2023.
 Sarch, Gabriel, Yue, Wu, Michael J., Tarr, Katerina, Fragkiadaki. 
+[[page]()]
 
 * **Voyager: An Open-Ended Embodied Agent with Large Language Models**, (2023).
 Wang, Guanzhi, Yuqi, Xie, Yunfan, Jiang, Ajay, Mandlekar, Chaowei, Xiao, Yuke, Zhu, Linxi, Fan, Anima, Anandkumar. 
+[[page]()]
 
 * **Skill Induction and Planning with Latent Language**, ACL, 2021.
 Pratyusha Sharma, , Antonio Torralba, Jacob Andreas. 
+[[page]()]
 
 * **ReAct: Synergizing Reasoning and Acting in Language Models** (2023).
 Yao, Shunyu, Jeffrey, Zhao, Dian, Yu, Nan, Du, Izhak, Shafran, Karthik, Narasimhan, Yuan, Cao. 
+[[page]()]
 
 * **ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models** (2022).
 Singh, Ishika, Valts, Blukis, Arsalan, Mousavian, Ankit, Goyal, Danfei, Xu, Jonathan, Tremblay, Dieter, Fox, Jesse, Thomason, Animesh, Garg. 
+[[page]()]
 
 * **ChatGPT for Robotics: Design Principles and Model Abilities**, IEEE Access 12. (2023): 55682-55696.
 Sai Vemprala, , Rogerio Bonatti, Arthur Fender C. Bucker, Ashish Kapoor. 
+[[page]()]
 
 * **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,
 Jacky Liang, , Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng. 
+[[page]()]
 
 * **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** (2022).
 Zeng, Andy, Maria, Attarian, Brian, Ichter, Krzysztof, Choromanski, Adrian, Wong, Stefan, Welker, Federico, Tombari, Aveek, Purohit, Michael, Ryoo, Vikas, Sindhwani, Johnny, Lee, Vincent, Vanhoucke, Pete, Florence. 
+[[page]()]
 
 * **Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following** (2024).
 Suyeon Shin, , Sujin jeon, Junghyun Kim, Gi-Cheon Kang, Byoung-Tak Zhang. 
+[[page]()]
 
 * **The Monte Carlo method**, Journal of the American Statistical Association 44 247. (1949): 335-41 .
 Nicholas C. Metropolis, , S. M. Ulam. 
+[[page]()]
 
 * **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning** (2023).
 Zhao, Zirui, Wee Sun, Lee, David, Hsu. 
+[[page]()]
 
 * **Reasoning with Language Model Is Planning with World Model** (2023).
 Hao, Shibo, Yi, Gu, Haodi, Ma, Joshua Jiahua, Hong, Zhen, Wang, Daisy Zhe, Wang, Zhiting, Hu. 
+[[page]()]
 
 
 * **LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**, arXiv, 2023.
 Haonan Chang, , Kai Gao, Kowndinya Boyalakuntla, Alex Lee, Baichuan Huang, Harish Udhaya Kumar, Jinjin Yu, Abdeslam Boularias. 
+[[page]()]
 
 * **Translating Natural Language to Planning Goals with Large-Language Models**, arXiv, 2023.
 Xie, Yaqi, Chen, Yu, Tongyao, Zhu, Jinbin, Bai, Ze, Gong, Harold, Soh. 
+[[page]()]
 
 * **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arXiv, 2023.
 Liu, Bo, Yuqian, Jiang, Xiaohan, Zhang, Qiang, Liu, Shiqi, Zhang, Joydeep, Biswas, Peter, Stone. 
+[[page]()]
 
 * **Generalized Planning in PDDL Domains with Pretrained Large Language Models**, arXiv, 2023.
 Silver, Tom, Soham, Dan, Kavitha, Srinivas, Joshua B., Tenenbaum, Leslie Pack, Kaelbling, Michael, Katz. 
+[[page]()]
 
 * **Dynamic Planning with a LLM**, arXiv, 2023.
 Dagan, Gautier, Frank, Keller, Alex, Lascarides. 
+[[page]()]
 
 * **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** arXiv, 2024.
 Zhang, Yang, Shixin, Yang, Chenjia, Bai, Fei, Wu, Xiu, Li, Xuelong, Li, Zhen, Wang. 
+[[page]()]
 
 * **Embodied Task Planning with Large Language Models**, arXiv, 2023.
 Wu, Zhenyu, Ziwei, Wang, Xiuwei, Xu, Jiwen, Lu, Haibin, Yan. 
+[[page]()]
 
 * **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning**, Conference on Robot Learning. 2023.
 Krishan Rana, , Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian D. Reid, Niko Sunderhauf. 
+[[page]()]
 
 * **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**, ArXiv, 2023.
 Qiao Gu, , Ali Kuwajerwala, Sacha Morin, Krishna Murthy Jatavallabhula, Bipasha Sen, Aditya Agarwal, Corban Rivera, William Paul, Kirsty Ellis, Ramalingam Chellappa, Chuang Gan, Celso Miguel de Melo, Joshua B Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull. 
+[[page]()]
 
 * **RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks**, arXiv, 2023.
 Yaran Chen, , Wenbo Cui, Yuanwen Chen, Mining Tan, Xinyao Zhang, Dong Zhao, He Wang. 
+[[page]()]
 
 * **Embodied Instruction Following in Unknown Environments**, arXiv, 2024.
 Zhenyu Wu, , Ziwei Wang, Xiuwei Xu, Jiwen Lu, Haibin Yan. 
+[[page]()]
 
 * **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models** (2023).
 Zhao, Xufeng, Mengdi, Li, Cornelius, Weber, Muhammad Burhan, Hafez, Stefan, Wermter. 
+[[page]()]
 
 * **Video Language Planning**, (2023).
 Du, Yilun, Mengjiao, Yang, Pete, Florence, Fei, Xia, Ayzaan, Wahid, Brian, Ichter, Pierre, Sermanet, Tianhe, Yu, Pieter, Abbeel, Joshua B., Tenenbaum, Leslie, Kaelbling, Andy, Zeng, Jonathan, Tompson. 
+[[page]()]
 
 * **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,
 Jacky Liang, , Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng. 
+[[page]()]
 
 * **Reflexion: an autonomous agent with dynamic memory and self-reflection**, ArXiv, 2023.
 Noah Shinn, , Beck Labash, A. Gopinath. 
+[[page]()]
 
 * **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** ArXiv, 2023.
 Zihao Wang, , Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang. 
-
-
-
-
+[[page]()]
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
 * **World Models**, NIPS, 2018
