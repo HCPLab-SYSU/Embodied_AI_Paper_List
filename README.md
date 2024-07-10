@@ -205,11 +205,11 @@ Qi, Charles R, Hao, Su, Kaichun, Mo, Leonidas J, Guibas.
 * **Pointnet++: Deep hierarchical feature learning on point sets in a metric space**, NeurIPS, 2017
 Qi, Charles Ruizhongtai, Li, Yi, Hao, Su, Leonidas J, Guibas. 
 
-Ma, Xu, Can, Qin, Haoxuan, You, Haoxi, Ran, Yun, Fu. 
 * **Rethinking network design and local geometry in point cloud: A simple residual MLP framework**, arXiv, 2022.
+Ma, Xu, Can, Qin, Haoxuan, You, Haoxi, Ran, Yun, Fu. 
 
-Zhao, Hengshuang, Li, Jiang, Jiaya, Jia, Philip HS, Torr, Vladlen, Koltun. 
 * **Point transformer**, ICCV, 2021.
+Zhao, Hengshuang, Li, Jiang, Jiaya, Jia, Philip HS, Torr, Vladlen, Koltun. 
 
 * **Swin3d: A pretrained transformer backbone for 3d indoor scene understanding**, arXiv, 2023.
 Yang, Yu-Qi, Yu-Xiao, Guo, Jian-Yu, Xiong, Yang, Liu, Hao, Pan, Peng-Shuai, Wang, Xin, Tong, Baining, Guo. 
