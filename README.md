@@ -10,13 +10,13 @@ Paper list for Embodied AI
 
 **Aligning Cyber Space with Physical World: A Survey on Embodied AI**, 
   [[Yang Liu](https://yangliu9208.github.io)], Weixing Chen, Yongjie Bai, Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, Ganlong Zhao, Junyi Lin, Guanbin Li, Wen Gao, Liang Lin 
-  [[PDF](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/EmbodiedAI_survey_v1.pdf)] 
+  [[PDF](https://arxiv.org/pdf/2407.06886)] 
 <p align="center">
 <img src="https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/survey.jpg" width="800">
 </p>  
 
 ## :collision: Update Log 
-* [2024.07.10] We release the first version of the survey on Embodied AI!
+* [2024.07.10] We release the first version of the survey on Embodied AI [PDF](https://arxiv.org/pdf/2407.06886)!
 * [2024.06.07] We release the first version of the paper list for Embodied AI. This page is continually updating!
     
 ## Books & Surveys 
