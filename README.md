@@ -412,9 +412,509 @@ Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong.
 
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
+* **Embodied Question Answering**, CVPR, 2018
+Das, Abhishek and Datta, Samyak and Gkioxari, Georgia and Lee, Stefan and Parikh, Devi and Batra, Dhruv
+[[page]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Das_Embodied_Question_Answering_CVPR_2018_paper.pdf)
+
+* **Multi-Target Embodied Question Answering**, CVPR, 2019
+Yu, Licheng and Chen, Xinlei and Gkioxari, Georgia and Bansal, Mohit and Berg, Tamara L and Batra, Dhruv
+[[page]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.pdf)
+
+* **Embodied Question Answering in Photorealistic Environments with Point Cloud Perception**, CVPR, 2019
+Wijmans, Erik and Datta, Samyak and Maksymets, Oleksandr and Das, Abhishek and Gkioxari, Georgia and Lee, Stefan and Essa, Irfan and Parikh, Devi and Batra, Dhruv
+[[page]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wijmans_Embodied_Question_Answering_in_Photorealistic_Environments_With_Point_Cloud_Perception_CVPR_2019_paper.pdf)
+
+* **IQA: Visual Question Answering in Interactive Environments**, CVPR, 2018
+Gordon, Daniel and Kembhavi, Aniruddha and Rastegari, Mohammad and Redmon, Joseph and Fox, Dieter and Farhadi, Ali
+[[page]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_IQA_Visual_Question_CVPR_2018_paper.pdf)
+
+* **VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering**, BMVC, 2019
+Cangea, C{\u{a}}t{\u{a}}lina and Belilovsky, Eugene and Li{\`o}, Pietro and Courville, Aaron
+[[page]](https://arxiv.org/pdf/1908.04950)
+
+* **Knowledge-based Embodied Question Answering**, TPAMI, 2023
+Tan, Sinan and Ge, Mengmeng and Guo, Di and Liu, Huaping and Sun, Fuchun
+[[page]](https://pubmed.ncbi.nlm.nih.gov/37195849/)
+
+* **OpenEQA: Embodied Question Answering in the Era of Foundation Models**, CVPR, 2024
+Majumdar, Arjun and Ajay, Anurag and Zhang, Xiaohan and Putta, Pranav and Yenamandra, Sriram and Henaff, Mikael and Silwal, Sneha and Mcvay, Paul and Maksymets, Oleksandr and Arnaud, Sergio and others
+[[page]](http://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf)
+
+* **Explore until Confident: Efficient Exploration for Embodied Question Answering**, ICRA Workshop VLMNM, 2024
+Ren, Allen Z and Clark, Jaden and Dixit, Anushri and Itkina, Masha and Majumdar, Anirudha and Sadigh, Dorsa
+[[page]](https://arxiv.org/pdf/2403.15941)
+
+* **S-EQA: Tackling Situational Queries in Embodied Question Answering**, arXix, 2024
+Dorbala, Vishnu Sashank and Goyal, Prasoon and Piramuthu, Robinson and Johnston, Michael and Manocha, Dinesh and Ghanadhan, Reza
+[[page]](https://arxiv.org/pdf/2405.04732)
+
+* **Building Generalizable Agents with a Realistic and Rich 3D Environment**, ECCV, 2018
+Wu, Yi and Wu, Yuxin and Gkioxari, Georgia and Tian, Yuandong
+[[page]](https://arxiv.org/pdf/1801.02209)
+
+* **MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments**, ECCV, 2018
+Savva, Manolis and Chang, Angel X and Dosovitskiy, Alexey and Funkhouser, Thomas and Koltun, Vladlen
+[[page]](https://arxiv.org/pdf/1712.03931)
+
+* **Matterport3D: Learning from rgb-d data in indoor environments,**, IEEE International Conference on 3D Vision, 2017
+Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niessner, Matthias and Savva, Manolis and Song, Shuran and Zeng, Andy and Zhang, Yinda
+[[page]](https://arxiv.org/pdf/1709.06158)
+
+* **ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes**, CVPR, 2017
+Dai, Angela and Chang, Angel X and Savva, Manolis and Halber, Maciej and Funkhouser, Thomas and Nie{\ss}ner, Matthias
+[[page]](https://www.computer.org/csdl/proceedings-article/cvpr/2017/0457c432/12OmNyRg4C5)
+
+* **Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI**, NeurIPS, 2021
+Ramakrishnan, Santhosh K and Gokaslan, Aaron and Wijmans, Erik and Maksymets, Oleksandr and Clegg, Alex and Turner, John and Undersander, Eric and Galuba, Wojciech and Westbury, Andrew and Chang, Angel X and others
+[[page]](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/34173cb38f07f89ddbebc2ac9128303f-Paper-round2.pdf)
+
+* **Neural Modular Control for Embodied Question Answering**, ECCV, 2018
+Das, Abhishek and Gkioxari, Georgia and Lee, Stefan and Parikh, Devi and Batra, Dhruv
+[[page]](https://authors.library.caltech.edu/records/ykvm4-2ed40/files/1810.11181.pdf)
+
+* **Revisiting EmbodiedQA: A Simple Baseline and Beyond**, IEEE Transactions on Image Processing, 2020
+Wu, Yu and Jiang, Lu and Yang, Yi
+[[page]](https://opus.lib.uts.edu.au/rest/bitstreams/ee2d1faf-ce3b-4f63-a133-4217d19e9db1/retrieve)
+
+* **Multi-agent Embodied Question Answering in Interactive Environments**, ECCV, 2020
+Tan, Sinan and Xiang, Weilai and Liu, Huaping and Guo, Di and Sun, Fuchun
+[[page]](https://dl.acm.org/doi/abs/10.1007/978-3-030-58601-0_39)
+
+* **A frontier-based approach for autonomous exploration**, CIRA, 1997
+Yamauchi, Brian
+[[page]](https://dl.acm.org/doi/abs/10.5555/523996.793157)
+
+* **Map-based Modular Approach for Zero-shot Embodied Question Answering**, arXiv, 2024
+Sakamoto, Koya and Azuma, Daichi and Miyanishi, Taiki and Kurita, Shuhei and Kawanabe, Motoaki
+[[page]](https://ui.adsabs.harvard.edu/abs/2024arXiv240516559S/abstract)
+
+* **Embodied Question Answering via Multi-LLM Systems**, arXiv, 2024
+Bhrij Patel and Vishnu Sashank Dorbala and Amrit Singh Bedi
+[[page]](https://arxiv.org/pdf/2406.10918)
+
+* **Language Models are Few-Shot Learners**, NIPS, 2020
+Brown, Tom and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared D and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others
+[[page]](https://dl.acm.org/doi/pdf/10.5555/3495724.3495883)
+
+* **Deep Learning Approaches to Grasp Synthesis: A Review**, IEEE Transactions on Robotics, 2023
+Newbury, Rhys and Gu, Morris and Chumbley, Lachlan and Mousavian, Arsalan and Eppner, Clemens and Leitner, J{\"u}rgen and Bohg, Jeannette and Morales, Antonio and Asfour, Tamim and Kragic, Danica and others
+[[page]](https://dl.acm.org/doi/abs/10.1109/TRO.2023.3280597)
+
+* **End-to-end Trainable Deep Neural Network for Robotic Grasp Detection and Semantic Segmentation from RGB**, ICRA, 2021
+Ainetter, Stefan and Fraundorfer, Friedrich
+[[page]](https://elib.dlr.de/146134/)
+
+* **Jacquard: A Large Scale Dataset for Robotic Grasp Detection**, IROS, 2018
+Depierre, Amaury and Dellandr{\'e}a, Emmanuel and Chen, Liming
+[[page]](https://ieeexplore.ieee.org/abstract/document/8593950)
+
+* **Efficient grasping from RGBD images: Learning using a new rectangle representation**, IEEE International Conference on Robotics and Automation, 2011
+Jiang, Yun and Moseson, Stephen and Saxena, Ashutosh
+[[page]](https://ieeexplore.ieee.org/abstract/document/5980145)
+
+* **Shape Completion Enabled Robotic Grasping**, IROS, 2017
+Varley, Jacob and DeChant, Chad and Richardson, Adam and Ruales, Joaqu{\'\i}n and Allen, Peter
+[[page]](https://ieeexplore.ieee.org/abstract/document/8206060)
+
+* **GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping**, CVPR, 2020
+Fang, Hao-Shu and Wang, Chenxi and Gou, Minghao and Lu, Cewu
+[[page]](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.html)
+
+* **ACRONYM: A Large-Scale Grasp Dataset Based on Simulation**, ICRA, 2021
+Eppner, Clemens and Mousavian, Arsalan and Fox, Dieter
+[[page]](https://ieeexplore.ieee.org/abstract/document/9560844)
+
+* **6-DOF GraspNet: Variational Grasp Generation for Object Manipulation**, ICCV, 2019
+Mousavian, Arsalan and Eppner, Clemens and Fox, Dieter
+[[page]](https://openaccess.thecvf.com/content_ICCV_2019/html/Mousavian_6-DOF_GraspNet_Variational_Grasp_Generation_for_Object_Manipulation_ICCV_2019_paper.html)
+
+* **MultiGripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands**, arXiv, 2024
+Murrilo, Luis Felipe Casas and Khargonkar, Ninad and Prabhakaran, Balakrishnan and Xiang, Yu
+[[page]](https://arxiv.org/abs/2403.09841)
+
+* **Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter**, CoRL, 2023
+Tziafas, Georgios and Xu, Yucheng and Goel, Arushi and Kasaei, Mohammadreza and Li, Zhibin and Kasaei, Hamidreza
+[[page]](https://www.research.ed.ac.uk/en/publications/language-guided-robot-grasping-clip-based-referring-grasp-synthes)
+
+* **Reasoning Grasping via Multimodal Large Language Model**, arXiv, 2024
+Jin, Shiyu and Xu, Jinxuan and Lei, Yutian and Zhang, Liangjun
+[[page]](https://arxiv.org/abs/2402.06798)
+
+* **Reasoning Tuning Grasp: Adapting Multi-Modal Large Language Models for Robotic Grasping**, CoRL, 2023 
+Xu, Jinxuan and Jin, Shiyu and Lei, Yutian and Zhang, Yuqian and Zhang, Liangjun
+[[page]](https://openreview.net/forum?id=3mKb5iyZ2V)
+
+* **SemGrasp: Semantic Grasp Generation via Language Aligned Discretization**, CoRR, 2024
+Li, Kailin and Wang, Jingbo and Yang, Lixin and Lu, Cewu and Dai, Bo
+[[page]](https://openreview.net/forum?id=WUbr8NV1G6)
+
+* **CLIPort: What and Where Pathways for Robotic Manipulation**, CoRL, 2022
+Shridhar, Mohit and Manuelli, Lucas and Fox, Dieter
+[[page]](https://proceedings.mlr.press/v164/shridhar22a.html)
+
+* **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation**, CoRL, 2023
+Shen, William and Yang, Ge and Yu, Alan and Wong, Jansen and Kaelbling, Leslie Pack and Isola, Phillip
+[[page]](https://proceedings.mlr.press/v229/shen23a.html)
+
+* **GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**, arXiv, 2024
+Zheng, Yuhang and Chen, Xiangyu and Zheng, Yupeng and Gu, Songen and Yang, Runyi and Jin, Bu and Li, Pengfei and Zhong, Chengliang and Wang, Zengmao and Liu, Lina and others
+[[page]](https://arxiv.org/abs/2403.09637)
+
+* **AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains**, IEEE Transactions on Robotics, 2023
+Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jirong and Yan, Hengxu and Liu, Wenhai and Xie, Yichen and Lu, Cewu
+[[page]](https://ieeexplore.ieee.org/abstract/document/10167687)
+
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
+
+
+* **Rt-1: Robotics transformer for real-world control at scale**, ArXiv, 2022.
+Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis, Chelsea, Finn, Keerthana, Gopalakrishnan, Karol, Hausman, Alex, Herzog, Jasmine, Hsu, others. 
+
+* **Do as i can, not as i say: Grounding language in robotic affordances**, Conference on robot learning. 2023.
+Brohan, Anthony, Yevgen, Chebotar, Chelsea, Finn, Karol, Hausman, Alexander, Herzog, Daniel, Ho, Julian, Ibarz, Alex, Irpan, Eric, Jang, Ryan, Julian.
+
+* **Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions**, Conference on Robot Learning. 2023.
+Chebotar, Yevgen, Quan, Vuong, Karol, Hausman, Fei, Xia, Yao, Lu, Alex, Irpan, Aviral, Kumar, Tianhe, Yu, Alexander, Herzog, Karl, Pertsch, others. 
+
+* **Palm-e: An embodied multimodal language model**, ArXiv, 2023.
+Driess, Danny, Fei, Xia, Mehdi SM, Sajjadi, Corey, Lynch, Aakanksha, Chowdhery, Brian, Ichter, Ayzaan, Wahid, Jonathan, Tompson, Quan, Vuong, Tianhe, Yu, others. 
+
+* **Rt-2: Vision-language-action models transfer web knowledge to robotic control**, Conference on Robot Learning. 2023.
+Zitkovich, Brianna, Tianhe, Yu, Sichun, Xu, Peng, Xu, Ted, Xiao, Fei, Xia, Jialin, Wu, Paul, Wohlhart, Stefan, Welker, Ayzaan, Wahid, others. 
+
+* **Rt-h: Action hierarchies using language**, ArXiv, 2024.
+Belkhale, Suneel, Tianli, Ding, Ted, Xiao, Pierre, Sermanet, Quon, Vuong, Jonathan, Tompson, Yevgen, Chebotar, Debidatta, Dwibedi, Dorsa, Sadigh. 
+
+* **Open x-embodiment: Robotic learning datasets and rt-x models**, arXiv preprint arXiv:2310.08864. (2023).
+Padalkar, , others. 
+
+* **Embodiedgpt: Vision-language pre-training via embodied chain of thought**, NeurIPS, 2024
+Mu, Yao, Qinglong, Zhang, Mengkang, Hu, Wenhai, Wang, Mingyu, Ding, Jun, Jin, Bin, Wang, Jifeng, Dai, Yu, Qiao, Ping, Luo. 
+
+* **Vision-language foundation models as effective robot imitators**, ArXiv, 2023.
+Li, Xinghang, Minghuan, Liu, Hanbo, Zhang, Cunjun, Yu, Jie, Xu, Hongtao, Wu, Chilam, Cheang, Ya, Jing, Weinan, Zhang, Huaping, Liu, others. 
+
+* **Autort: Embodied foundation models for large scale orchestration of robotic agents**, arXiv preprint arXiv:2401.12963. (2024).
+Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others. 
+
+* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, ArXiv, 2023.
+Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others. 
+
+* **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, ArXiv, 2024.
+Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An, Senqiao, Yang, Renrui, Zhang, Yandong, Guo, Shanghang, Zhang. 
+
+* **Rt-h: Action hierarchies using language**, ArXiv, 2024.
+Belkhale, Suneel, Tianli, Ding, Ted, Xiao, Pierre, Sermanet, Quon, Vuong, Jonathan, Tompson, Yevgen, Chebotar, Debidatta, Dwibedi, Dorsa, Sadigh. 
+
+* **Cliport: What and where pathways for robotic manipulation**, Conference on robot learning. 2022.
+Shridhar, Mohit, Lucas, Manuelli, Dieter, Fox. 
+
+* **Strips: A new approach to the application of theorem proving to problem solving**, Artificial Intelligence 2. 3(1971): 189-208.
+Richard E. Fikes, , Nils J. Nilsson. 
+
+* **PDDL-the planning domain definition language**, Technical Report. 1998.
+Drew McDermott, , Malik Ghallab, Adele E. Howe, Craig A. Knoblock, Ashwin Ram, Manuela M. Veloso, Daniel S. Weld, David E. Wilkins. 
+
+* **The Monte Carlo method**, Journal of the American Statistical Association 44 247. (1949): 335-41 .
+Nicholas C. Metropolis, , S. M. Ulam. 
+
+* **A Formal Basis for the Heuristic Determination of Minimum Cost Paths**, IEEE Trans. Syst. Sci. Cybern. 4. (1968): 100-107.
+Peter E. Hart, , Nils J. Nilsson, Bertram Raphael. 
+
+* **Language models as zero-shot planners: Extracting actionable knowledge for embodied agents**, ICML, 2022.
+Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch. 
+
+* **Inner Monologue: Embodied Reasoning through Planning with Language Models**, Conference on Robot Learning, 2022.
+Huang, Wenlong, Fei, Xia, Ted, Xiao, Harris, Chan, Jacky, Liang, Pete, Florence, Andy, Zeng, Jonathan, Tompson, Igor, Mordatch, Yevgen, Chebotar, Pierre, Sermanet, Noah, Brown, Tomas, Jackson, Linda, Luu, Sergey, Levine, Karol, Hausman, Brian, Ichter. 
+
+* **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, ICML, 2022.
+Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch. 
+
+* **Lota-bench: Benchmarking language-oriented task planners for embodied agents**, ArXiv, 2024.
+Choi, Jae-Woo, Youngwoo, Yoon, Hyobin, Ong, Jaehong, Kim, Minsu, Jang. 
+
+* **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**, ICCV, 2023
+Chan Hee Song, , Jiaman Wu, Clay Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su. 
+
+* **Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models** EMNLP, 2023.
+Sarch, Gabriel, Yue, Wu, Michael J., Tarr, Katerina, Fragkiadaki. 
+
+* **Voyager: An Open-Ended Embodied Agent with Large Language Models**, (2023).
+Wang, Guanzhi, Yuqi, Xie, Yunfan, Jiang, Ajay, Mandlekar, Chaowei, Xiao, Yuke, Zhu, Linxi, Fan, Anima, Anandkumar. 
+
+* **Skill Induction and Planning with Latent Language**, ACL, 2021.
+Pratyusha Sharma, , Antonio Torralba, Jacob Andreas. 
+
+* **ReAct: Synergizing Reasoning and Acting in Language Models** (2023).
+Yao, Shunyu, Jeffrey, Zhao, Dian, Yu, Nan, Du, Izhak, Shafran, Karthik, Narasimhan, Yuan, Cao. 
+
+* **ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models** (2022).
+Singh, Ishika, Valts, Blukis, Arsalan, Mousavian, Ankit, Goyal, Danfei, Xu, Jonathan, Tremblay, Dieter, Fox, Jesse, Thomason, Animesh, Garg. 
+
+* **ChatGPT for Robotics: Design Principles and Model Abilities**, IEEE Access 12. (2023): 55682-55696.
+Sai Vemprala, , Rogerio Bonatti, Arthur Fender C. Bucker, Ashish Kapoor. 
+
+* **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,
+Jacky Liang, , Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng. 
+
+* **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language** (2022).
+Zeng, Andy, Maria, Attarian, Brian, Ichter, Krzysztof, Choromanski, Adrian, Wong, Stefan, Welker, Federico, Tombari, Aveek, Purohit, Michael, Ryoo, Vikas, Sindhwani, Johnny, Lee, Vincent, Vanhoucke, Pete, Florence. 
+
+* **Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following** (2024).
+Suyeon Shin, , Sujin jeon, Junghyun Kim, Gi-Cheon Kang, Byoung-Tak Zhang. 
+
+* **The Monte Carlo method**, Journal of the American Statistical Association 44 247. (1949): 335-41 .
+Nicholas C. Metropolis, , S. M. Ulam. 
+
+* **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning** (2023).
+Zhao, Zirui, Wee Sun, Lee, David, Hsu. 
+
+* **Reasoning with Language Model Is Planning with World Model** (2023).
+Hao, Shibo, Yi, Gu, Haodi, Ma, Joshua Jiahua, Hong, Zhen, Wang, Daisy Zhe, Wang, Zhiting, Hu. 
+
+
+* **LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**, arXiv, 2023.
+Haonan Chang, , Kai Gao, Kowndinya Boyalakuntla, Alex Lee, Baichuan Huang, Harish Udhaya Kumar, Jinjin Yu, Abdeslam Boularias. 
+
+* **Translating Natural Language to Planning Goals with Large-Language Models**, arXiv, 2023.
+Xie, Yaqi, Chen, Yu, Tongyao, Zhu, Jinbin, Bai, Ze, Gong, Harold, Soh. 
+
+* **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arXiv, 2023.
+Liu, Bo, Yuqian, Jiang, Xiaohan, Zhang, Qiang, Liu, Shiqi, Zhang, Joydeep, Biswas, Peter, Stone. 
+
+* **Generalized Planning in PDDL Domains with Pretrained Large Language Models**, arXiv, 2023.
+Silver, Tom, Soham, Dan, Kavitha, Srinivas, Joshua B., Tenenbaum, Leslie Pack, Kaelbling, Michael, Katz. 
+
+* **Dynamic Planning with a LLM**, arXiv, 2023.
+Dagan, Gautier, Frank, Keller, Alex, Lascarides. 
+
+* **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** arXiv, 2024.
+Zhang, Yang, Shixin, Yang, Chenjia, Bai, Fei, Wu, Xiu, Li, Xuelong, Li, Zhen, Wang. 
+
+* **Embodied Task Planning with Large Language Models**, arXiv, 2023.
+Wu, Zhenyu, Ziwei, Wang, Xiuwei, Xu, Jiwen, Lu, Haibin, Yan. 
+
+* **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning**, Conference on Robot Learning. 2023.
+Krishan Rana, , Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian D. Reid, Niko Sunderhauf. 
+
+* **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**, ArXiv, 2023.
+Qiao Gu, , Ali Kuwajerwala, Sacha Morin, Krishna Murthy Jatavallabhula, Bipasha Sen, Aditya Agarwal, Corban Rivera, William Paul, Kirsty Ellis, Ramalingam Chellappa, Chuang Gan, Celso Miguel de Melo, Joshua B Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull. 
+
+* **RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks**, arXiv, 2023.
+Yaran Chen, , Wenbo Cui, Yuanwen Chen, Mining Tan, Xinyao Zhang, Dong Zhao, He Wang. 
+
+* **Embodied Instruction Following in Unknown Environments**, arXiv, 2024.
+Zhenyu Wu, , Ziwei Wang, Xiuwei Xu, Jiwen Lu, Haibin Yan. 
+
+* **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models** (2023).
+Zhao, Xufeng, Mengdi, Li, Cornelius, Weber, Muhammad Burhan, Hafez, Stefan, Wermter. 
+
+* **Video Language Planning**, (2023).
+Du, Yilun, Mengjiao, Yang, Pete, Florence, Fei, Xia, Ayzaan, Wahid, Brian, Ichter, Pierre, Sermanet, Tianhe, Yu, Pieter, Abbeel, Joshua B., Tenenbaum, Leslie, Kaelbling, Andy, Zeng, Jonathan, Tompson. 
+
+* **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,
+Jacky Liang, , Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng. 
+
+* **Reflexion: an autonomous agent with dynamic memory and self-reflection**, ArXiv, 2023.
+Noah Shinn, , Beck Labash, A. Gopinath. 
+
+* **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** ArXiv, 2023.
+Zihao Wang, , Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang. 
+
+
+
+
+
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
+* **World Models**, NIPS, 2018
+Ha, David and Schmidhuber, J{\"u}rgen
+[[page]](https://mx.nthu.edu.tw/~jlliu/teaching/AI17/Auto8.pdf)
+
+* **Pandora: Towards General World Model with Natural Language Actions and Video States**, arXiv, 2024
+Xiang, Jiannan and Liu, Guangyi and Gu, Yi and Gao, Qiyue and Ning, Yuting and Zha, Yuheng and Feng, Zeyu and Tao, Tianhua and Hao, Shibo and Shi, Yemin and others
+[[page]](https://arxiv.org/abs/2406.09455)
+
+* **3D-VLA: A 3D Vision-Language-Action Generative World Model**, ICML, 2024 
+Zhen, Haoyu and Qiu, Xiaowen and Chen, Peihao and Yang, Jincheng and Yan, Xin and Du, Yilun and Hong, Yining and Gan, Chuang
+[[page]](https://openreview.net/forum?id=EZcFK8HupF)
+
+* **Diffusion World Model: Future Modeling Beyond Step-by-Step Rollout for Offline Reinforcement Learning**, arXiv, 2024
+Ding, Zihan and Zhang, Amy and Tian, Yuandong and Zheng, Qinqing
+[[page]](https://arxiv.org/abs/2402.03570)
+
+* **MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features**, ICLR, 2024
+Bardes, Adrien and Ponce, Jean and LeCun, Yann
+[[page]](https://openreview.net/forum?id=9XdLlbxZCC)
+
+* **A-JEPA: Joint-Embedding Predictive Architecture Can Listen**, arXiv, 2023
+Fei, Zhengcong and Fan, Mingyuan and Huang, Junshi
+[[page]](https://arxiv.org/abs/2311.15830)
+
+* **Learning and Leveraging World Models in Visual Representation Learning**, arXiv, 2024
+Garrido, Quentin and Assran, Mahmoud and Ballas, Nicolas and Bardes, Adrien and Najman, Laurent and LeCun, Yann
+[[page]](https://arxiv.org/abs/2403.00504)
+
+* **iVideoGPT: Interactive VideoGPTs are Scalable World Models**, arXiv, 2024
+Wu, Jialong and Yin, Shaofeng and Feng, Ningya and He, Xu and Li, Dong and Hao, Jianye and Long, Mingsheng
+[[page]](https://arxiv.org/abs/2405.15223)
+
+* **Spatiotemporal Predictive Pre-training for Robotic Motor Control**, arXiv, 2024
+Yang, Jiange and Liu, Bei and Fu, Jianlong and Pan, Bocheng and Wu, Gangshan and Wang, Limin
+[[page]](https://arxiv.org/abs/2403.05304)
+
+* **MuDreamer: Learning Predictive World Models without Reconstruction**, ICLR, 2024 
+Burchi, Maxime and Timofte, Radu
+[[page]](https://openreview.net/forum?id=9pe38WpsbX)
+
+* **From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**, arXiv, 2024
+Wong, Lionel and Grand, Gabriel and Lew, Alexander K and Goodman, Noah D and Mansinghka, Vikash K and Andreas, Jacob and Tenenbaum, Joshua B
+[[page]](https://arxiv.org/abs/2306.12672)
+
+* **ElastoGen: 4D Generative Elastodynamics**, arXiv, 2024
+Feng, Yutao and Shang, Yintong and Feng, Xiang and Lan, Lei and Zhe, Shandian and Shao, Tianjia and Wu, Hongzhi and Zhou, Kun and Su, Hao and Jiang, Chenfanfu and others
+[[page]](https://arxiv.org/abs/2405.15056)
+
+* **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, NeurIPS, 2023
+Liu, Minghua and Xu, Chao and Jin, Haian and Chen, Linghao and Varma T, Mukund and Xu, Zexiang and Su, Hao
+[[page]](https://openreview.net/forum?id=A6X9y8n4sT)
+
+* **LEGENT: Open Platform for Embodied Agents**, arXiv, 2024
+Cheng, Zhili and Wang, Zhitong and Hu, Jinyi and Hu, Shengding and Liu, An and Tu, Yuge and Li, Pengkai and Shi, Lei and Liu, Zhiyuan and Sun, Maosong
+[[page]](https://arxiv.org/abs/2404.18243)
+
+* **Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**, arXiv, 2024
+Saito, Ayumu and Poovvancheri, Jiju
+[[page]](https://arxiv.org/abs/2404.16432)
+
+* **A Path Towards Autonomous Machine Intelligence Version 0.9.2, 2022-06-27**, Open Review, 2022
+Yann LeCun
+[[page]](https://openreview.net/pdf?id=BZ5a1r-kVsf&)
+
+* **Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence**, arXiv, 2023
+Dawid, Anna and LeCun, Yann
+[[page]](https://arxiv.org/abs/2306.02572)
+
+* **Real2Sim2Real: Self-Supervised Learning of Physical Single-Step Dynamic Actions for Planar Robot Casting**, ICRA, 2022
+Lim, Vincent and Huang, Huang and Chen, Lawrence Yunliang and Wang, Jonathan and Ichnowski, Jeffrey and Seita, Daniel and Laskey, Michael and Goldberg, Ken
+[[page]](https://dl.acm.org/doi/abs/10.1109/ICRA46639.2022.9811651)
+
+* **Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots**, arXiv， 2024
+Chi, Cheng and Xu, Zhenjia and Pan, Chuer and Cousineau, Eric and Burchfiel, Benjamin and Feng, Siyuan and Tedrake, Russ and Song, Shuran
+[[page]](https://arxiv.org/abs/2402.10329)
+
+* **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**, arXiv, 2024
+Fu, Zipeng and Zhao, Tony Z and Finn, Chelsea
+[[page]](https://mobile-aloha.github.io/resources/mobile-aloha.pdf)
+
+* **Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition**, arXiv, 2024
+Luo, Shengcheng and Peng, Quanquan and Lv, Jun and Hong, Kaiwen and Driggs-Campbell, Katherine Rose and Lu, Cewu and Li, Yong-Lu
+[[page]](https://arxiv.org/pdf/2407.00299)
+
+* **Transporter Networks: Rearranging the Visual World for Robotic Manipulation**, CoRL, 2021
+Zeng, Andy and Florence, Pete and Tompson, Jonathan and Welker, Stefan and Chien, Jonathan and Attarian, Maria and Armstrong, Travis and Krasin, Ivan and Duong, Dan and Sindhwani, Vikas and others
+[[page]](https://proceedings.mlr.press/v155/zeng21a.html)
+
+* **GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts**, CVPR, 2023
+Geng, Haoran and Xu, Helin and Zhao, Chengyang and Xu, Chao and Yi, Li and Huang, Siyuan and Wang, He
+[[page]](https://ieeexplore.ieee.org/abstract/document/10203924)
+
+* **Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**, arXiv, 2024
+Torne, Marcel and Simeonov, Anthony and Li, Zechu and Chan, April and Chen, Tao and Gupta, Abhishek and Agrawal, Pulkit
+[[page]](https://arxiv.org/abs/2403.03949)
+
+* **TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**, arXiv, 2024
+Jiang, Yunfan and Wang, Chen and Zhang, Ruohan and Wu, Jiajun and Fei-Fei, Li
+[[page]](https://arxiv.org/abs/2405.10315)
+
+* **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World**, IROS, 2017
+Tobin, Josh and Fong, Rachel and Ray, Alex and Schneider, Jonas and Zaremba, Wojciech and Abbeel, Pieter
+[[page]](https://ieeexplore.ieee.org/abstract/document/8202133)
+
+* **Learning Dexterous In-Hand Manipulation**, The International Journal of Robotics Research, 2020
+Andrychowicz, OpenAI: Marcin and Baker, Bowen and Chociej, Maciek and Jozefowicz, Rafal and McGrew, Bob and Pachocki, Jakub and Petron, Arthur and Plappert, Matthias and Powell, Glenn and Ray, Alex and others
+[[page]](https://journals.sagepub.com/doi/full/10.1177/0278364919887447)
+
+* **Sim-to-Real Reinforcement Learning for Deformable Object Manipulation**, CoRL, 2018
+Matas, Jan and James, Stephen and Davison, Andrew J
+[[page]](http://proceedings.mlr.press/v87/matas18a/matas18a.pdf)
+
+* **Sim2Real Transfer for Reinforcement Learning without Dynamics Randomization**, IROS, 2020
+Kaspar, Manuel and Osorio, Juan D Mu{\~n}oz and Bock, J{\"u}rgen
+[[page]](https://ieeexplore.ieee.org/abstract/document/9341260)
+
+* **Preparing for the Unknown: Learning a Universal Policy with Online System Identification**, RSS, 2017
+Yu, Wenhao and Tan, Jie and Liu, C Karen and Turk, Greg
+[[page]](https://arxiv.org/abs/1702.02453)
+
+* **Natural Language Can Help Bridge the Sim2Real Gap**, arXiv, 2024
+Yu, Albert and Foote, Adeline and Mooney, Raymond and Mart{\'\i}n-Mart{\'\i}n, Roberto
+[[page]](https://arxiv.org/pdf/2405.10020)
+
+* **Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion**, IEEE TPAMI, 2023
+Huang, Changxin and Wang, Guangrun and Zhou, Zhibo and Zhang, Ronghui and Lin, Liang
+[[page]](https://www.computer.org/csdl/journal/tp/2023/06/09956746/1Iu2CDAJBcc)
+
+* **DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning**, IEEE Robotics and Automation Letters, 2020
+Tsounis, Vassilios and Alge, Mitja and Lee, Joonho and Farshidian, Farbod and Hutter, Marco
+[[page]](https://arxiv.org/pdf/1909.08399)
+
+* **Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware**, ICML, 2023
+Zhao, Tony Z and Kumar, Vikash and Levine, Sergey and Finn, Chelsea
+[[page]](https://openreview.net/forum?id=e8Eu1lqLaf)
+
+* **Visual Whole-Body Control for Legged Loco-Manipulation**, arXiv, 2024 
+Liu, Minghuan and Chen, Zixuan and Cheng, Xuxin and Ji, Yandong and Yang, Ruihan and Wang, Xiaolong
+[[page]](https://arxiv.org/pdf/2403.16967)
+
+* **Dynamic walk of a biped**, The International Journal of Robotics Research, 1984
+Miura, Hirofumi and Shimoyama, Isao
+[[page]](https://journals.sagepub.com/doi/abs/10.1177/027836498400300206)
+
+* **A Compliant Hybrid Zero Dynamics Controller for Stable, Efficient and Fast Bipedal Walking on MABEL**, The International Journal of Robotics Research, 2011
+Sreenath, Koushil and Park, Hae-Won and Poulakakis, Ioannis and Grizzle, Jessy W
+[[page]](https://sites.udel.edu/poulakas/files/2022/10/J07-A-Compliant-Hybrid-Zero-Dynamics-Controller.pdf)
+
+* **MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot**, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018
+Bledt, Gerardo and Powell, Matthew J and Katz, Benjamin and Di Carlo, Jared and Wensing, Patrick M and Kim, Sangbae
+[[page]](https://dspace.mit.edu/bitstream/handle/1721.1/126619/iros.pdf?sequence=2)
+
+* **ANYmal - a highly mobile and dynamic quadrupedal robot**, IEEE/RSJ international conference on intelligent robots and systems (IROS), 2016
+Hutter, Marco and Gehring, Christian and Jud, Dominic and Lauber, Andreas and Bellicoso, C Dario and Tsounis, Vassilios and Hwangbo, Jemin and Bodie, Karen and Fankhauser, Peter and Bloesch, Michael and others
+[[page]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/118642/eth-49454-01.pdf;sequence=1)
+
+* **Optimization Based Full Body Control for the Atlas Robot**, IEEE-RAS International Conference on Humanoid Robots, 2014
+Feng, Siyuan and Whitman, Eric and Xinjilefu, X and Atkeson, Christopher G
+[[page]](http://www.cs.cmu.edu/afs/cs/user/sfeng/www/sf_hum14.pdf)
+
+* **Optimized Jumping on the MIT Cheetah 3 Robot**, ICRA, 2019
+Nguyen, Quan and Powell, Matthew J and Katz, Benjamin and Di Carlo, Jared and Kim, Sangbae
+[[page]](https://ieeexplore.ieee.org/abstract/document/8794449)
+
+* **Continuous Jumping for Legged Robots on Stepping Stones via Trajectory Optimization and Model Predictive Control**, IEEE CDC, 2022
+Nguyen, Chuong and Bao, Lingfan and Nguyen, Quan
+[[page]](https://arxiv.org/pdf/2204.01147)
+
+* **Practice Makes Perfect: An Optimization-Based Approach to Controlling Agile Motions for a Quadruped Robot**, IEEE Robotics \& Automation Magazine, 2016
+Gehring, Christian and Coros, Stelian and Hutter, Marco and Bellicoso, Carmine Dario and Heijnen, Huub and Diethelm, Remo and Bloesch, Michael and Fankhauser, P{\'e}ter and Hwangbo, Jemin and Hoepflinger, Mark and others
+[[page]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/183161.1/1/eth-49107-01.pdf)
+
+* **Dynamic Walking on Randomly-Varying Discrete Terrain With One-Step Preview**, Robotics: Science and Systems, 2017
+Nguyen, Quan and Agrawal, Ayush and Da, Xingye and Martin, William C and Geyer, Hartmut and Grizzle, Jessy W and Sreenath, Koushil
+[[page]](https://hybrid-robotics.berkeley.edu/publications/RSS2017_DiscreteTerrain_Walking.pdf)
+
+* **Deep Kernels for Optimizing Locomotion Controllers**, CoRL, 2017
+Antonova, Rika and Rai, Akshara and Atkeson, Christopher G
+[[page]](http://proceedings.mlr.press/v78/antonova17a/antonova17a.pdf)
+
+* **Expressive Whole-Body Control for Humanoid Robots**, arXiv, 2024
+Cheng, Xuxin and Ji, Yandong and Chen, Junming and Yang, Ruihan and Yang, Ge and Wang, Xiaolong
+[[page]](https://arxiv.org/pdf/2402.16796)
+
+* **The MIT Humanoid Robot: Design, Motion Planning, and Control for Acrobatic Behaviors**, IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021
+Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
+[[page]](https://arxiv.longhoe.net/pdf/2104.09025)
+
 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
