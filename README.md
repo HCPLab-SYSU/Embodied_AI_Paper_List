@@ -476,35 +476,35 @@ Jiazhao Zhang, , Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang
 
 * **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**, ECCV, 2018.
 Xin Eric Wang, , Wenhan Xiong, Hongmin Wang, William Yang Wang. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/1803.07729)]
 
 * **Neighbor-view enhanced model for vision and language navigation**, MM, 2021.
 An, Dong, Yuankai, Qi, Yan, Huang, Qi, Wu, Liang, Wang, Tieniu, Tan. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2107.07201)]
 
 * **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**, CVPR, 2022.
 Hong, Yicong, Zun, Wang, Qi, Wu, Stephen, Gould. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2203.02764)]
 
 * **March in Chat: Interactive Prompting for Remote Embodied Referring Expression**, ICCV, 2023.
 Qiao, Yanyuan, Yuankai, Qi, Zheng, Yu, Jing, Liu, Qi, Wu. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2308.10141)]
 
 * **Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**, CVPR 2024.
 Wang, Zihan, Xiangyang, Li, Jiahao, Yang, Yeqi, Liu, Junjie, Hu, Ming, Jiang, Shuqiang, Jiang. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2404.01943)]
 
 * **ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**, IEEE T-PAMI, 2024.
 An, Dong, Hanqing, Wang, Wenguan, Wang, Zun, Wang, Yan, Huang, Keji, He, Liang, Wang. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2304.03047)]
 
 * **Multi-level compositional reasoning for interactive instruction following**, AAAI, 2023.
 Bhambri, Suvaansh, Byeonghwi, Kim, Jonghyun, Choi. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2308.09387)]
 
 * **Vision and Language Navigation in the Real World via Online Visual Language Mapping**, ArXiv, 2023.
 Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong. 
-[[page](https://arxiv.org/pdf/)]
+[[page](https://arxiv.org/pdf/2310.10822)]
 
 * **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.
 Wu, Wang, Xu, Lu, Yan. 
