@@ -44,8 +44,8 @@ McCarthy, Robert, Daniel CH Tan, Dominik Schmidt, Fernando Acero, Nathan Herr, Y
 [[Paper](https://arxiv.org/pdf/2404.19664)]
 
 * **A Survey on Robotics with Foundation Models: toward Embodied AI**, arXiv:2402.02385, 2024
-Zhiyuan Xu, Kun Wu, Junjie Wen, Jinming Li, Ning Liu, Zhengping Che, and Jian Tang.
-[[Paper](https://arxiv.org/pdf/2402.02385)]    
+Zhiyuan Xu, Kun Wu, Junjie Wen, Jinming Li, Ning Liu, Zhengping Che, and Jian Tang.     
+[[Paper](https://arxiv.org/pdf/2402.02385)]     
 
 * **Toward general-purpose robots via foundation models: A survey and meta-analysis**, arXiv:2312.08782, 2023   
 Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim et al.  
