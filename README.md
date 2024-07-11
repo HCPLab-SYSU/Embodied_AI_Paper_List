@@ -99,47 +99,47 @@ Rohmer, Eric, Surya PN, Singh, Marc, Freese.
 
 
 ### Real-Scene Based Simulators
-* **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**, NeurIPS, 2021
+* **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**, NeurIPS, 2021  
 Gan, Chuang, J., Schwartz, Seth, Alter, Martin, Schrimpf, James, Traer, JulianDe, Freitas, Jonas, Kubilius, Abhishek, Bhandwaldar, Nick, Haber, Megumi, Sano, Kuno, Kim, Elias, Wang, Damian, Mrowca, Michael, Lingelbach, Aidan, Curtis, KevinT., Feigelis, DavidM., Bear, Dan, Gutfreund, DavidD., Cox, JamesJ., DiCarlo, JoshH., McDermott, JoshuaB., Tenenbaum, Daniel, Yamins. 
 [[page](https://arxiv.org/pdf/2007.04954)]
 
-* **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes**, IROS, 2021
+* **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes**, IROS, 2021  
 Shen, Bokui, Fei, Xia, Chengshu, Li, Roberto, Martín-Martín, Linxi, Fan, Guanzhi, Wang, Claudia, Pérez-D’Arpino, Shyamal, Buch, Sanjana, Srivastava, Lyne, Tchapmi, Micael, Tchapmi, Kent, Vainio, Josiah, Wong, Li, Fei-Fei, Silvio, Savarese. 
 [[page](https://arxiv.org/pdf/2012.02924)]
 
-* **SAPIEN: A SimulAted Part-Based Interactive ENvironment**, CVPR, 2020
+* **SAPIEN: A SimulAted Part-Based Interactive ENvironment**, CVPR, 2020  
 Xiang, Fanbo, Yuzhe, Qin, Kaichun, Mo, Yikuan, Xia, Hao, Zhu, Fangchen, Liu, Minghua, Liu, Hanxiao, Jiang, Yifu, Yuan, He, Wang, Li, Yi, Angel X., Chang, Leonidas J., Guibas, Hao, Su. 
 [[page](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.pdf)]
 
-* **Habitat: A Platform for Embodied AI Research**, ICCV, 2019
+* **Habitat: A Platform for Embodied AI Research**, ICCV, 2019  
 Savva, Manolis, Abhishek, Kadian, Oleksandr, Maksymets, Yili, Zhao, Erik, Wĳmans, Bhavana, Jain, Julian, Straub, Jia, Liu, Vladlen, Koltun, Jitendra, Malik, Devi, Parikh, Dhruv, Batra. 
 [[page](http://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf)]
 
-* **VirtualHome: Simulating Household Activities Via Programs**, CVPR, 2018.
+* **VirtualHome: Simulating Household Activities Via Programs**, CVPR, 2018  
 Puig, Xavier, Kevin, Ra, Marko, Boben, Jiaman, Li, Tingwu, Wang, Sanja, Fidler, Antonio, Torralba. 
 [[page](http://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]
 
-* **Matterport3D: Learning from RGB-D Data in Indoor Environments**, 3DV, 2017.
+* **Matterport3D: Learning from RGB-D Data in Indoor Environments**, 3DV, 2017  
 Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner, Manolis, Savva, Shuran, Song, Andy, Zeng, Yinda, Zhang. 
 [[page](https://arxiv.org/pdf/1709.06158)]
 
-* **AI2-THOR: An Interactive 3D Environment for Visual AI**. arXiv, 2017.
+* **AI2-THOR: An Interactive 3D Environment for Visual AI**. arXiv, 2017  
 Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi. 
 [[page](https://arxiv.org/pdf/1712.05474)]
 
-* **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation**, NeurIPS, 2022.
+* **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation**, NeurIPS, 2022  
 Deitke, VanderBilt, Herrasti, Weihs, Salvador, Ehsani, Han, Kolve, Farhadi, Kembhavi, Mottaghi 
 [[page](https://arxiv.org/pdf/2206.06994)]
 
-* **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023.
+* **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023  
 Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan. 
 [[page](https://arxiv.org/pdf/2311.01455)]
 
-* **Holodeck: Language Guided Generation of 3D Embodied AI Environments**, CVPR, 2024.
+* **Holodeck: Language Guided Generation of 3D Embodied AI Environments**, CVPR, 2024  
 Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark. 
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)]
 
-* **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, CVPR, 2024
+* **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, CVPR, 2024  
 Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang. 
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
 
