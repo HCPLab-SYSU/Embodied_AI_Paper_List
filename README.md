@@ -100,102 +100,102 @@ Rohmer, Eric, Surya PN, Singh, Marc, Freese.
 
 ### Real-Scene Based Simulators
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**, NeurIPS, 2021  
-Gan, Chuang, J., Schwartz, Seth, Alter, Martin, Schrimpf, James, Traer, JulianDe, Freitas, Jonas, Kubilius, Abhishek, Bhandwaldar, Nick, Haber, Megumi, Sano, Kuno, Kim, Elias, Wang, Damian, Mrowca, Michael, Lingelbach, Aidan, Curtis, KevinT., Feigelis, DavidM., Bear, Dan, Gutfreund, DavidD., Cox, JamesJ., DiCarlo, JoshH., McDermott, JoshuaB., Tenenbaum, Daniel, Yamins. 
+Gan, Chuang, J., Schwartz, Seth, Alter, Martin, Schrimpf, James, Traer, JulianDe, Freitas, Jonas, Kubilius, Abhishek, Bhandwaldar, Nick, Haber, Megumi, Sano, Kuno, Kim, Elias, Wang, Damian, Mrowca, Michael, Lingelbach, Aidan, Curtis, KevinT., Feigelis, DavidM., Bear, Dan, Gutfreund, DavidD., Cox, JamesJ., DiCarlo, JoshH., McDermott, JoshuaB., Tenenbaum, Daniel, Yamins.   
 [[page](https://arxiv.org/pdf/2007.04954)]
 
 * **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes**, IROS, 2021  
-Shen, Bokui, Fei, Xia, Chengshu, Li, Roberto, Martín-Martín, Linxi, Fan, Guanzhi, Wang, Claudia, Pérez-D’Arpino, Shyamal, Buch, Sanjana, Srivastava, Lyne, Tchapmi, Micael, Tchapmi, Kent, Vainio, Josiah, Wong, Li, Fei-Fei, Silvio, Savarese. 
+Shen, Bokui, Fei, Xia, Chengshu, Li, Roberto, Martín-Martín, Linxi, Fan, Guanzhi, Wang, Claudia, Pérez-D’Arpino, Shyamal, Buch, Sanjana, Srivastava, Lyne, Tchapmi, Micael, Tchapmi, Kent, Vainio, Josiah, Wong, Li, Fei-Fei, Silvio, Savarese.   
 [[page](https://arxiv.org/pdf/2012.02924)]
 
 * **SAPIEN: A SimulAted Part-Based Interactive ENvironment**, CVPR, 2020  
-Xiang, Fanbo, Yuzhe, Qin, Kaichun, Mo, Yikuan, Xia, Hao, Zhu, Fangchen, Liu, Minghua, Liu, Hanxiao, Jiang, Yifu, Yuan, He, Wang, Li, Yi, Angel X., Chang, Leonidas J., Guibas, Hao, Su. 
+Xiang, Fanbo, Yuzhe, Qin, Kaichun, Mo, Yikuan, Xia, Hao, Zhu, Fangchen, Liu, Minghua, Liu, Hanxiao, Jiang, Yifu, Yuan, He, Wang, Li, Yi, Angel X., Chang, Leonidas J., Guibas, Hao, Su.   
 [[page](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.pdf)]
 
 * **Habitat: A Platform for Embodied AI Research**, ICCV, 2019  
-Savva, Manolis, Abhishek, Kadian, Oleksandr, Maksymets, Yili, Zhao, Erik, Wĳmans, Bhavana, Jain, Julian, Straub, Jia, Liu, Vladlen, Koltun, Jitendra, Malik, Devi, Parikh, Dhruv, Batra. 
+Savva, Manolis, Abhishek, Kadian, Oleksandr, Maksymets, Yili, Zhao, Erik, Wĳmans, Bhavana, Jain, Julian, Straub, Jia, Liu, Vladlen, Koltun, Jitendra, Malik, Devi, Parikh, Dhruv, Batra.   
 [[page](http://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf)]
 
 * **VirtualHome: Simulating Household Activities Via Programs**, CVPR, 2018  
-Puig, Xavier, Kevin, Ra, Marko, Boben, Jiaman, Li, Tingwu, Wang, Sanja, Fidler, Antonio, Torralba. 
+Puig, Xavier, Kevin, Ra, Marko, Boben, Jiaman, Li, Tingwu, Wang, Sanja, Fidler, Antonio, Torralba.   
 [[page](http://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]
 
 * **Matterport3D: Learning from RGB-D Data in Indoor Environments**, 3DV, 2017  
-Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner, Manolis, Savva, Shuran, Song, Andy, Zeng, Yinda, Zhang. 
+Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner, Manolis, Savva, Shuran, Song, Andy, Zeng, Yinda, Zhang.   
 [[page](https://arxiv.org/pdf/1709.06158)]
 
 * **AI2-THOR: An Interactive 3D Environment for Visual AI**. arXiv, 2017  
-Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi. 
+Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi.   
 [[page](https://arxiv.org/pdf/1712.05474)]
 
 * **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation**, NeurIPS, 2022  
-Deitke, VanderBilt, Herrasti, Weihs, Salvador, Ehsani, Han, Kolve, Farhadi, Kembhavi, Mottaghi 
+Deitke, VanderBilt, Herrasti, Weihs, Salvador, Ehsani, Han, Kolve, Farhadi, Kembhavi, Mottaghi   
 [[page](https://arxiv.org/pdf/2206.06994)]
 
 * **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023  
-Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan. 
+Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan.   
 [[page](https://arxiv.org/pdf/2311.01455)]
 
 * **Holodeck: Language Guided Generation of 3D Embodied AI Environments**, CVPR, 2024  
-Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark. 
+Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark.   
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)]
 
 * **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, CVPR, 2024  
-Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang. 
+Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang.   
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
-* **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI 29. 6(2007): 1052–1067.
-Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse. 
+* **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI 29. 6(2007): 1052–1067  
+Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse.   
 [[page]()]
 
-* **A multi-state constraint Kalman filter for vision-aided inertial navigation**, IROS, 2007.
-Mourikis, Anastasios I, Stergios I, Roumeliotis. 
+* **A multi-state constraint Kalman filter for vision-aided inertial navigation**, IROS, 2007  
+Mourikis, Anastasios I, Stergios I, Roumeliotis.   
 [[page]()]
 
-* **Parallel tracking and mapping for small AR workspaces**, ISMAR, 2007.
-Klein, Georg, David, Murray. 
+* **Parallel tracking and mapping for small AR workspaces**, ISMAR, 2007  
+Klein, Georg, David, Murray.   
 [[page]()]
 
-* **ORB-SLAM: a versatile and accurate monocular SLAM system** IEEE T-RO 31. 5(2015): 1147–1163.
-Mur-Artal, Raul, Jose Maria Martinez, Montiel, Juan D, Tardos. 
+* **ORB-SLAM: a versatile and accurate monocular SLAM system** IEEE T-RO 31. 5(2015): 1147–1163  
+Mur-Artal, Raul, Jose Maria Martinez, Montiel, Juan D, Tardos.   
 [[page]()]
 
-* **DTAM: Dense tracking and mapping in real-time**, ICCV, 2011.
-Newcombe, Richard A, Steven J, Lovegrove, Andrew J, Davison. 
+* **DTAM: Dense tracking and mapping in real-time**, ICCV, 2011  
+Newcombe, Richard A, Steven J, Lovegrove, Andrew J, Davison.  
 [[page]()]
 
-* **LSD-SLAM: Large-scale direct monocular SLAM**, ECCV, 2014.
-Engel, Jakob, Thomas, Schops, Daniel, Cremers. 
+* **LSD-SLAM: Large-scale direct monocular SLAM**, ECCV, 2014  
+Engel, Jakob, Thomas, Schops, Daniel, Cremers.  
 [[page]()]
 
-* **Slam++: Simultaneous localisation and mapping at the level of objects**, CVPR, 2013.
-Salas-Moreno, Renato F, Richard A, Newcombe, Hauke, Strasdat, Paul HJ, Kelly, Andrew J, Davison. 
+* **Slam++: Simultaneous localisation and mapping at the level of objects**, CVPR, 2013  
+Salas-Moreno, Renato F, Richard A, Newcombe, Hauke, Strasdat, Paul HJ, Kelly, Andrew J, Davison.   
 [[page]()]
 
-* **Cubeslam: Monocular 3-d object slam**, IEEE T-RO 35. 4(2019): 925–938.
-Yang, Shichao, Sebastian, Scherer. 
+* **Cubeslam: Monocular 3-d object slam**, IEEE T-RO 35. 4(2019): 925–938  
+Yang, Shichao, Sebastian, Scherer.  
 [[page]()]
 
-* **Hierarchical topic model based object association for semantic SLAM**, IEEE T-VCG 25. 11(2019): 3052–3062.
-Zhang, Jianhua, Mengping, Gui, Qichao, Wang, Ruyu, Liu, Junzhe, Xu, Shengyong, Chen. 
+* **Hierarchical topic model based object association for semantic SLAM**, IEEE T-VCG 25. 11(2019): 3052–3062  
+Zhang, Jianhua, Mengping, Gui, Qichao, Wang, Ruyu, Liu, Junzhe, Xu, Shengyong, Chen.   
 [[page]()]
 
-* **Quadricslam: Dual quadrics from object detections as landmarks in object-oriented slam**, IEEE Robotics and Automation Letters 4. 1(2018): 1–8.
-Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf. 
+* **Quadricslam: Dual quadrics from object detections as landmarks in object-oriented slam**, IEEE Robotics and Automation Letters 4. 1(2018): 1–8.  
+Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf.   
 [[page]()]
 
-* **So-slam: Semantic object slam with scale proportional and symmetrical texture constraints**. IEEE Robotics and Automation Letters 7. 2(2022): 4008–4015.
-Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang. 
+* **So-slam: Semantic object slam with scale proportional and symmetrical texture constraints**. IEEE Robotics and Automation Letters 7. 2(2022): 4008–4015.  
+Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang.   
 [[page]()]
 
-* **DS-SLAM: A semantic visual SLAM towards dynamic environments**, IROS, 2018.
-Yu, Chao, Zuxin, Liu, Xin-Jun, Liu, Fugui, Xie, Yi, Yang, Qi, Wei, Qiao, Fei. 
+* **DS-SLAM: A semantic visual SLAM towards dynamic environments**, IROS, 2018  
+Yu, Chao, Zuxin, Liu, Xin-Jun, Liu, Fugui, Xie, Yi, Yang, Qi, Wei, Qiao, Fei.   
 [[page]()]
 
-* **DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes**, IEEE Robotics and Automation Letters 3. 4(2018): 4076–4083.
-Bescos, Berta, José M, Facil, Javier, Civera, José, Neira. 
+* **DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes**, IEEE Robotics and Automation Letters 3. 4(2018): 4076–4083  
+Bescos, Berta, José M, Facil, Javier, Civera, José, Neira.   
 [[page]()]
 
 * **SG-SLAM: A real-time RGB-D visual SLAM toward dynamic scenes with semantic and geometric information**, IEEE Transactions on Instrumentation and Measurement 72. (2022): 1–12.
