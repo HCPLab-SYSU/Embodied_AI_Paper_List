@@ -43,7 +43,7 @@ Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King
 McCarthy, Robert, Daniel CH Tan, Dominik Schmidt, Fernando Acero, Nathan Herr, Yilun Du, Thomas G. Thuruthel, and Zhibin Li.  
 [[Paper](https://arxiv.org/pdf/2404.19664)]
 
-* **A Survey on Robotics with Foundation Models: toward Embodied AI**, arXiv:2402.02385, 2024
+* **A Survey on Robotics with Foundation Models: toward Embodied AI**, arXiv:2402.02385, 2024    
 Zhiyuan Xu, Kun Wu, Junjie Wen, Jinming Li, Ning Liu, Zhengping Che, and Jian Tang.     
 [[Paper](https://arxiv.org/pdf/2402.02385)]     
 
