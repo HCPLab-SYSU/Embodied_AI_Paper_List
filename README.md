@@ -127,6 +127,10 @@ Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner
 Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi. 
 [[page](https://arxiv.org/pdf/1712.05474)]
 
+* **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation**, NeurIPS, 2022.
+Deitke, VanderBilt, Herrasti, Weihs, Salvador, Ehsani, Han, Kolve, Farhadi, Kembhavi, Mottaghi 
+[[page](https://arxiv.org/pdf/2206.06994)]
+
 * **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023.
 Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan. 
 [[page](https://arxiv.org/pdf/2311.01455)]
@@ -376,127 +380,135 @@ Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian
 
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments**, CVPR, 2018.
 Anderson, Peter, Qi, Wu, Damien, Teney, Jake, Bruce, Mark, Johnson, Niko, Sunderhauf, Ian, Reid, Stephen, Gould, Anton, Hengel. 
-[[page]()]
+[[page](https://arxiv.org/pdf/1711.07280)]
 
 * **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation**, ACL, 2019.
 Jain, Vihan, Gabriel, Magalhaes, Alexander, Ku, Ashish, Vaswani, Eugene, Ie, Jason, Baldridge. 
-[[page]()]
+[[page](https://arxiv.org/pdf/1905.12255)]
 
 * **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**, ECCV, 2020,
 Krantz, Jacob and Wijmans, Erik and Majumdar, Arjun and Batra, Dhruv and Lee, Stefan.
-[[page]()]
+[[page](https://arxiv.org/pdf/2004.02857)]
 
 * **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments**, CVPR, 2019.
 Chen, Howard, Alane, Suhr, Dipendra, Misra, Noah, Snavely, Yoav, Artzi. 
-[[page]()]
+[[page](https://arxiv.org/pdf/1811.12354)]
 
 * **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments**, CVPR, 2020.
 Qi, Yuankai, Qi, Wu, Peter, Anderson, Xin, Wang, William Yang, Wang, Chunhua, Shen, Anton, Hengel. 
-[[page]()]
+[[page](https://arxiv.org/pdf/1904.10151)]
 
 * **SOON: Scenario Oriented Object Navigation with Graph-based Exploration**, CVPR, 2021.
 Zhu, Fengda, Xiwen, Liang, Yi, Zhu, Qizhi, Yu, Xiaojun, Chang, Xiaodan, Liang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2103.17138)]
+
+* **Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation**, NIPS, 2023.
+Wang, Chen, Li, Wu, Dong. 
+[[page](https://arxiv.org/pdf/2309.08138)]
 
 * **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks**, CVPR, 2020.
 Shridhar, Mohit, Jesse, Thomason, Daniel, Gordon, Yonatan, Bisk, Winson, Han, Roozbeh, Mottaghi, Luke, Zettlemoyer, Dieter, Fox. 
-[[page]()]
+[[page](https://arxiv.org/pdf/1912.01734)]
 
-* **HomeRobot: Open-Vocabulary Mobile Manipulation**, arXiv, 2023.
+* **HomeRobot: Open-Vocabulary Mobile Manipulation**, NIPS, 2023.
 Yenamandra, Sriram, Arun, Ramachandran, Karmesh, Yadav, Austin, Wang, Mukul, Khanna, Theophile, Gervet, Tsung-Yen, Yang, Vidhi, Jain, AlexanderWilliam, Clegg, John, Turner, Zsolt, Kira, Manolis, Savva, Angel, Chang, DevendraSingh, Chaplot, Dhruv, Batra, Roozbeh, Mottaghi, Yonatan, Bisk, Chris, Paxton. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2306.11565)]
 
 * **Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation**, Conference on Robot Learning. 2023.
 Li, Chengshu, Ruohan, Zhang, Josiah, Wong, Cem, Gokmen, Sanjana, Srivastava, Roberto, Mart\in-Mart\'\in, Chen, Wang, Gabrael, Levine, Michael, Lingelbach, Jiankai, Sun, others. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2403.09227)]
 
 * **Vision-and-dialog navigation**, Conference on Robot Learning. 2020.
 Thomason, Jesse, Michael, Murray, Maya, Cakmak, Luke, Zettlemoyer. 
-[[page]()]
+[[page](https://arxiv.org/pdf/1907.04957)]
 
 * **DialFRED: Dialogue-Enabled Agents for Embodied Instruction Following**, arXiv, 2022.
 Gao, Xiaofeng, Qiaozi, Gao, Ran, Gong, Kaixiang, Lin, Govind, Thattai, GauravS., Sukhatme. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2202.13330)]
 
 * **Language and visual entity relationship graph for agent navigation**, NeurIPS, 2020.
 Hong, Yicong, Cristian, Rodriguez, Yuankai, Qi, Qi, Wu, Stephen, Gould. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2010.09304)]
 
 * **Language-Guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning**, IEEE T-CSVT 31. (2020): 3469-3481.
 Weixia Zhang, , Chao Ma, Qi Wu, Xiaokang Yang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2011.10972)]
 
 * **Vision-Language Navigation Policy Learning and Adaptation**, IEEE T-PAMI 43. 12(2021): 4205-4216.
 Wang, Xin, Qiuyuan, Huang, Asli, Celikyilmaz, Jianfeng, Gao, Dinghan, Shen, Yuan-Fang, Wang, William Yang, Wang, Lei, Zhang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/https://ieeexplore.ieee.org/document/8986691)]
 
 * **FILM: Following Instructions in Language with Modular Methods**, ICLR, 2022.
 So Yeon Min, , Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2110.07342)]
 
 * **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, Conference on Robot Learning. 2022.
 Dhruv Shah, , Blazej Osinski, Brian Ichter, Sergey Levine. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2207.04429)]
 
 * **HOP: History-and-Order Aware Pretraining for Vision-and-Language Navigation**, CVPR, 2022.
 Qiao, Yanyuan, Yuankai, Qi, Yicong, Hong, Zheng, Yu, Peng, Wang, Qi, Wu. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2203.11591)]
 
 * **Towards Learning a Generalist Model for Embodied Navigation**, CVPR, 2024.
 Duo Zheng, , Shijia Huang, Lin Zhao, Yiwu Zhong, Liwei Wang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2312.02010)]
 
 * **Fast-Slow Test-time Adaptation for Online Vision-and-Language Navigation** ICML, 2024.
 Junyu Gao, , Xuan Yao, Changsheng Xu. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2311.13209)]
 
 * **Discuss before moving: Visual language navigation via multi-expert discussions**, ICRA, 2024.
 Long, Yuxing, Xiaoqi, Li, Wenzhe, Cai, Hao, Dong. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2309.11382)]
 
 * **Vision-and-Language Navigation via Causal Learning**, CVPR, 2024.
 Liuyi Wang, Qijun Chen. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2404.10241)]
 
 * **Volumetric Environment Representation for Vision-Language Navigation**, CVPR, 2024.
 Rui Liu, Yi Yang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2403.14158)]
 
 * **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**, ArXiv, 2024.
 Jiazhao Zhang, , Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang, Qi Wu, Zhizheng Zhang, Wang He. 
-[[page]()]
+[[page](https://arxiv.org/pdf/2402.15852)]
 
 * **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**, ECCV, 2018.
 Xin Eric Wang, , Wenhan Xiong, Hongmin Wang, William Yang Wang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **Neighbor-view enhanced model for vision and language navigation**, MM, 2021.
 An, Dong, Yuankai, Qi, Yan, Huang, Qi, Wu, Liang, Wang, Tieniu, Tan. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**, CVPR, 2022.
 Hong, Yicong, Zun, Wang, Qi, Wu, Stephen, Gould. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **March in Chat: Interactive Prompting for Remote Embodied Referring Expression**, ICCV, 2023.
 Qiao, Yanyuan, Yuankai, Qi, Zheng, Yu, Jing, Liu, Qi, Wu. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**, CVPR 2024.
 Wang, Zihan, Xiangyang, Li, Jiahao, Yang, Yeqi, Liu, Junjie, Hu, Ming, Jiang, Shuqiang, Jiang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**, IEEE T-PAMI, 2024.
 An, Dong, Hanqing, Wang, Wenguan, Wang, Zun, Wang, Yan, Huang, Keji, He, Liang, Wang. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **Multi-level compositional reasoning for interactive instruction following**, AAAI, 2023.
 Bhambri, Suvaansh, Byeonghwi, Kim, Jonghyun, Choi. 
-[[page]()]
+[[page](https://arxiv.org/pdf/)]
 
 * **Vision and Language Navigation in the Real World via Online Visual Language Mapping**, ArXiv, 2023.
 Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong. 
-[[page]()] 
+[[page](https://arxiv.org/pdf/)]
+
+* **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.
+Wu, Wang, Xu, Lu, Yan. 
+[[page](https://arxiv.org/pdf/2406.11818)]
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 * **Embodied Question Answering**, CVPR, 2018
