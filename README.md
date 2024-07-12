@@ -1068,11 +1068,11 @@ Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
 
 ```bibtex
-@article{Liu2024EAISurvey,
-        title={Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI}, 
-        author={Yang Liu, Weixing Chen, Yongjie Bai, Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, Ganlong Zhao, Junyi Lin, Guanbin Li, Wen Gao and Liang Lin},
-        year={2024},
-        journal={arXiv preprint arXiv:2407.06886},
+@article{liu2024aligning,
+  title={Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI},
+  author={Liu, Yang and Chen, Weixing and Bai, Yongjie and Luo, Jingzhou and Song, Xinshuai and Jiang, Kaixuan and Li, Zhida and Zhao, Ganlong and Lin, Junyi and Li, Guanbin and others},
+  journal={arXiv preprint arXiv:2407.06886},
+  year={2024}
 }
 ```
 
