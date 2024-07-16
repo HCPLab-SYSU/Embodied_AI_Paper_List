@@ -378,6 +378,25 @@ Jain, Ayush and Gkanatsios, Nikolaos and Mediratta, Ishita and Fragkiadaki, Kate
 Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian
 [[page]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.pdf)
 
+* **3d-vista: Pre-trained transformer for 3d vision and text alignment**, ICCV, 2023     
+Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, and Qing Li     
+[[page]](https://3d-vista.github.io/)    
+
+* **SQA3D: Situated Question Answering in 3D Scenes**, ICLR, 2023    
+Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, and Siyuan Huang    
+[[page]]([https://sqa3d.github.io/))    
+
+* **LEO: An Embodied Generalist Agent in 3D World**, ICML, 2024      
+Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, and Siyuan Huang   
+[[page]](https://embodied-generalist.github.io/)    
+
+* **SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**, ECCV, 2024    
+Baoxiong Jia, Yixin Chen, Huangyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, and Siyuan Huang    
+[[page]](https://scene-verse.github.io/)    
+
+* **PQ3D: Unifying 3D Vision-Language Understanding via Promptable Queries**, ECCV, 2024     
+Ziyu Zhu, Zhuofan Zhang, Xiaojian Ma, Xuesong Niu, Yixin Chen, Baoxiong Jia, Zhidong Deng, Siyuan Huang, and Qing Li    
+[[page]](https://3d-vista.github.io/)
 
 ### Visual Language Navigation
 
