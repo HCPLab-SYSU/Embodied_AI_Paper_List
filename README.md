@@ -8,7 +8,7 @@
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to **liuy856@mail.sysu.edu.cn** and **chen867820261@gmail.com**. Thanks for your cooperation!
 
 **Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**    
-  [[Yang Liu](https://yangliu9208.github.io)], Weixing Chen, Yongjie Bai, Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, Ganlong Zhao, Junyi Lin, Guanbin Li, Wen Gao, [Liang Lin](http://www.linliang.net/)     
+  [Yang Liu](https://yangliu9208.github.io), Weixing Chen, Yongjie Bai, Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, Ganlong Zhao, Junyi Lin, Guanbin Li, Wen Gao, [Liang Lin](http://www.linliang.net/)     
   [[PDF](https://arxiv.org/pdf/2407.06886)] 
 <p align="center">
 <img src="./survey.jpg" width="800">
