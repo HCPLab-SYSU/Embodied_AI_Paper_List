@@ -532,6 +532,331 @@ Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong.
 Wu, Wang, Xu, Lu, Yan. 
 [[page](https://arxiv.org/pdf/2406.11818)]
 
+### Non-Visual Perception: Tactile
+* **Learning visuotactile skills with two multifingered hands**, ArXiv, 2024.
+Lin, Toru and Zhang, Yu and Li, Qiyang and Qi, Haozhi and Yi, Brent and Levine, Sergey and Malik, Jitendra.
+[[page](https://arxiv.org/pdf/2404.16823)]
+
+* **Binding touch to everything: Learning unified multimodal tactile representations**, CVPR, 2024.
+Yang, Fengyu and Feng, Chao and Chen, Ziyang and Park, Hyoungseob and Wang, Daniel and Dou, Yiming and Zeng, Ziyao and Chen, Xien and Gangopadhyay, Rit and Owens, Andrew and others.
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Binding_Touch_to_Everything_Learning_Unified_Multimodal_Tactile_Representations_CVPR_2024_paper.pdf)]
+
+* **Give Me a Sign: Using Data Gloves for Static Hand-Shape Recognition**, Sensors, 2023.
+Achenbach, Philipp and Laux, Sebastian and Purdack, Dennis and Müller, Philipp Niklas and Göbel, Stefan.
+[[page](https://www.mdpi.com/1424-8220/23/24/9847/pdf)]
+
+* **Semantics-aware adaptive knowledge distillation for sensor-to-vision action recognition**, IEEE Transactions on Image Processing, 2021.
+Liu, Yang and Wang, Keze and Li, Guanbin and Lin, Liang.
+[[page](https://arxiv.org/pdf/2009.00210)]
+
+* **Hand movements: A window into haptic object recognition**, Cognitive psychology, 1987.
+Lederman, Susan J and Klatzky, Roberta L.
+[[page](https://www.sciencedirect.com/science/article/pii/0010028587900089)]
+
+* **Force and tactile sensing**, Springer Handbook of Robotics, 2016.
+Cutkosky, Mark R and Howe, Robert D and Provancher, William R.
+[[page](https://link.springer.com/chapter/10.1007/978-3-319-32552-1_28)]
+
+* **Haptic perception: A tutorial**, Attention, Perception, & Psychophysics, 2009.
+Lederman, Susan J and Klatzky, Roberta L.
+[[page](https://link.springer.com/content/pdf/10.3758/APP.71.7.1439.pdf)]
+
+* **Flexible tactile sensing based on piezoresistive composites: A review**, Sensors, 2014.
+Stassi, Stefano and Cauda, Valentina and Canavese, Giancarlo and Pirri, Candido Fabrizio.
+[[page](https://www.mdpi.com/1424-8220/14/3/5296.)]
+
+* **Tactile sensing in dexterous robot hands**, Robotics and Autonomous Systems, 2015.
+Kappassov, Zhanat and Corrales, Juan-Antonio and Perdereau, Véronique.
+[[page](https://uca.hal.science/hal-01680649/document)]
+
+* **Bioinspired sensors and applications in intelligent robots: a review**, Robotic Intelligence and Automation, 2024.
+Zhou, Yanmin and Yan, Zheng and Yang, Ye and Wang, Zhipeng and Lu, Ping and Yuan, Philip F and He, Bin.
+[[page](https://www.emerald.com/insight/content/doi/10.1108/RIA-07-2023-0088/full/pdf)]
+
+* **Sensing tactile microvibrations with the BioTac—Comparison with human sensitivity**, BioRob, 2012.
+Fishel, Jeremy A and Loeb, Gerald E.
+[[page](https://www.researchgate.net/profile/Gerald-Loeb/publication/256748883_Sensing_tactile_microvibrations_with_the_BioTac_Comparison_with_human_sensitivity/links/5dbcacae299bf1a47b0a3fa6/Sensing-tactile-microvibrations-with-the-BioTac-Comparison-with-human-sensitivity.pdf)]
+
+* **Simulation of the SynTouch BioTac sensor**, Intelligent Autonomous Systems 15: Proceedings of the 15th International Conference IAS-15, 2019.
+Ruppel, Philipp and Jonetzko, Yannick and Görner, Michael and Hendrich, Norman and Zhang, Jianwei.
+[[page](https://www.researchgate.net/profile/Yannick-Jonetzko/publication/330014756_Simulation_of_the_SynTouch_BioTac_Sensor_Proceedings_of_the_15th_International_Conference_IAS-15/links/5cc7ed694585156cd7bbc519/Simulation-of-the-SynTouch-BioTac-Sensor-Proceedings-of-the-15th-International-Conference-IAS-15.pdf)]
+
+* **GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force**, Sensors, 2017.
+Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.
+[[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]
+
+* **Gelslim 3.0: High-resolution measurement of shape, force and slip in a compact tactile-sensing finger**, ICRA, 2022.
+Taylor, Ian H and Dong, Siyuan and Rodriguez, Alberto.
+[[page](https://arxiv.org/pdf/2103.12269)]
+
+* **DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor With Application to In-Hand Manipulation**, IEEE Robotics and Automation Letters, 2020.
+Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and Jayaraman, Dinesh and Calandra, Roberto.
+[[page](https://arxiv.org/pdf/2005.14679)]
+
+* **9dtact: A compact vision-based tactile sensor for accurate 3D shape reconstruction and generalizable 6D force estimation**, IEEE Robotics and Automation Letters, 2023.
+Lin, Changyi and Zhang, Han and Xu, Jikai and Wu, Lei and Xu, Huazhe.
+[[page](https://arxiv.org/pdf/2308.14277)]
+
+* **The tactip family: Soft optical tactile sensors with 3D-printed biomimetic morphologies**, Soft Robotics, 2018.
+Ward-Cherrier, Benjamin and Pestell, Nicholas and Cramphorn, Luke and Winstone, Benjamin and Giannaccini, Maria Elena and Rossiter, Jonathan and Lepora, Nathan F.
+[[page](https://www.liebertpub.com/doi/pdf/10.1089/soro.2017.0052)]
+
+* **GelTip: A finger-shaped optical tactile sensor for robotic manipulation**, IROS, 2020.
+Gomes, Daniel Fernandes and Lin, Zhonglin and Luo, Shan.
+[[page](https://arxiv.org/pdf/2008.05404)]
+
+* **Allsight: A low-cost and high-resolution round tactile sensor with zero-shot learning capability**, IEEE Robotics and Automation Letters, 2023.
+Azulay, Osher and Curtis, Nimrod and Sokolovsky, Rotem and Levitski, Guy and Slomovik, Daniel and Lilling, Guy and Sintov, Avishai.
+[[page](https://arxiv.org/pdf/2307.02928)]
+
+* **Tacto: A fast, flexible, and open-source simulator for high-resolution vision-based tactile sensors**, IEEE Robotics and Automation Letters, 2022.
+Wang, Shaoxiong and Lambeta, Mike and Chou, Po-Wei and Calandra, Roberto.
+[[page](https://arxiv.org/pdf/2012.08456)]
+
+* **Taxim: An example-based simulation model for GelSight tactile sensors**, IEEE Robotics and Automation Letters, 2022.
+Si, Zilin and Yuan, Wenzhen.
+[[page](https://arxiv.org/pdf/2109.04027)]
+
+* **Vistac towards a unified multi-modal sensing finger for robotic manipulation**, IEEE Sensors Journal, 2023.
+Athar, Sheeraz and Patel, Gaurav and Xu, Zhengtong and Qiu, Qiang and She, Yu.
+[[page](https://ieeexplore.ieee.org/abstract/document/10242327/)]
+
+* **GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception**, arXiv, 2024.
+Ma, Yuxiang and Adelson, Edward.
+[[page](https://arxiv.org/pdf/2403.14887)]
+
+* **Sensing tactile microvibrations with the BioTac—Comparison with human sensitivity**, BioRob, 2012.
+Fishel, Jeremy A and Loeb, Gerald E.
+[[page](https://www.researchgate.net/profile/Gerald-Loeb/publication/256748883_Sensing_tactile_microvibrations_with_the_BioTac_Comparison_with_human_sensitivity/links/5dbcacae299bf1a47b0a3fa6/Sensing-tactile-microvibrations-with-the-BioTac-Comparison-with-human-sensitivity.pdf)]
+
+* **The feeling of success: Does touch sensing help predict grasp outcomes?**, arXiv, 2017.
+Calandra, Roberto and Owens, Andrew and Upadhyaya, Manu and Yuan, Wenzhen and Lin, Justin and Adelson, Edward H and Levine, Sergey.
+[[page](https://arxiv.org/pdf/1710.05512)]
+
+* **Robust learning of tactile force estimation through robot interaction**, ICRA, 2019.
+Sundaralingam, Balakumar and Lambert, Alexander Sasha and Handa, Ankur and Boots, Byron and Hermans, Tucker and Birchfield, Stan and Ratliff, Nathan and Fox, Dieter.
+[[page](https://arxiv.org/pdf/1810.06187)]
+
+* **Objectfolder: A dataset of objects with implicit visual, auditory, and tactile representations**, arXiv, 2021.
+Gao, Ruohan and Chang, Yen-Yu and Mall, Shivani and Fei-Fei, Li and Wu, Jiajun.
+[[page](https://arxiv.org/pdf/2109.07991)]
+
+* **Objectfolder 2.0: A multisensory object dataset for sim2real transfer**, CVPR, 2022.
+Gao, Ruohan and Si, Zilin and Chang, Yen-Yu and Clarke, Samuel and Bohg, Jeannette and Fei-Fei, Li and Yuan, Wenzhen and Wu, Jiajun.
+[[page](http://openaccess.thecvf.com/content/CVPR2022/papers/Gao_ObjectFolder_2.0_A_Multisensory_Object_Dataset_for_Sim2Real_Transfer_CVPR_2022_paper.pdf)]
+
+* **Self-supervised visuo-tactile pretraining to locate and follow garment features**, ArXiv, 2022.
+Kerr, Justin and Huang, Huang and Wilcox, Albert and Hoque, Ryan and Ichnowski, Jeffrey and Calandra, Roberto and Goldberg, Ken.
+[[page](https://arxiv.org/pdf/2209.13042)]
+
+* **Midastouch: Monte-carlo inference over distributions across sliding touch**, CoRL, 2023.
+Suresh, Sudharshan and Si, Zilin and Anderson, Stuart and Kaess, Michael and Mukadam, Mustafa.
+[[page](https://proceedings.mlr.press/v205/suresh23a/suresh23a.pdf)]
+
+* **The objectfolder benchmark: Multisensory learning with neural and real objects**, CVPR, 2023.
+Gao, Ruohan and Dou, Yiming and Li, Hao and Agarwal, Tanmay and Bohg, Jeannette and Li, Yunzhu and Fei-Fei, Li and Wu, Jiajun.
+[[page](http://openaccess.thecvf.com/content/CVPR2023/papers/Gao_The_ObjectFolder_Benchmark_Multisensory_Learning_With_Neural_and_Real_Objects_CVPR_2023_paper.pdf)]
+
+* **A Touch, Vision, and Language Dataset for Multimodal Alignment**, ArXiv, 2024.
+Fu, Letian and Datta, Gaurav and Huang, Huang and Panitch, William Chung-Ho and Drake, Jaimyn and Ortiz, Joseph and Mukadam, Mustafa and Lambeta, Mike and Calandra, Roberto and Goldberg, Ken.
+[[page](https://arxiv.org/pdf/2402.13232)]
+
+* **Learning transferable visual models from natural language supervision**, International Conference on Machine Learning, 2021.
+Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others.
+[[page](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
+
+* **Imagebind: One embedding space to bind them all**, CVPR, 2023.
+Girdhar, Rohit and El-Nouby, Alaaeldin and Liu, Zhuang and Singh, Mannat and Alwala, Kalyan Vasudev and Joulin, Armand and Misra, Ishan.
+[[page](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)]
+
+* **Improved GelSight tactile sensor for measuring geometry and slip**, IROS, 2017.
+Dong, Siyuan and Yuan, Wenzhen and Adelson, Edward H.
+[[page](https://arxiv.org/pdf/1708.00922)]
+
+* **GelSight: High-resolution robot tactile sensors for estimating geometry and force**, Sensors, vol. 17, no. 12, pp. 2762, 2017.
+Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.
+[[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]
+
+* **Digit: A novel design for a low-cost compact high-resolution tactile sensor with application to in-hand manipulation**, IEEE Robotics and Automation Letters, 2020.
+Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and others.
+[[page](https://arxiv.org/pdf/2005.14679)]
+
+* **From pixels to percepts: Highly robust edge perception and contour following using deep learning and an optical biomimetic tactile sensor**, IEEE Robotics and Automation Letters, 2019.
+Lepora, Nathan F and Church, Alex and De Kerckhove, Conrad and Hadsell, Raia and Lloyd, John.
+[[page](https://arxiv.org/pdf/1812.02941)]
+
+* **Deep tactile experience: Estimating tactile sensor output from depth sensor data**, IROS, 2020.
+Patel, Karankumar and Iba, Soshi and Jamali, Nawid.
+[[page](https://arxiv.org/pdf/2110.08946)]
+
+* **Touching a nerf: Leveraging neural radiance fields for tactile sensory data generation**, Conference on Robot Learning, pp. 1618-1628, 2023.
+Zhong, Shaohong and Albini, Alessandro and Jones, Oiwi Parker and Maiolino, Perla and Posner, Ingmar.
+[[page](https://proceedings.mlr.press/v205/zhong23a/zhong23a.pdf)]
+
+* **Learning to read braille: Bridging the tactile reality gap with diffusion models**, ArXiv, 2023.
+Higuera, Carolina and Boots, Byron and Mukadam, Mustafa.
+[[page](https://arxiv.org/pdf/2304.01182)]
+
+* **Generating visual scenes from touch**, CVPR, 2023.
+Yang, Fengyu and Zhang, Jiacheng and Owens, Andrew.
+[[page](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Generating_Visual_Scenes_from_Touch_ICCV_2023_paper.pdf)]
+
+* **GelSight wedge: Measuring high-resolution 3D contact geometry with a compact robot finger**, ICRA, 2021.
+Wang, Shaoxiong and She, Yu and Romero, Branden and Adelson, Edward.
+[[page](https://arxiv.org/pdf/2106.08851)]
+
+* **Dtact: A vision-based tactile sensor that measures high-resolution 3D geometry directly from darkness**, ICRA, 2023.
+Lin, Changyi and Lin, Ziqi and Wang, Shaoxiong and Xu, Huazhe.
+[[page]()]
+
+* **3D shape perception from monocular vision, touch, and shape priors**, IROS, 2018.
+Wang, Shaoxiong and Wu, Jiajun and Sun, Xingyuan and Yuan, Wenzhen and Freeman, William T and Tenenbaum, Joshua B and Adelson, Edward H.
+[[page](https://arxiv.org/pdf/2209.13916)]
+
+* **Tactile mapping and localization from high-resolution tactile imprints**, ICRA, 2019.
+Bauza, Maria and Canal, Oleguer and Rodriguez, Alberto.
+[[page](https://arxiv.org/pdf/1904.10944)]
+
+* **Tactile object pose estimation from the first touch with geometric contact rendering**, CoRL, 2021.
+Villalonga, Maria Bauza and Rodriguez, Alberto and Lim, Bryan and Valls, Eric and Sechopoulos, Theo.
+[[page](https://proceedings.mlr.press/v155/villalonga21a/villalonga21a.pdf)]
+
+* **Visuotactile 6D pose estimation of an in-hand object using vision and tactile sensor data**, IEEE Robotics and Automation Letters, 2022.
+Dikhale, Snehal and Patel, Karankumar and Dhingra, Daksh and Naramura, Itoshi and Hayashi, Akinobu and Iba, Soshi and Jamali, Nawid.
+[[page](https://www.researchgate.net/profile/Snehal_Dikhale/publication/357842538_VisuoTactile_6D_Pose_Estimation_of_an_In-Hand_Object_Using_Vision_and_Tactile_Sensor_Data/links/6297b925416ec50bdb022987/VisuoTactile-6D-Pose-Estimation-of-an-In-Hand-Object-Using-Vision-and-Tactile-Sensor-Data.pdf)]
+
+* **In-hand pose estimation using hand-mounted RGB cameras and visuotactile sensors**, IEEE Access, 2023.
+Gao, Yuan and Matsuoka, Shogo and Wan, Weiwei and Kiyokawa, Takuya and Koyama, Keisuke and Harada, Kensuke.
+[[page](https://ieeexplore.ieee.org/iel7/6287639/6514899/10043666.pdf)]
+
+* **Collision-aware in-hand 6D object pose estimation using multiple vision-based tactile sensors**, ICRA, 2023.
+Caddeo, Gabriele M and Piga, Nicola A and Bottarel, Fabrizio and Natale, Lorenzo.
+[[page](https://arxiv.org/pdf/2301.13667)]
+
+* **Shapemap 3-D: Efficient shape mapping through dense touch and vision**, ICRA, 2022.
+Suresh, Sudharshan and Si, Zilin and Mangelson, Joshua G and Yuan, Wenzhen and Kaess, Michael.
+[[page](https://arxiv.org/pdf/2109.09884)]
+
+* **3D shape reconstruction from vision and touch**, NeurIPS, 2020.
+Smith, Edward and Calandra, Roberto and Romero, Adriana and Gkioxari, Georgia and Meger, David and Malik, Jitendra and Drozdzal, Michal.
+[[page](https://proceedings.neurips.cc/paper/2020/file/a3842ed7b3d0fe3ac263bcabd2999790-Paper.pdf)]
+
+* **Active 3D shape reconstruction from vision and touch**, NeurIPS, 2021.
+Smith, Edward and Meger, David and Pineda, Luis and Calandra, Roberto and Malik, Jitendra and Romero Soriano, Adriana and Drozdzal, Michal.
+[[page](https://proceedings.neurips.cc/paper/2021/file/8635b5fd6bc675033fb72e8a3ccc10a0-Paper.pdf)]
+
+* **Implicit neural representation for 3D shape reconstruction using vision-based tactile sensing**, ArXiv, 2023.
+Comi, Mauro and Church, Alex and Li, Kejie and Aitchison, Laurence and Lepora, Nathan F.
+[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2023_Paper_06.pdf)]
+
+* **Large-scale actionless video pre-training via discrete diffusion for efficient policy learning**, ArXiv, 2024.
+He, Haoran and Bai, Chenjia and Pan, Ling and Zhang, Weinan and Zhao, Bin and Li, Xuelong.
+[[page](https://arxiv.org/pdf/2402.14407)]
+
+* **Sliding touch-based exploration for modeling unknown object shape with multi-fingered hands**, IROS, 2023.
+Chen, Yiting and Tekden, Ahmet Ercan and Deisenroth, Marc Peter and Bekiroglu, Yasemin.
+[[page](https://arxiv.org/pdf/2308.00576)]
+
+* **Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces**, ArXiv, 2024.
+Comi, Mauro and Tonioni, Alessio and Yang, Max and Tremblay, Jonathan and Blukis, Valts and Lin, Yijiong and Lepora, Nathan F and Aitchison, Laurence.
+[[page](https://arxiv.org/pdf/2403.20275)]
+
+* **Tactile-augmented radiance fields**, CVPR, 2024.
+Dou, Yiming and Yang, Fengyu and Liu, Yi and Loquercio, Antonio and Owens, Andrew.
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Dou_Tactile-Augmented_Radiance_Fields_CVPR_2024_paper.pdf)]
+
+* **Visuotactile-rl: Learning multimodal manipulation policies with deep reinforcement learning**, ICRA, 2022.
+Hansen, Johanna and Hogan, Francois and Rivkin, Dmitriy and Meger, David and Jenkin, Michael and Dudek, Gregory.
+[[page](https://johannah.github.io/papers/Visuotactile-RL.pdf)]
+
+* **General In-hand Object Rotation with Vision and Touch**, CoRL, 2023.
+Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and Calandra, Roberto and Malik, Jitendra.
+[[page](https://proceedings.mlr.press/v229/qi23a/qi23a.pdf)]
+
+* **Sim-to-Real Model-Based and Model-Free Deep Reinforcement Learning for Tactile Pushing**, IEEE Robotics and Automation Letters, 2023.
+Yang, Max and Lin, Yijiong and Church, Alex and Lloyd, John and Zhang, Dandan and Barton, David AW and Lepora, Nathan F.
+[[page](https://arxiv.org/pdf/2307.14272)]
+
+* **AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**, ArXiv, 2024.
+Yang, Max and Lu, Chenghua and Church, Alex and Lin, Yijiong and Ford, Chris and Li, Haoran and Psomopoulou, Efi and Barton, David AW and Lepora, Nathan F.
+[[page](https://arxiv.org/pdf/2405.07391)]
+
+* **Unsupervised adversarial domain adaptation for sim-to-real transfer of tactile images**, IEEE Transactions on Instrumentation and Measurement, 2023.
+Jing, Xingshuo and Qian, Kun and Jianu, Tudor and Luo, Shan.
+[[page](https://ieeexplore.ieee.org/abstract/document/10106009/)]
+
+* **Feature-level Sim2Real Regression of Tactile Images for Robot Manipulation**, ICRA ViTac, 2024.
+Duan, Boyi and Qian, Kun and Zhao, Yongqiang and Zhang, Dongyuan and Luo, Shan.
+[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_09.pdf)]
+
+* **Tactile gym 2.0: Sim-to-real deep reinforcement learning for comparing low-cost high-resolution robot touch**, IEEE Robotics and Automation Letters, 2022.
+Lin, Yijiong and Lloyd, John and Church, Alex and Lepora, Nathan F.
+[[page](https://arxiv.org/pdf/2207.10763)]
+
+* **Convolutional autoencoder for feature extraction in tactile sensing**, IEEE Robotics and Automation Letters, 2019.
+Polic, Marsela and Krajacic, Ivona and Lepora, Nathan and Orsag, Matko.
+[[page](https://ieeexplore.ieee.org/abstract/document/8758942/)]
+
+* **Supervised autoencoder joint learning on heterogeneous tactile sensory data: Improving material classification performance**, IROS, 2020.
+Gao, Ruihan and Taunyazov, Tasbolat and Lin, Zhiping and Wu, Yan.
+[[page](https://yan-wu.com/wp-content/uploads/2020/08/gao2020supervised.pdf)]
+
+* **Learn from incomplete tactile data: Tactile representation learning with masked autoencoders**, IROS, 2023.
+Cao, Guanqun and Jiang, Jiaqi and Bollegala, Danushka and Luo, Shan.
+[[page](https://arxiv.org/pdf/2307.07358)]
+
+* **MAE4GM: Visuo-Tactile Learning for Property Estimation of Granular Material using Multimodal Autoencoder**,ICRA ViTac, 2024.
+Zhang, Zeqing and Zheng, Guangze and Ji, Xuebo and Chen, Guanqi and Jia, Ruixing and Chen, Wentao and Chen, Guanhua and Zhang, Liangjun and Pan, Jia.
+[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_01.pdf)]
+
+* **Connecting look and feel: Associating the visual and tactile properties of physical materials**, CVPR, 2017.
+Yuan, Wenzhen and Wang, Shaoxiong and Dong, Siyuan and Adelson, Edward.
+[[page](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yuan_Connecting_Look_and_CVPR_2017_paper.pdf)]
+
+* **Making sense of vision and touch: Learning multimodal representations for contact-rich tasks**, IEEE Transactions on Robotics, 2020.
+Lee, Michelle A and Zhu, Yuke and Zachares, Peter and Tan, Matthew and Srinivasan, Krishnan and Savarese, Silvio and Fei-Fei, Li and Garg, Animesh and Bohg, Jeannette.
+[[page](https://arxiv.org/pdf/1907.13098)]
+
+* **Learning to identify object instances by touch: Tactile recognition via multimodal matching**, ICRA, 2019.
+Lin, Justin and Calandra, Roberto and Levine, Sergey.
+[[page](https://arxiv.org/pdf/1903.03591)]
+
+* **Touch and go: Learning from human-collected vision and touch**, ArXiv, 2022.
+Yang, Fengyu and Ma, Chenyang and Zhang, Jiacheng and Zhu, Jing and Yuan, Wenzhen and Owens, Andrew.
+[[page](https://arxiv.org/pdf/2211.12498)]
+
+* **Dexterity from touch: Self-supervised pre-training of tactile representations with robotic play**, ArXiv, 2023.
+Guzey, Irmak and Evans, Ben and Chintala, Soumith and Pinto, Lerrel.
+[[page](https://arxiv.org/pdf/2303.12076)]
+
+* **Octopi: Object Property Reasoning with Large Tactile-Language Models**, arXiv preprint arXiv:2405.02794, 2024.
+Yu, Samson and Lin, Kelvin and Xiao, Anxing and Duan, Jiafei and Soh, Harold.
+[[page](https://arxiv.org/pdf/2405.02794)]
+
+* **Learning efficient haptic shape exploration with a rigid tactile sensor array**, PloS One, 2020.
+Fleer, Sascha and Moringen, Alexandra and Klatzky, Roberta L and Ritter, Helge.
+[[page](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0226880&type=printable)]
+
+* **Interpreting and predicting tactile signals via a physics-based and data-driven framework**, ArXiv, 2020.
+Narang, Yashraj S and Van Wyk, Karl and Mousavian, Arsalan and Fox, Dieter.
+[[page](https://arxiv.org/pdf/2006.03777)]
+
+* **Interpreting and predicting tactile signals for the syntouch biotac**, The International Journal of Robotics Research, 2021.
+Narang, Yashraj S and Sundaralingam, Balakumar and Van Wyk, Karl and Mousavian, Arsalan and Fox, Dieter.
+[[page](https://arxiv.org/pdf/2101.05452)]
+
+* **Stable reinforcement learning with autoencoders for tactile and visual data**, IROS, 2016.
+Van Hoof, Herke and Chen, Nutan and Karl, Maximilian and van der Smagt, Patrick and Peters, Jan.
+[[page](https://www.academia.edu/download/47652433/Hoof2016.pdf)]
+
+* **Fast texture classification using tactile neural coding and spiking neural network**, IROS, 2020.
+Taunyazov, Tasbolat and Chua, Yansong and Gao, Ruihan and Soh, Harold and Wu, Yan.
+[[page](https://ruihangao.github.io/files/taunyazov2020fast.pdf)]
+
+* **When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective**, Arxiv, 2024.
+Li, Shoujie and Wang, Zihan and Wu, Changsheng and Li, Xiang and Luo, Shan and Fang, Bin and Sun, Fuchun and Zhang, Xiao-Ping and Ding, Wenbo.
+[[page](https://arxiv.org/pdf/2406.12226)]
+
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 * **Embodied Question Answering**, CVPR, 2018
 Das, Abhishek and Datta, Samyak and Gkioxari, Georgia and Lee, Stefan and Parikh, Devi and Batra, Dhruv
