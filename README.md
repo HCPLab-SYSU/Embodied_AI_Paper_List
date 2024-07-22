@@ -1406,6 +1406,12 @@ Cheng, Xuxin and Ji, Yandong and Chen, Junming and Yang, Ruihan and Yang, Ge and
 Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 [[page]](https://arxiv.longhoe.net/pdf/2104.09025)
 
+## Embodied Open-source Links
+
+
+
+## Acknowledgement
+We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Ganlong Zhao for their contributions.     
 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
