@@ -1406,9 +1406,24 @@ Cheng, Xuxin and Ji, Yandong and Chen, Junming and Yang, Ruihan and Yang, Ge and
 Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 [[page]](https://arxiv.longhoe.net/pdf/2104.09025)
 
-## Embodied Open-source Links
-
-
+## Other Useful Embodied Projects
+[Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)     
+[Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)    
+[Habitat-Lab](https://github.com/facebookresearch/habitat-lab)    
+[GibsonEnv](https://github.com/StanfordVL/GibsonEnv)    
+[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)    
+[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)       
+[MANIPULATE-ANYTHING：Automating Real-World Robots using Vision-Language Models](https://robot-ma.github.io/)    
+[Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)    
+[RoboMamba](https://sites.google.com/view/robomamba-web)   
+[LEGENT: Open Platform for Embodied Agents](https://github.com/thunlp/LEGENT)    
+[Octopus: Embodied Vision-Language Programmer from Environmental Feedback](https://github.com/dongyh20/Octopus)    
+[Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://github.com/allenai/Holodeck)    
+[AllenAct: An open source framework for research in Embodied AI](https://github.com/allenai/allenact)    
+[LEO: An Embodied Generalist Agent in 3D World](https://github.com/embodied-generalist/embodied-generalist)    
+[EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
+[EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
+[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://github.com/MineDojo/Voyager)    
 
 ## Acknowledgement
 We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Ganlong Zhao for their contributions.     
