@@ -14,6 +14,7 @@
 </p>  
 
 ## :collision: Update Log 
+* [2024.07.22] We have updated the paper list and other useful embodied projects!   
 * [2024.07.10] We release the first version of the survey on Embodied AI [PDF](https://arxiv.org/pdf/2407.06886)!
 * [2024.07.10] We release the first version of the paper list for Embodied AI. This page is continually updating!
 
