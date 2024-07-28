@@ -533,6 +533,12 @@ Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong.
 Wu, Wang, Xu, Lu, Yan. 
 [[page](https://arxiv.org/pdf/2406.11818)]
 
+* **Bridging zero-shot object navigation and foundation models through pixel-guided navigation skill** ICRA, 2024.        
+Wenzhe Cai, Siyuan Huang, Guangran Cheng, Yuxing Long, Peng Gao, Changyin Sun, and Hao Dong.    
+[[page]](https://github.com/wzcai99/Pixel-Navigator)   
+
+
+
 ### Non-Visual Perception: Tactile
 * **Learning visuotactile skills with two multifingered hands**, ArXiv, 2024.
 Lin, Toru and Zhang, Yu and Li, Qiyang and Qi, Haozhi and Yi, Brent and Levine, Sergey and Malik, Jitendra.
@@ -1217,6 +1223,20 @@ Noah Shinn, , Beck Labash, A. Gopinath.
 * **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** ArXiv, 2023.
 Zihao Wang, , Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang. 
 [[page]()]
+
+* **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model** ArXiv, 2023.     
+Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, and Hongsheng Li.      
+[[page]](https://github.com/OpenGVLab/Instruct2Act)
+
+* **ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models** IROS, 2024.     
+Siyuan Huang, Iaroslav Ponomarenko, Zhengkai Jiang, Xiaoqi Li, Xiaobin Hu, Peng Gao, Hongsheng Li, and Hao Dong.     
+[[page]](https://github.com/SiyuanHuang95/ManipVQA)
+
+* **A3VLM: Actionable Articulation-Aware Vision Language Model** ArXiv, 2024.       
+Siyuan Huang, Haonan Chang, Yuhan Liu, Yimeng Zhu, Hao Dong, Peng Gao, Abdeslam Boularias, and Hongsheng Li.       
+[[page]](https://github.com/changhaonan/A3VLM)     
+
+
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
 * **World Models**, NIPS, 2018
