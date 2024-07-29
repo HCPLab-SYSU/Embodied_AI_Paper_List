@@ -1228,6 +1228,10 @@ Zihao Wang, , Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.
 Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, and Hongsheng Li.      
 [[page]](https://github.com/OpenGVLab/Instruct2Act)
 
+* **LLM-SAP: Large Language Model Situational Awareness Based Planning** ArXiv, 2024.       
+Liman Wang, Hanyang Zhong.          
+[[page]](https://github.com/HanyangZhong/Situational_Planning_datasets)    
+
 * **ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models** IROS, 2024.     
 Siyuan Huang, Iaroslav Ponomarenko, Zhengkai Jiang, Xiaoqi Li, Xiaobin Hu, Peng Gao, Hongsheng Li, and Hao Dong.     
 [[page]](https://github.com/SiyuanHuang95/ManipVQA)
