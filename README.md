@@ -1,4 +1,15 @@
-# Paper list for Embodied AI 
+<br>
+<p align="center">
+<h1 align="center"><strong>Paper list for Embodied AI</strong></h1>
+  <p align="center">
+    <a href='https://github.com/HCPLab-SYSU' target='_blank'>HCPLab</a>&emsp;
+    <br>
+    Pengcheng Lab & SYSU HCP Lab
+    <br>
+  </p>
+</p>
+
+# 
 
 <p align="center">
 <img src="./EmbodiedAI.jpg" width="250">
