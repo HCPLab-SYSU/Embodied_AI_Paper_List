@@ -13,6 +13,8 @@
 <img src="./EmbodiedAI.jpg" width="250">
 </p>
 
+<!-- ![Teaser](teaser.jpg) -->
+
 [![arXiv](https://img.shields.io/badge/arXiv-2407.06886-orange)](https://arxiv.org/abs/2407.06886)
 [![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 
