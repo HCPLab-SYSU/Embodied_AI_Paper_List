@@ -1247,201 +1247,201 @@ Siyuan Huang, Haonan Chang, Yuhan Liu, Yimeng Zhu, Hao Dong, Peng Gao, Abdeslam 
 
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
-* **World Models**, NIPS, 2018
-Ha, David and Schmidhuber, J{\"u}rgen
-[[page]](https://mx.nthu.edu.tw/~jlliu/teaching/AI17/Auto8.pdf)
+* **World Models**, NIPS, 2018    
+Ha, David and Schmidhuber, Jurgen    
+[[page]](https://mx.nthu.edu.tw/~jlliu/teaching/AI17/Auto8.pdf)    
 
-* **Pandora: Towards General World Model with Natural Language Actions and Video States**, arXiv, 2024
-Xiang, Jiannan and Liu, Guangyi and Gu, Yi and Gao, Qiyue and Ning, Yuting and Zha, Yuheng and Feng, Zeyu and Tao, Tianhua and Hao, Shibo and Shi, Yemin and others
-[[page]](https://arxiv.org/abs/2406.09455)
+* **Pandora: Towards General World Model with Natural Language Actions and Video States**, arXiv, 2024    
+Xiang, Jiannan and Liu, Guangyi and Gu, Yi and Gao, Qiyue and Ning, Yuting and Zha, Yuheng and Feng, Zeyu and Tao, Tianhua and Hao, Shibo and Shi, Yemin and others    
+[[page]](https://arxiv.org/abs/2406.09455)    
 
-* **3D-VLA: A 3D Vision-Language-Action Generative World Model**, ICML, 2024 
-Zhen, Haoyu and Qiu, Xiaowen and Chen, Peihao and Yang, Jincheng and Yan, Xin and Du, Yilun and Hong, Yining and Gan, Chuang
-[[page]](https://openreview.net/forum?id=EZcFK8HupF)
+* **3D-VLA: A 3D Vision-Language-Action Generative World Model**, ICML, 2024     
+Zhen, Haoyu and Qiu, Xiaowen and Chen, Peihao and Yang, Jincheng and Yan, Xin and Du, Yilun and Hong, Yining and Gan, Chuang    
+[[page]](https://openreview.net/forum?id=EZcFK8HupF)    
 
-* **Diffusion World Model: Future Modeling Beyond Step-by-Step Rollout for Offline Reinforcement Learning**, arXiv, 2024
-Ding, Zihan and Zhang, Amy and Tian, Yuandong and Zheng, Qinqing
-[[page]](https://arxiv.org/abs/2402.03570)
+* **Diffusion World Model: Future Modeling Beyond Step-by-Step Rollout for Offline Reinforcement Learning**, arXiv, 2024    
+Ding, Zihan and Zhang, Amy and Tian, Yuandong and Zheng, Qinqing    
+[[page]](https://arxiv.org/abs/2402.03570)    
 
-* **MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features**, ICLR, 2024
-Bardes, Adrien and Ponce, Jean and LeCun, Yann
-[[page]](https://openreview.net/forum?id=9XdLlbxZCC)
+* **MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features**, ICLR, 2024    
+Bardes, Adrien and Ponce, Jean and LeCun, Yann    
+[[page]](https://openreview.net/forum?id=9XdLlbxZCC)    
 
-* **A-JEPA: Joint-Embedding Predictive Architecture Can Listen**, arXiv, 2023
-Fei, Zhengcong and Fan, Mingyuan and Huang, Junshi
-[[page]](https://arxiv.org/abs/2311.15830)
+* **A-JEPA: Joint-Embedding Predictive Architecture Can Listen**, arXiv, 2023    
+Fei, Zhengcong and Fan, Mingyuan and Huang, Junshi   
+[[page]](https://arxiv.org/abs/2311.15830)    
 
-* **Learning and Leveraging World Models in Visual Representation Learning**, arXiv, 2024
-Garrido, Quentin and Assran, Mahmoud and Ballas, Nicolas and Bardes, Adrien and Najman, Laurent and LeCun, Yann
-[[page]](https://arxiv.org/abs/2403.00504)
+* **Learning and Leveraging World Models in Visual Representation Learning**, arXiv, 2024    
+Garrido, Quentin and Assran, Mahmoud and Ballas, Nicolas and Bardes, Adrien and Najman, Laurent and LeCun, Yann    
+[[page]](https://arxiv.org/abs/2403.00504)    
 
-* **iVideoGPT: Interactive VideoGPTs are Scalable World Models**, arXiv, 2024
-Wu, Jialong and Yin, Shaofeng and Feng, Ningya and He, Xu and Li, Dong and Hao, Jianye and Long, Mingsheng
-[[page]](https://arxiv.org/abs/2405.15223)
+* **iVideoGPT: Interactive VideoGPTs are Scalable World Models**, arXiv, 2024    
+Wu, Jialong and Yin, Shaofeng and Feng, Ningya and He, Xu and Li, Dong and Hao, Jianye and Long, Mingsheng   
+[[page]](https://arxiv.org/abs/2405.15223)   
 
-* **Spatiotemporal Predictive Pre-training for Robotic Motor Control**, arXiv, 2024
-Yang, Jiange and Liu, Bei and Fu, Jianlong and Pan, Bocheng and Wu, Gangshan and Wang, Limin
-[[page]](https://arxiv.org/abs/2403.05304)
+* **Spatiotemporal Predictive Pre-training for Robotic Motor Control**, arXiv, 2024    
+Yang, Jiange and Liu, Bei and Fu, Jianlong and Pan, Bocheng and Wu, Gangshan and Wang, Limin   
+[[page]](https://arxiv.org/abs/2403.05304)    
 
-* **MuDreamer: Learning Predictive World Models without Reconstruction**, ICLR, 2024 
-Burchi, Maxime and Timofte, Radu
-[[page]](https://openreview.net/forum?id=9pe38WpsbX)
+* **MuDreamer: Learning Predictive World Models without Reconstruction**, ICLR, 2024    
+Burchi, Maxime and Timofte, Radu    
+[[page]](https://openreview.net/forum?id=9pe38WpsbX)    
 
-* **From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**, arXiv, 2024
-Wong, Lionel and Grand, Gabriel and Lew, Alexander K and Goodman, Noah D and Mansinghka, Vikash K and Andreas, Jacob and Tenenbaum, Joshua B
-[[page]](https://arxiv.org/abs/2306.12672)
+* **From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**, arXiv, 2024    
+Wong, Lionel and Grand, Gabriel and Lew, Alexander K and Goodman, Noah D and Mansinghka, Vikash K and Andreas, Jacob and Tenenbaum, Joshua B    
+[[page]](https://arxiv.org/abs/2306.12672)    
 
-* **ElastoGen: 4D Generative Elastodynamics**, arXiv, 2024
-Feng, Yutao and Shang, Yintong and Feng, Xiang and Lan, Lei and Zhe, Shandian and Shao, Tianjia and Wu, Hongzhi and Zhou, Kun and Su, Hao and Jiang, Chenfanfu and others
-[[page]](https://arxiv.org/abs/2405.15056)
+* **ElastoGen: 4D Generative Elastodynamics**, arXiv, 2024    
+Feng, Yutao and Shang, Yintong and Feng, Xiang and Lan, Lei and Zhe, Shandian and Shao, Tianjia and Wu, Hongzhi and Zhou, Kun and Su, Hao and Jiang, Chenfanfu and others   
+[[page]](https://arxiv.org/abs/2405.15056)    
 
-* **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, NeurIPS, 2023
-Liu, Minghua and Xu, Chao and Jin, Haian and Chen, Linghao and Varma T, Mukund and Xu, Zexiang and Su, Hao
-[[page]](https://openreview.net/forum?id=A6X9y8n4sT)
+* **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, NeurIPS, 2023    
+Liu, Minghua and Xu, Chao and Jin, Haian and Chen, Linghao and Varma T, Mukund and Xu, Zexiang and Su, Hao   
+[[page]](https://openreview.net/forum?id=A6X9y8n4sT)    
 
-* **LEGENT: Open Platform for Embodied Agents**, arXiv, 2024
-Cheng, Zhili and Wang, Zhitong and Hu, Jinyi and Hu, Shengding and Liu, An and Tu, Yuge and Li, Pengkai and Shi, Lei and Liu, Zhiyuan and Sun, Maosong
-[[page]](https://arxiv.org/abs/2404.18243)
+* **LEGENT: Open Platform for Embodied Agents**, arXiv, 2024    
+Cheng, Zhili and Wang, Zhitong and Hu, Jinyi and Hu, Shengding and Liu, An and Tu, Yuge and Li, Pengkai and Shi, Lei and Liu, Zhiyuan and Sun, Maosong    
+[[page]](https://arxiv.org/abs/2404.18243)    
 
-* **Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**, arXiv, 2024
-Saito, Ayumu and Poovvancheri, Jiju
-[[page]](https://arxiv.org/abs/2404.16432)
+* **Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**, arXiv, 2024    
+Saito, Ayumu and Poovvancheri, Jiju   
+[[page]](https://arxiv.org/abs/2404.16432)    
 
-* **A Path Towards Autonomous Machine Intelligence Version 0.9.2, 2022-06-27**, Open Review, 2022
-Yann LeCun
-[[page]](https://openreview.net/pdf?id=BZ5a1r-kVsf&)
+* **A Path Towards Autonomous Machine Intelligence Version 0.9.2, 2022-06-27**, Open Review, 2022    
+Yann LeCun    
+[[page]](https://openreview.net/pdf?id=BZ5a1r-kVsf&)    
 
-* **Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence**, arXiv, 2023
-Dawid, Anna and LeCun, Yann
-[[page]](https://arxiv.org/abs/2306.02572)
+* **Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence**, arXiv, 2023    
+Dawid, Anna and LeCun, Yann    
+[[page]](https://arxiv.org/abs/2306.02572)    
 
-* **Robust agents learn causal world models**, ICLR, 2024
-Richens, Jonathan, and Tom Everitt
-[[page]](https://arxiv.org/pdf/2402.10877)
+* **Robust agents learn causal world models**, ICLR, 2024    
+Richens, Jonathan, and Tom Everitt   
+[[page]](https://arxiv.org/pdf/2402.10877)    
 
-* **Real2Sim2Real: Self-Supervised Learning of Physical Single-Step Dynamic Actions for Planar Robot Casting**, ICRA, 2022
-Lim, Vincent and Huang, Huang and Chen, Lawrence Yunliang and Wang, Jonathan and Ichnowski, Jeffrey and Seita, Daniel and Laskey, Michael and Goldberg, Ken
-[[page]](https://dl.acm.org/doi/abs/10.1109/ICRA46639.2022.9811651)
+* **Real2Sim2Real: Self-Supervised Learning of Physical Single-Step Dynamic Actions for Planar Robot Casting**, ICRA, 2022    
+Lim, Vincent and Huang, Huang and Chen, Lawrence Yunliang and Wang, Jonathan and Ichnowski, Jeffrey and Seita, Daniel and Laskey, Michael and Goldberg, Ken    
+[[page]](https://dl.acm.org/doi/abs/10.1109/ICRA46639.2022.9811651)    
 
-* **Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots**, arXiv， 2024
-Chi, Cheng and Xu, Zhenjia and Pan, Chuer and Cousineau, Eric and Burchfiel, Benjamin and Feng, Siyuan and Tedrake, Russ and Song, Shuran
-[[page]](https://arxiv.org/abs/2402.10329)
+* **Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots**, arXiv， 2024   
+Chi, Cheng and Xu, Zhenjia and Pan, Chuer and Cousineau, Eric and Burchfiel, Benjamin and Feng, Siyuan and Tedrake, Russ and Song, Shuran    
+[[page]](https://arxiv.org/abs/2402.10329)   
 
-* **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**, arXiv, 2024
-Fu, Zipeng and Zhao, Tony Z and Finn, Chelsea
-[[page]](https://mobile-aloha.github.io/resources/mobile-aloha.pdf)
+* **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**, arXiv, 2024    
+Fu, Zipeng and Zhao, Tony Z and Finn, Chelsea   
+[[page]](https://mobile-aloha.github.io/resources/mobile-aloha.pdf)   
 
-* **Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition**, arXiv, 2024
-Luo, Shengcheng and Peng, Quanquan and Lv, Jun and Hong, Kaiwen and Driggs-Campbell, Katherine Rose and Lu, Cewu and Li, Yong-Lu
-[[page]](https://arxiv.org/pdf/2407.00299)
+* **Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition**, arXiv, 2024    
+Luo, Shengcheng and Peng, Quanquan and Lv, Jun and Hong, Kaiwen and Driggs-Campbell, Katherine Rose and Lu, Cewu and Li, Yong-Lu    
+[[page]](https://arxiv.org/pdf/2407.00299)   
+  
+* **Transporter Networks: Rearranging the Visual World for Robotic Manipulation**, CoRL, 2021    
+Zeng, Andy and Florence, Pete and Tompson, Jonathan and Welker, Stefan and Chien, Jonathan and Attarian, Maria and Armstrong, Travis and Krasin, Ivan and Duong, Dan and Sindhwani, Vikas and others    
+[[page]](https://proceedings.mlr.press/v155/zeng21a.html)   
 
-* **Transporter Networks: Rearranging the Visual World for Robotic Manipulation**, CoRL, 2021
-Zeng, Andy and Florence, Pete and Tompson, Jonathan and Welker, Stefan and Chien, Jonathan and Attarian, Maria and Armstrong, Travis and Krasin, Ivan and Duong, Dan and Sindhwani, Vikas and others
-[[page]](https://proceedings.mlr.press/v155/zeng21a.html)
+* **GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts**, CVPR, 2023    
+Geng, Haoran and Xu, Helin and Zhao, Chengyang and Xu, Chao and Yi, Li and Huang, Siyuan and Wang, He    
+[[page]](https://ieeexplore.ieee.org/abstract/document/10203924)    
 
-* **GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts**, CVPR, 2023
-Geng, Haoran and Xu, Helin and Zhao, Chengyang and Xu, Chao and Yi, Li and Huang, Siyuan and Wang, He
-[[page]](https://ieeexplore.ieee.org/abstract/document/10203924)
+* **Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**, arXiv, 2024    
+Torne, Marcel and Simeonov, Anthony and Li, Zechu and Chan, April and Chen, Tao and Gupta, Abhishek and Agrawal, Pulkit   
+[[page]](https://arxiv.org/abs/2403.03949)    
 
-* **Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**, arXiv, 2024
-Torne, Marcel and Simeonov, Anthony and Li, Zechu and Chan, April and Chen, Tao and Gupta, Abhishek and Agrawal, Pulkit
-[[page]](https://arxiv.org/abs/2403.03949)
+* **TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**, arXiv, 2024   
+Jiang, Yunfan and Wang, Chen and Zhang, Ruohan and Wu, Jiajun and Fei-Fei, Li    
+[[page]](https://arxiv.org/abs/2405.10315)    
 
-* **TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**, arXiv, 2024
-Jiang, Yunfan and Wang, Chen and Zhang, Ruohan and Wu, Jiajun and Fei-Fei, Li
-[[page]](https://arxiv.org/abs/2405.10315)
+* **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World**, IROS, 2017    
+Tobin, Josh and Fong, Rachel and Ray, Alex and Schneider, Jonas and Zaremba, Wojciech and Abbeel, Pieter    
+[[page]](https://ieeexplore.ieee.org/abstract/document/8202133)    
 
-* **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World**, IROS, 2017
-Tobin, Josh and Fong, Rachel and Ray, Alex and Schneider, Jonas and Zaremba, Wojciech and Abbeel, Pieter
-[[page]](https://ieeexplore.ieee.org/abstract/document/8202133)
+* **Learning Dexterous In-Hand Manipulation**, The International Journal of Robotics Research, 2020    
+Andrychowicz, OpenAI: Marcin and Baker, Bowen and Chociej, Maciek and Jozefowicz, Rafal and McGrew, Bob and Pachocki, Jakub and Petron, Arthur and Plappert, Matthias and Powell, Glenn and Ray, Alex and others    
+[[page]](https://journals.sagepub.com/doi/full/10.1177/0278364919887447)    
 
-* **Learning Dexterous In-Hand Manipulation**, The International Journal of Robotics Research, 2020
-Andrychowicz, OpenAI: Marcin and Baker, Bowen and Chociej, Maciek and Jozefowicz, Rafal and McGrew, Bob and Pachocki, Jakub and Petron, Arthur and Plappert, Matthias and Powell, Glenn and Ray, Alex and others
-[[page]](https://journals.sagepub.com/doi/full/10.1177/0278364919887447)
+* **Sim-to-Real Reinforcement Learning for Deformable Object Manipulation**, CoRL, 2018    
+Matas, Jan and James, Stephen and Davison, Andrew J    
+[[page]](http://proceedings.mlr.press/v87/matas18a/matas18a.pdf)   
 
-* **Sim-to-Real Reinforcement Learning for Deformable Object Manipulation**, CoRL, 2018
-Matas, Jan and James, Stephen and Davison, Andrew J
-[[page]](http://proceedings.mlr.press/v87/matas18a/matas18a.pdf)
+* **Sim2Real Transfer for Reinforcement Learning without Dynamics Randomization**, IROS, 2020    
+Kaspar, Manuel and Osorio, Juan D Mu{\~n}oz and Bock, Jurgen      
+[[page]](https://ieeexplore.ieee.org/abstract/document/9341260)   
 
-* **Sim2Real Transfer for Reinforcement Learning without Dynamics Randomization**, IROS, 2020
-Kaspar, Manuel and Osorio, Juan D Mu{\~n}oz and Bock, J{\"u}rgen
-[[page]](https://ieeexplore.ieee.org/abstract/document/9341260)
+* **Preparing for the Unknown: Learning a Universal Policy with Online System Identification**, RSS, 2017    
+Yu, Wenhao and Tan, Jie and Liu, C Karen and Turk, Greg    
+[[page]](https://arxiv.org/abs/1702.02453)    
 
-* **Preparing for the Unknown: Learning a Universal Policy with Online System Identification**, RSS, 2017
-Yu, Wenhao and Tan, Jie and Liu, C Karen and Turk, Greg
-[[page]](https://arxiv.org/abs/1702.02453)
+* **Natural Language Can Help Bridge the Sim2Real Gap**, arXiv, 2024    
+Yu, Albert and Foote, Adeline and Mooney, Raymond and Mart{\'\i}n-Mart{\'\i}n, Roberto   
+[[page]](https://arxiv.org/pdf/2405.10020)    
+ 
+* **Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion**, IEEE TPAMI, 2023    
+Huang, Changxin and Wang, Guangrun and Zhou, Zhibo and Zhang, Ronghui and Lin, Liang   
+[[page]](https://www.computer.org/csdl/journal/tp/2023/06/09956746/1Iu2CDAJBcc)    
 
-* **Natural Language Can Help Bridge the Sim2Real Gap**, arXiv, 2024
-Yu, Albert and Foote, Adeline and Mooney, Raymond and Mart{\'\i}n-Mart{\'\i}n, Roberto
-[[page]](https://arxiv.org/pdf/2405.10020)
+* **DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning**, IEEE Robotics and Automation Letters, 2020   
+Tsounis, Vassilios and Alge, Mitja and Lee, Joonho and Farshidian, Farbod and Hutter, Marco    
+[[page]](https://arxiv.org/pdf/1909.08399)    
 
-* **Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion**, IEEE TPAMI, 2023
-Huang, Changxin and Wang, Guangrun and Zhou, Zhibo and Zhang, Ronghui and Lin, Liang
-[[page]](https://www.computer.org/csdl/journal/tp/2023/06/09956746/1Iu2CDAJBcc)
+* **Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware**, ICML, 2023    
+Zhao, Tony Z and Kumar, Vikash and Levine, Sergey and Finn, Chelsea    
+[[page]](https://openreview.net/forum?id=e8Eu1lqLaf)   
 
-* **DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning**, IEEE Robotics and Automation Letters, 2020
-Tsounis, Vassilios and Alge, Mitja and Lee, Joonho and Farshidian, Farbod and Hutter, Marco
-[[page]](https://arxiv.org/pdf/1909.08399)
+* **Visual Whole-Body Control for Legged Loco-Manipulation**, arXiv, 2024    
+Liu, Minghuan and Chen, Zixuan and Cheng, Xuxin and Ji, Yandong and Yang, Ruihan and Wang, Xiaolong    
+[[page]](https://arxiv.org/pdf/2403.16967)    
 
-* **Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware**, ICML, 2023
-Zhao, Tony Z and Kumar, Vikash and Levine, Sergey and Finn, Chelsea
-[[page]](https://openreview.net/forum?id=e8Eu1lqLaf)
+* **Dynamic walk of a biped**, The International Journal of Robotics Research, 1984   
+Miura, Hirofumi and Shimoyama, Isao   
+[[page]](https://journals.sagepub.com/doi/abs/10.1177/027836498400300206)    
 
-* **Visual Whole-Body Control for Legged Loco-Manipulation**, arXiv, 2024 
-Liu, Minghuan and Chen, Zixuan and Cheng, Xuxin and Ji, Yandong and Yang, Ruihan and Wang, Xiaolong
-[[page]](https://arxiv.org/pdf/2403.16967)
+* **A Compliant Hybrid Zero Dynamics Controller for Stable, Efficient and Fast Bipedal Walking on MABEL**, The International Journal of Robotics Research, 2011    
+Sreenath, Koushil and Park, Hae-Won and Poulakakis, Ioannis and Grizzle, Jessy W    
+[[page]](https://sites.udel.edu/poulakas/files/2022/10/J07-A-Compliant-Hybrid-Zero-Dynamics-Controller.pdf)   
 
-* **Dynamic walk of a biped**, The International Journal of Robotics Research, 1984
-Miura, Hirofumi and Shimoyama, Isao
-[[page]](https://journals.sagepub.com/doi/abs/10.1177/027836498400300206)
+* **MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot**, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018    
+Bledt, Gerardo and Powell, Matthew J and Katz, Benjamin and Di Carlo, Jared and Wensing, Patrick M and Kim, Sangbae    
+[[page]](https://dspace.mit.edu/bitstream/handle/1721.1/126619/iros.pdf?sequence=2)   
 
-* **A Compliant Hybrid Zero Dynamics Controller for Stable, Efficient and Fast Bipedal Walking on MABEL**, The International Journal of Robotics Research, 2011
-Sreenath, Koushil and Park, Hae-Won and Poulakakis, Ioannis and Grizzle, Jessy W
-[[page]](https://sites.udel.edu/poulakas/files/2022/10/J07-A-Compliant-Hybrid-Zero-Dynamics-Controller.pdf)
+* **ANYmal - a highly mobile and dynamic quadrupedal robot**, IEEE/RSJ international conference on intelligent robots and systems (IROS), 2016    
+Hutter, Marco and Gehring, Christian and Jud, Dominic and Lauber, Andreas and Bellicoso, C Dario and Tsounis, Vassilios and Hwangbo, Jemin and Bodie, Karen and Fankhauser, Peter and Bloesch, Michael and others    
+[[page]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/118642/eth-49454-01.pdf;sequence=1)   
 
-* **MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot**, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018
-Bledt, Gerardo and Powell, Matthew J and Katz, Benjamin and Di Carlo, Jared and Wensing, Patrick M and Kim, Sangbae
-[[page]](https://dspace.mit.edu/bitstream/handle/1721.1/126619/iros.pdf?sequence=2)
+* **Optimization Based Full Body Control for the Atlas Robot**, IEEE-RAS International Conference on Humanoid Robots, 2014    
+Feng, Siyuan and Whitman, Eric and Xinjilefu, X and Atkeson, Christopher G    
+[[page]](http://www.cs.cmu.edu/afs/cs/user/sfeng/www/sf_hum14.pdf)    
 
-* **ANYmal - a highly mobile and dynamic quadrupedal robot**, IEEE/RSJ international conference on intelligent robots and systems (IROS), 2016
-Hutter, Marco and Gehring, Christian and Jud, Dominic and Lauber, Andreas and Bellicoso, C Dario and Tsounis, Vassilios and Hwangbo, Jemin and Bodie, Karen and Fankhauser, Peter and Bloesch, Michael and others
-[[page]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/118642/eth-49454-01.pdf;sequence=1)
+* **Optimized Jumping on the MIT Cheetah 3 Robot**, ICRA, 2019    
+Nguyen, Quan and Powell, Matthew J and Katz, Benjamin and Di Carlo, Jared and Kim, Sangbae   
+[[page]](https://ieeexplore.ieee.org/abstract/document/8794449)   
 
-* **Optimization Based Full Body Control for the Atlas Robot**, IEEE-RAS International Conference on Humanoid Robots, 2014
-Feng, Siyuan and Whitman, Eric and Xinjilefu, X and Atkeson, Christopher G
-[[page]](http://www.cs.cmu.edu/afs/cs/user/sfeng/www/sf_hum14.pdf)
+* **Continuous Jumping for Legged Robots on Stepping Stones via Trajectory Optimization and Model Predictive Control**, IEEE CDC, 2022    
+Nguyen, Chuong and Bao, Lingfan and Nguyen, Quan    
+[[page]](https://arxiv.org/pdf/2204.01147)   
 
-* **Optimized Jumping on the MIT Cheetah 3 Robot**, ICRA, 2019
-Nguyen, Quan and Powell, Matthew J and Katz, Benjamin and Di Carlo, Jared and Kim, Sangbae
-[[page]](https://ieeexplore.ieee.org/abstract/document/8794449)
+* **Practice Makes Perfect: An Optimization-Based Approach to Controlling Agile Motions for a Quadruped Robot**, IEEE Robotics \& Automation Magazine, 2016    
+Gehring, Christian and Coros, Stelian and Hutter, Marco and Bellicoso, Carmine Dario and Heijnen, Huub and Diethelm, Remo and Bloesch, Michael and Fankhauser, P{\'e}ter and Hwangbo, Jemin and Hoepflinger, Mark and others    
+[[page]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/183161.1/1/eth-49107-01.pdf)   
 
-* **Continuous Jumping for Legged Robots on Stepping Stones via Trajectory Optimization and Model Predictive Control**, IEEE CDC, 2022
-Nguyen, Chuong and Bao, Lingfan and Nguyen, Quan
-[[page]](https://arxiv.org/pdf/2204.01147)
+* **Dynamic Walking on Randomly-Varying Discrete Terrain With One-Step Preview**, Robotics: Science and Systems, 2017    
+Nguyen, Quan and Agrawal, Ayush and Da, Xingye and Martin, William C and Geyer, Hartmut and Grizzle, Jessy W and Sreenath, Koushil    
+[[page]](https://hybrid-robotics.berkeley.edu/publications/RSS2017_DiscreteTerrain_Walking.pdf)   
 
-* **Practice Makes Perfect: An Optimization-Based Approach to Controlling Agile Motions for a Quadruped Robot**, IEEE Robotics \& Automation Magazine, 2016
-Gehring, Christian and Coros, Stelian and Hutter, Marco and Bellicoso, Carmine Dario and Heijnen, Huub and Diethelm, Remo and Bloesch, Michael and Fankhauser, P{\'e}ter and Hwangbo, Jemin and Hoepflinger, Mark and others
-[[page]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/183161.1/1/eth-49107-01.pdf)
+* **Deep Kernels for Optimizing Locomotion Controllers**, CoRL, 2017    
+Antonova, Rika and Rai, Akshara and Atkeson, Christopher G    
+[[page]](http://proceedings.mlr.press/v78/antonova17a/antonova17a.pdf)    
 
-* **Dynamic Walking on Randomly-Varying Discrete Terrain With One-Step Preview**, Robotics: Science and Systems, 2017
-Nguyen, Quan and Agrawal, Ayush and Da, Xingye and Martin, William C and Geyer, Hartmut and Grizzle, Jessy W and Sreenath, Koushil
-[[page]](https://hybrid-robotics.berkeley.edu/publications/RSS2017_DiscreteTerrain_Walking.pdf)
-
-* **Deep Kernels for Optimizing Locomotion Controllers**, CoRL, 2017
-Antonova, Rika and Rai, Akshara and Atkeson, Christopher G
-[[page]](http://proceedings.mlr.press/v78/antonova17a/antonova17a.pdf)
-
-* **Expressive Whole-Body Control for Humanoid Robots**, arXiv, 2024
-Cheng, Xuxin and Ji, Yandong and Chen, Junming and Yang, Ruihan and Yang, Ge and Wang, Xiaolong
+* **Expressive Whole-Body Control for Humanoid Robots**, arXiv, 2024    
+Cheng, Xuxin and Ji, Yandong and Chen, Junming and Yang, Ruihan and Yang, Ge and Wang, Xiaolong    
 [[page]](https://arxiv.org/pdf/2402.16796)
 
-* **The MIT Humanoid Robot: Design, Motion Planning, and Control for Acrobatic Behaviors**, IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021
-Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
-[[page]](https://arxiv.longhoe.net/pdf/2104.09025)
+* **The MIT Humanoid Robot: Design, Motion Planning, and Control for Acrobatic Behaviors**, IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021    
+Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae   
+[[page]](https://arxiv.longhoe.net/pdf/2104.09025)   
 
-* **Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion**, TPAMI, 2022.       
-Changxin Huang, Guangrun Wang, Zhibo Zhou, Ronghui Zhang, Liang Lin.       
-[[page]](https://ieeexplore.ieee.org/abstract/document/9956746)    
+* **Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion**, TPAMI, 2022.          
+Changxin Huang, Guangrun Wang, Zhibo Zhou, Ronghui Zhang, Liang Lin.        
+[[page]](https://ieeexplore.ieee.org/abstract/document/9956746)      
 
 * **Surfer: Progressive Reasoning with World Models for Robotic Manipulation**, arxiv, 2023.    
 Pengzhen Ren, Kaidong Zhang, Hetao Zheng, Zixuan Li, Yuhang Wen, Fengda Zhu, Mas Ma, Xiaodan Liang.         
