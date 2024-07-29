@@ -1481,10 +1481,7 @@ Pengzhen Ren, Kaidong Zhang, Hetao Zheng, Zixuan Li, Yuhang Wen, Fengda Zhu, Mas
 [EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
 [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://github.com/MineDojo/Voyager)    
-[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)     
-
-## Acknowledgement
-We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Ganlong Zhao for their contributions.     
+[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)         
 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
@@ -1497,4 +1494,7 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
   year={2024}
 }
 ```
+## 👏 Acknowledgements
+We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Ganlong Zhao for their contributions.
+
 
