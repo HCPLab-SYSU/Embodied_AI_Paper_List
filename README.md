@@ -530,9 +530,9 @@ Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong.
 Bingqian Lin, Yanxin Long, Yi Zhu, Fengda Zhu, Xiaodan Liang , Qixiang Ye, Liang Lin.           
 [[page]](https://ieeexplore.ieee.org/abstract/document/10120966/)     
 
-* **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.   
-Wu, Wang, Xu, Lu, Yan. 
-[[page](https://arxiv.org/pdf/2406.11818)]   
+* **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.      
+Wu, Wang, Xu, Lu, Yan.       
+[[page](https://arxiv.org/pdf/2406.11818)]       
 
 * **Bridging zero-shot object navigation and foundation models through pixel-guided navigation skill** ICRA, 2024.           
 Wenzhe Cai, Siyuan Huang, Guangran Cheng, Yuxing Long, Peng Gao, Changyin Sun, and Hao Dong.       
