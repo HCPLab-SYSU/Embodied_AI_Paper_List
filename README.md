@@ -14,7 +14,7 @@
 </p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2407.06886-orange)](https://arxiv.org/abs/2407.06886)
-[![](https://img.shields.io/badge/Paper-%F0%9F%93%96-yellow)](https://raw.githubusercontent.com/HCPLab-SYSU/Embodied_AI_Paper_List/main/Resources/EmbodiedAI_Review.pdf)
+[![](https://img.shields.io/badge/Paper-%F0%9F%93%96-yellow)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/releases/download/EmbodiedAI_Review.pdf)
 [![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to **liuy856@mail.sysu.edu.cn** and **chen867820261@gmail.com**. Thanks for your cooperation!
