@@ -1080,143 +1080,143 @@ Drew McDermott, Malik Ghallab, Adele E. Howe, Craig A. Knoblock, Ashwin Ram, Man
 Nicholas C. Metropolis, S. M. Ulam. 
 [[page](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/handouts/MetropolisUlam_TheMonteCarloMethod.pdf)]
 
-* **A Formal Basis for the Heuristic Determination of Minimum Cost Paths**, IEEE Trans. Syst. Sci. Cybern. 4. (1968): 100-107.
-Peter E. Hart, Nils J. Nilsson, Bertram Raphael. 
-[[page](https://ieeexplore.ieee.org/abstract/document/4082128)]
+* **A Formal Basis for the Heuristic Determination of Minimum Cost Paths**, IEEE Trans. Syst. Sci. Cybern. 4. (1968): 100-107.     
+Peter E. Hart, Nils J. Nilsson, Bertram Raphael.     
+[[page](https://ieeexplore.ieee.org/abstract/document/4082128)]    
 
-* **Language models as zero-shot planners: Extracting actionable knowledge for embodied agents**, ICML, 2022.
-Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch. 
-[[page](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]
+* **Language models as zero-shot planners: Extracting actionable knowledge for embodied agents**, ICML, 2022.    
+Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch.     
+[[page](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]     
 
-* **Inner Monologue: Embodied Reasoning through Planning with Language Models**, Conference on Robot Learning, 2022.
-Huang, Wenlong, Fei, Xia, Ted, Xiao, Harris, Chan, Jacky, Liang, Pete, Florence, Andy, Zeng, Jonathan, Tompson, Igor, Mordatch, Yevgen, Chebotar, Pierre, Sermanet, Noah, Brown, Tomas, Jackson, Linda, Luu, Sergey, Levine, Karol, Hausman, Brian, Ichter. 
-[[page](https://arxiv.org/pdf/2207.05608)]
+* **Inner Monologue: Embodied Reasoning through Planning with Language Models**, Conference on Robot Learning, 2022.    
+Huang, Wenlong, Fei, Xia, Ted, Xiao, Harris, Chan, Jacky, Liang, Pete, Florence, Andy, Zeng, Jonathan, Tompson, Igor, Mordatch, Yevgen, Chebotar, Pierre, Sermanet, Noah, Brown, Tomas, Jackson, Linda, Luu, Sergey, Levine, Karol, Hausman, Brian, Ichter.      
+[[page](https://arxiv.org/pdf/2207.05608)]     
 
-* **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, ICML, 2022.
-Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch. 
-[[page](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]
+* **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, ICML, 2022.    
+Huang, Wenlong, Pieter, Abbeel, Deepak, Pathak, Igor, Mordatch.     
+[[page](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]    
 
-* **Lota-bench: Benchmarking language-oriented task planners for embodied agents**, ArXiv, 2024.
-Choi, Jae-Woo, Youngwoo, Yoon, Hyobin, Ong, Jaehong, Kim, Minsu, Jang. 
-[[page](https://arxiv.org/pdf/2402.08178)]
+* **Lota-bench: Benchmarking language-oriented task planners for embodied agents**, ArXiv, 2024.    
+Choi, Jae-Woo, Youngwoo, Yoon, Hyobin, Ong, Jaehong, Kim, Minsu, Jang.     
+[[page](https://arxiv.org/pdf/2402.08178)]     
 
-* **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**, ICCV, 2023
-Chan Hee Song, Jiaman Wu, Clay Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su. 
-[[page](LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models)]
+* **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**, ICCV, 2023.         
+Chan Hee Song, Jiaman Wu, Clay Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su.      
+[[page](LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models)]    
 
-* **Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models** EMNLP, 2023.
-Sarch, Gabriel, Yue, Wu, Michael J., Tarr, Katerina, Fragkiadaki. 
-[[page](https://arxiv.org/pdf/2310.15127)]
+* **Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models** EMNLP, 2023.    
+Sarch, Gabriel, Yue, Wu, Michael J., Tarr, Katerina, Fragkiadaki.     
+[[page](https://arxiv.org/pdf/2310.15127)]    
 
-* **Voyager: An Open-Ended Embodied Agent with Large Language Models**, TMLR, 2023.
-Wang, Guanzhi, Yuqi, Xie, Yunfan, Jiang, Ajay, Mandlekar, Chaowei, Xiao, Yuke, Zhu, Linxi, Fan, Anima, Anandkumar. 
-[[page](https://arxiv.org/pdf/2305.16291)]
+* **Voyager: An Open-Ended Embodied Agent with Large Language Models**, TMLR, 2023.    
+Wang, Guanzhi, Yuqi, Xie, Yunfan, Jiang, Ajay, Mandlekar, Chaowei, Xiao, Yuke, Zhu, Linxi, Fan, Anima, Anandkumar.     
+[[page](https://arxiv.org/pdf/2305.16291)]    
 
-* **Skill Induction and Planning with Latent Language**, ACL, 2021.
-Pratyusha Sharma, Antonio Torralba, Jacob Andreas. 
-[[page](https://arxiv.org/pdf/2110.01517)]
+* **Skill Induction and Planning with Latent Language**, ACL, 2021.    
+Pratyusha Sharma, Antonio Torralba, Jacob Andreas.     
+[[page](https://arxiv.org/pdf/2110.01517)]    
 
-* **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR, 2023.
-Yao, Shunyu, Jeffrey, Zhao, Dian, Yu, Nan, Du, Izhak, Shafran, Karthik, Narasimhan, Yuan, Cao. 
-[[page](https://arxiv.org/pdf/2210.03629)]
+* **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR, 2023.    
+Yao, Shunyu, Jeffrey, Zhao, Dian, Yu, Nan, Du, Izhak, Shafran, Karthik, Narasimhan, Yuan, Cao.     
+[[page](https://arxiv.org/pdf/2210.03629)]    
 
-* **ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models** , ICRA, 2023.
-Singh, Ishika, Valts, Blukis, Arsalan, Mousavian, Ankit, Goyal, Danfei, Xu, Jonathan, Tremblay, Dieter, Fox, Jesse, Thomason, Animesh, Garg. 
-[[page](https://arxiv.org/pdf/2209.11302)]
+* **ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models** , ICRA, 2023.    
+Singh, Ishika, Valts, Blukis, Arsalan, Mousavian, Ankit, Goyal, Danfei, Xu, Jonathan, Tremblay, Dieter, Fox, Jesse, Thomason, Animesh, Garg.     
+[[page](https://arxiv.org/pdf/2209.11302)]    
 
-* **ChatGPT for Robotics: Design Principles and Model Abilities**, IEEE Access 12. (2023): 55682-55696.
-Sai Vemprala, Rogerio Bonatti, Arthur Fender C. Bucker, Ashish Kapoor. 
-[[page](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10500490)]
+* **ChatGPT for Robotics: Design Principles and Model Abilities**, IEEE Access 12. (2023): 55682-55696.    
+Sai Vemprala, Rogerio Bonatti, Arthur Fender C. Bucker, Ashish Kapoor.     
+[[page](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10500490)]    
 
-* **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,
-Jacky Liang, , Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng. 
-[[page](https://arxiv.org/pdf/2209.07753)]
+* **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023.        
+Jacky Liang, , Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng.     
+[[page](https://arxiv.org/pdf/2209.07753)]    
 
-* **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, ICLR, 2022.
-Zeng, Andy, Maria, Attarian, Brian, Ichter, Krzysztof, Choromanski, Adrian, Wong, Stefan, Welker, Federico, Tombari, Aveek, Purohit, Michael, Ryoo, Vikas, Sindhwani, Johnny, Lee, Vincent, Vanhoucke, Pete, Florence. 
-[[page](Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language)]
+* **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, ICLR, 2022.    
+Zeng, Andy, Maria, Attarian, Brian, Ichter, Krzysztof, Choromanski, Adrian, Wong, Stefan, Welker, Federico, Tombari, Aveek, Purohit, Michael, Ryoo, Vikas, Sindhwani, Johnny, Lee, Vincent, Vanhoucke, Pete, Florence.     
+[[page](Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language)]    
 
-* **Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**, Arxiv, 2024.
-Suyeon Shin, Sujin jeon, Junghyun Kim, Gi-Cheon Kang, Byoung-Tak Zhang. 
-[[page](https://arxiv.org/pdf/2404.15190)]
+* **Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**, Arxiv, 2024.    
+Suyeon Shin, Sujin jeon, Junghyun Kim, Gi-Cheon Kang, Byoung-Tak Zhang.     
+[[page](https://arxiv.org/pdf/2404.15190)]    
 
-* **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**, NeurIPS, 2024.
-Zhao, Zirui, Wee Sun, Lee, David, Hsu. 
-[[page](https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf)]
+* **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**, NeurIPS, 2024.    
+Zhao, Zirui, Wee Sun, Lee, David, Hsu.     
+[[page](https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf)]    
 
-* **Reasoning with Language Model Is Planning with World Model**, Arxiv, 2023.
-Hao, Shibo, Yi, Gu, Haodi, Ma, Joshua Jiahua, Hong, Zhen, Wang, Daisy Zhe, Wang, Zhiting, Hu. 
-[[page](https://arxiv.org/pdf/2305.14992)]
+* **Reasoning with Language Model Is Planning with World Model**, Arxiv, 2023.    
+Hao, Shibo, Yi, Gu, Haodi, Ma, Joshua Jiahua, Hong, Zhen, Wang, Daisy Zhe, Wang, Zhiting, Hu.     
+[[page](https://arxiv.org/pdf/2305.14992)]    
 
-* **LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**, arXiv, 2023.
-Haonan Chang, Kai Gao, Kowndinya Boyalakuntla, Alex Lee, Baichuan Huang, Harish Udhaya Kumar, Jinjin Yu, Abdeslam Boularias. 
-[[page](https://arxiv.org/pdf/2309.15821)]
+* **LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**, arXiv, 2023.    
+Haonan Chang, Kai Gao, Kowndinya Boyalakuntla, Alex Lee, Baichuan Huang, Harish Udhaya Kumar, Jinjin Yu, Abdeslam Boularias.     
+[[page](https://arxiv.org/pdf/2309.15821)]    
 
-* **Translating Natural Language to Planning Goals with Large-Language Models**, arXiv, 2023.
-Xie, Yaqi, Chen, Yu, Tongyao, Zhu, Jinbin, Bai, Ze, Gong, Harold, Soh. 
-[[page](https://arxiv.org/pdf/2302.05128)]
+* **Translating Natural Language to Planning Goals with Large-Language Models**, arXiv, 2023.    
+Xie, Yaqi, Chen, Yu, Tongyao, Zhu, Jinbin, Bai, Ze, Gong, Harold, Soh.     
+[[page](https://arxiv.org/pdf/2302.05128)]    
 
-* **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arXiv, 2023.
-Liu, Bo, Yuqian, Jiang, Xiaohan, Zhang, Qiang, Liu, Shiqi, Zhang, Joydeep, Biswas, Peter, Stone. 
-[[page](https://arxiv.org/pdf/2304.11477)]
+* **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arXiv, 2023.    
+Liu, Bo, Yuqian, Jiang, Xiaohan, Zhang, Qiang, Liu, Shiqi, Zhang, Joydeep, Biswas, Peter, Stone.     
+[[page](https://arxiv.org/pdf/2304.11477)]    
 
-* **Generalized Planning in PDDL Domains with Pretrained Large Language Models**, AAAI, 2024.
-Silver, Tom, Soham, Dan, Kavitha, Srinivas, Joshua B., Tenenbaum, Leslie Pack, Kaelbling, Michael, Katz. 
-[[page](https://ojs.aaai.org/index.php/AAAI/article/download/30006/31766)]
+* **Generalized Planning in PDDL Domains with Pretrained Large Language Models**, AAAI, 2024.    
+Silver, Tom, Soham, Dan, Kavitha, Srinivas, Joshua B., Tenenbaum, Leslie Pack, Kaelbling, Michael, Katz.     
+[[page](https://ojs.aaai.org/index.php/AAAI/article/download/30006/31766)]    
 
-* **Dynamic Planning with a LLM**, arXiv, 2023.
-Dagan, Gautier, Frank, Keller, Alex, Lascarides. 
-[[page](https://arxiv.org/pdf/2308.06391)]
+* **Dynamic Planning with a LLM**, arXiv, 2023.    
+Dagan, Gautier, Frank, Keller, Alex, Lascarides.     
+[[page](https://arxiv.org/pdf/2308.06391)]    
 
-* **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** arXiv, 2024.
-Zhang, Yang, Shixin, Yang, Chenjia, Bai, Fei, Wu, Xiu, Li, Xuelong, Li, Zhen, Wang. 
-[[page](https://arxiv.org/pdf/2405.14314)]
+* **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** arXiv, 2024.    
+Zhang, Yang, Shixin, Yang, Chenjia, Bai, Fei, Wu, Xiu, Li, Xuelong, Li, Zhen, Wang.     
+[[page](https://arxiv.org/pdf/2405.14314)]    
 
-* **Embodied Task Planning with Large Language Models**, arXiv, 2023.
-Wu, Zhenyu, Ziwei, Wang, Xiuwei, Xu, Jiwen, Lu, Haibin, Yan. 
-[[page](https://arxiv.org/pdf/2307.01848)]
+* **Embodied Task Planning with Large Language Models**, arXiv, 2023.    
+Wu, Zhenyu, Ziwei, Wang, Xiuwei, Xu, Jiwen, Lu, Haibin, Yan.     
+[[page](https://arxiv.org/pdf/2307.01848)]    
 
-* **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning**, Conference on Robot Learning. 2023.
-Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian D. Reid, Niko Sunderhauf. 
-[[page](https://arxiv.org/pdf/2307.06135)]
+* **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning**, Conference on Robot Learning. 2023.    
+Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian D. Reid, Niko Sunderhauf.     
+[[page](https://arxiv.org/pdf/2307.06135)]    
 
-* **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**, ArXiv, 2023.
-Qiao Gu, Ali Kuwajerwala, Sacha Morin, Krishna Murthy Jatavallabhula, Bipasha Sen, Aditya Agarwal, Corban Rivera, William Paul, Kirsty Ellis, Ramalingam Chellappa, Chuang Gan, Celso Miguel de Melo, Joshua B Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull. 
-[[page](https://arxiv.org/pdf/2309.16650)]
+* **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**, ArXiv, 2023.    
+Qiao Gu, Ali Kuwajerwala, Sacha Morin, Krishna Murthy Jatavallabhula, Bipasha Sen, Aditya Agarwal, Corban Rivera, William Paul, Kirsty Ellis, Ramalingam Chellappa, Chuang Gan, Celso Miguel de Melo, Joshua B Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull.     
+[[page](https://arxiv.org/pdf/2309.16650)]    
 
-* **RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks**, arXiv, 2023.
-Yaran Chen, Wenbo Cui, Yuanwen Chen, Mining Tan, Xinyao Zhang, Dong Zhao, He Wang. 
-[[page](https://arxiv.org/pdf/2311.15649)]
+* **RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks**, arXiv, 2023.    
+Yaran Chen, Wenbo Cui, Yuanwen Chen, Mining Tan, Xinyao Zhang, Dong Zhao, He Wang.     
+[[page](https://arxiv.org/pdf/2311.15649)]    
 
-* **Embodied Instruction Following in Unknown Environments**, arXiv, 2024.
-Zhenyu Wu, Ziwei Wang, Xiuwei Xu, Jiwen Lu, Haibin Yan. 
-[[page](https://arxiv.org/pdf/2406.11818)]
+* **Embodied Instruction Following in Unknown Environments**, arXiv, 2024.    
+Zhenyu Wu, Ziwei Wang, Xiuwei Xu, Jiwen Lu, Haibin Yan.     
+[[page](https://arxiv.org/pdf/2406.11818)]    
 
-* **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models**, IROS, 2023.
-Zhao, Xufeng, Mengdi, Li, Cornelius, Weber, Muhammad Burhan, Hafez, Stefan, Wermter. 
-[[page](https://arxiv.org/pdf/2303.08268)]
+* **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models**, IROS, 2023.    
+Zhao, Xufeng, Mengdi, Li, Cornelius, Weber, Muhammad Burhan, Hafez, Stefan, Wermter.     
+[[page](https://arxiv.org/pdf/2303.08268)]    
 
-* **Video Language Planning**, arxiv, 2023.
-Du, Yilun, Mengjiao, Yang, Pete, Florence, Fei, Xia, Ayzaan, Wahid, Brian, Ichter, Pierre, Sermanet, Tianhe, Yu, Pieter, Abbeel, Joshua B., Tenenbaum, Leslie, Kaelbling, Andy, Zeng, Jonathan, Tompson. 
-[[page](https://arxiv.org/pdf/2310.10625)]
+* **Video Language Planning**, arxiv, 2023.    
+Du, Yilun, Mengjiao, Yang, Pete, Florence, Fei, Xia, Ayzaan, Wahid, Brian, Ichter, Pierre, Sermanet, Tianhe, Yu, Pieter, Abbeel, Joshua B., Tenenbaum, Leslie, Kaelbling, Andy, Zeng, Jonathan, Tompson.     
+[[page](https://arxiv.org/pdf/2310.10625)]    
 
-* **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,
-Jacky Liang, Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng. 
-[[page](https://arxiv.org/pdf/2209.07753)]
+* **Code as Policies: Language Model Programs for Embodied Control**, ICRA, 2023,    
+Jacky Liang, Wenlong Huang, F. Xia, Peng Xu, Karol Hausman, Brian Ichter, Peter R. Florence, Andy Zeng.     
+[[page](https://arxiv.org/pdf/2209.07753)]    
 
-* **Reflexion: an autonomous agent with dynamic memory and self-reflection**, ArXiv, 2023.
-Noah Shinn, Beck Labash, A. Gopinath. 
-[[page]()]
+* **Reflexion: an autonomous agent with dynamic memory and self-reflection**, ArXiv, 2023.    
+Noah Shinn, Beck Labash, A. Gopinath.     
+[[page]()]    
 
-* **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, Proceedings of the 37th International Conference on Neural Information Processing Systems, 2023.
-Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang. 
-[[page](https://arxiv.org/pdf/2302.01560)]
+* **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, Proceedings of the 37th International Conference on Neural Information Processing Systems, 2023.    
+Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.     
+[[page](https://arxiv.org/pdf/2302.01560)]    
 
-* **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**, ArXiv, 2023.     
-Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, and Hongsheng Li.      
-[[page]](https://github.com/OpenGVLab/Instruct2Act)
+* **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**, ArXiv, 2023.         
+Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, and Hongsheng Li.          
+[[page]](https://github.com/OpenGVLab/Instruct2Act)    
 
-* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ArXiv, 2024.       
+* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ArXiv, 2024.           
 Liman Wang, Hanyang Zhong.          
 [[page]](https://github.com/HanyangZhong/Situational_Planning_datasets)    
 
