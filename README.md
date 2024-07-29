@@ -1028,71 +1028,71 @@ Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jiron
 
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
-* **Rt-1: Robotics transformer for real-world control at scale**, ArXiv, 2022.
-Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis, Chelsea, Finn, Keerthana, Gopalakrishnan, Karol, Hausman, Alex, Herzog, Jasmine, Hsu, others. 
-[[page](https://arxiv.org/pdf/2212.06817)]
+* **Rt-1: Robotics transformer for real-world control at scale**, ArXiv, 2022.    
+Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis, Chelsea, Finn, Keerthana, Gopalakrishnan, Karol, Hausman, Alex, Herzog, Jasmine, Hsu, others.     
+[[page](https://arxiv.org/pdf/2212.06817)]    
 
-* **Do as i can, not as i say: Grounding language in robotic affordances**, Conference on robot learning. 2023.
-Brohan, Anthony, Yevgen, Chebotar, Chelsea, Finn, Karol, Hausman, Alexander, Herzog, Daniel, Ho, Julian, Ibarz, Alex, Irpan, Eric, Jang, Ryan, Julian.
-[[page](https://arxiv.org/pdf/2204.01691)]
+* **Do as i can, not as i say: Grounding language in robotic affordances**, Conference on robot learning. 2023.    
+Brohan, Anthony, Yevgen, Chebotar, Chelsea, Finn, Karol, Hausman, Alexander, Herzog, Daniel, Ho, Julian, Ibarz, Alex, Irpan, Eric, Jang, Ryan, Julian.    
+[[page](https://arxiv.org/pdf/2204.01691)]    
 
-* **Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions**, Conference on Robot Learning. 2023.
-Chebotar, Yevgen, Quan, Vuong, Karol, Hausman, Fei, Xia, Yao, Lu, Alex, Irpan, Aviral, Kumar, Tianhe, Yu, Alexander, Herzog, Karl, Pertsch, others. 
-[[page](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)]
+* **Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions**, Conference on Robot Learning. 2023.    
+Chebotar, Yevgen, Quan, Vuong, Karol, Hausman, Fei, Xia, Yao, Lu, Alex, Irpan, Aviral, Kumar, Tianhe, Yu, Alexander, Herzog, Karl, Pertsch, others.     
+[[page](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)]    
 
-* **Palm-e: An embodied multimodal language model**, ArXiv, 2023.
-Driess, Danny, Fei, Xia, Mehdi SM, Sajjadi, Corey, Lynch, Aakanksha, Chowdhery, Brian, Ichter, Ayzaan, Wahid, Jonathan, Tompson, Quan, Vuong, Tianhe, Yu, others. 
-[[page](https://arxiv.org/pdf/2303.03378)]
+* **Palm-e: An embodied multimodal language model**, ArXiv, 2023.    
+Driess, Danny, Fei, Xia, Mehdi SM, Sajjadi, Corey, Lynch, Aakanksha, Chowdhery, Brian, Ichter, Ayzaan, Wahid, Jonathan, Tompson, Quan, Vuong, Tianhe, Yu, others.     
+[[page](https://arxiv.org/pdf/2303.03378)]    
 
-* **Rt-2: Vision-language-action models transfer web knowledge to robotic control**, Conference on Robot Learning. 2023.
-Zitkovich, Brianna, Tianhe, Yu, Sichun, Xu, Peng, Xu, Ted, Xiao, Fei, Xia, Jialin, Wu, Paul, Wohlhart, Stefan, Welker, Ayzaan, Wahid, others. 
-[[page](https://arxiv.org/pdf/2307.15818)]
+* **Rt-2: Vision-language-action models transfer web knowledge to robotic control**, Conference on Robot Learning. 2023.    
+Zitkovich, Brianna, Tianhe, Yu, Sichun, Xu, Peng, Xu, Ted, Xiao, Fei, Xia, Jialin, Wu, Paul, Wohlhart, Stefan, Welker, Ayzaan, Wahid, others.    
+[[page](https://arxiv.org/pdf/2307.15818)]   
 
-* **Rt-h: Action hierarchies using language**, ArXiv, 2024.
-Belkhale, Suneel, Tianli, Ding, Ted, Xiao, Pierre, Sermanet, Quon, Vuong, Jonathan, Tompson, Yevgen, Chebotar, Debidatta, Dwibedi, Dorsa, Sadigh. 
-[[page](https://arxiv.org/pdf/2403.01823)]
+* **Rt-h: Action hierarchies using language**, ArXiv, 2024.    
+Belkhale, Suneel, Tianli, Ding, Ted, Xiao, Pierre, Sermanet, Quon, Vuong, Jonathan, Tompson, Yevgen, Chebotar, Debidatta, Dwibedi, Dorsa, Sadigh.     
+[[page](https://arxiv.org/pdf/2403.01823)]    
 
-* **Open x-embodiment: Robotic learning datasets and rt-x models**, arXiv preprint arXiv:2310.08864. (2023).
-Padalkar, others. 
-[[page](https://arxiv.org/pdf/2310.08864)]
+* **Open x-embodiment: Robotic learning datasets and rt-x models**, arXiv, 2023.        
+Padalkar, others.     
+[[page](https://arxiv.org/pdf/2310.08864)]    
 
-* **Embodiedgpt: Vision-language pre-training via embodied chain of thought**, NeurIPS, 2024
-Mu, Yao, Qinglong, Zhang, Mengkang, Hu, Wenhai, Wang, Mingyu, Ding, Jun, Jin, Bin, Wang, Jifeng, Dai, Yu, Qiao, Ping, Luo. 
-[[page](https://proceedings.neurips.cc/paper_files/paper/2023/file/4ec43957eda1126ad4887995d05fae3b-Paper-Conference.pdf)]
+* **Embodiedgpt: Vision-language pre-training via embodied chain of thought**, NeurIPS, 2024.     
+Mu, Yao, Qinglong, Zhang, Mengkang, Hu, Wenhai, Wang, Mingyu, Ding, Jun, Jin, Bin, Wang, Jifeng, Dai, Yu, Qiao, Ping, Luo.     
+[[page](https://proceedings.neurips.cc/paper_files/paper/2023/file/4ec43957eda1126ad4887995d05fae3b-Paper-Conference.pdf)]    
 
-* **Vision-language foundation models as effective robot imitators**, ArXiv, 2023.
-Li, Xinghang, Minghuan, Liu, Hanbo, Zhang, Cunjun, Yu, Jie, Xu, Hongtao, Wu, Chilam, Cheang, Ya, Jing, Weinan, Zhang, Huaping, Liu, others. 
-[[page](https://arxiv.org/pdf/2311.01378)]
+* **Vision-language foundation models as effective robot imitators**, ArXiv, 2023.    
+Li, Xinghang, Minghuan, Liu, Hanbo, Zhang, Cunjun, Yu, Jie, Xu, Hongtao, Wu, Chilam, Cheang, Ya, Jing, Weinan, Zhang, Huaping, Liu, others.     
+[[page](https://arxiv.org/pdf/2311.01378)]    
 
-* **Autort: Embodied foundation models for large scale orchestration of robotic agents**, arXiv preprint arXiv:2401.12963. (2024).
-Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others. 
-[[page](https://arxiv.org/pdf/2401.12963)]
+* **Autort: Embodied foundation models for large scale orchestration of robotic agents**, arXiv, 2024.     
+Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others.     
+[[page](https://arxiv.org/pdf/2401.12963)]     
 
-* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, ArXiv, 2023.
-Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others. 
-[[page](https://arxiv.org/pdf/2312.01990)]
+* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, ArXiv, 2023.    
+Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others.     
+[[page](https://arxiv.org/pdf/2312.01990)]    
+ 
+* **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, ArXiv, 2024.    
+Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An, Senqiao, Yang, Renrui, Zhang, Yandong, Guo, Shanghang, Zhang.     
+[[page](https://arxiv.org/pdf/2406.04339)]    
 
-* **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, ArXiv, 2024.
-Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An, Senqiao, Yang, Renrui, Zhang, Yandong, Guo, Shanghang, Zhang. 
-[[page](https://arxiv.org/pdf/2406.04339)]
+* **Cliport: What and where pathways for robotic manipulation**, Conference on robot learning, 2022.    
+Shridhar, Mohit, Lucas, Manuelli, Dieter, Fox.     
+[[page](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)]    
 
-* **Cliport: What and where pathways for robotic manipulation**, Conference on robot learning. 2022.
-Shridhar, Mohit, Lucas, Manuelli, Dieter, Fox. 
-[[page](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)]
+* **Strips: A new approach to the application of theorem proving to problem solving**, Artificial Intelligence 2. 3(1971): 189-208.    
+Richard E. Fikes, Nils J. Nilsson.     
+[[page](https://ntrs.nasa.gov/api/citations/19730013831/downloads/19730013831.pdf#page=98)]    
 
-* **Strips: A new approach to the application of theorem proving to problem solving**, Artificial Intelligence 2. 3(1971): 189-208.
-Richard E. Fikes, Nils J. Nilsson. 
-[[page](https://ntrs.nasa.gov/api/citations/19730013831/downloads/19730013831.pdf#page=98)]
+* **PDDL-the planning domain definition language**, Technical Report. 1998.    
+Drew McDermott, Malik Ghallab, Adele E. Howe, Craig A. Knoblock, Ashwin Ram, Manuela M. Veloso, Daniel S. Weld, David E. Wilkins.     
+[[page](https://www.researchgate.net/profile/Craig-Knoblock/publication/2278933_PDDL_-_The_Planning_Domain_Definition_Language/links/0912f50c0c99385e19000000/PDDL-The-Planning-Domain-Definition-Language.pdf)]    
 
-* **PDDL-the planning domain definition language**, Technical Report. 1998.
-Drew McDermott, Malik Ghallab, Adele E. Howe, Craig A. Knoblock, Ashwin Ram, Manuela M. Veloso, Daniel S. Weld, David E. Wilkins. 
-[[page](https://www.researchgate.net/profile/Craig-Knoblock/publication/2278933_PDDL_-_The_Planning_Domain_Definition_Language/links/0912f50c0c99385e19000000/PDDL-The-Planning-Domain-Definition-Language.pdf)]
+* **The Monte Carlo method**, Journal of the American Statistical Association 44 247. (1949): 335-41.    
+Nicholas C. Metropolis, S. M. Ulam.     
+[[page](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/handouts/MetropolisUlam_TheMonteCarloMethod.pdf)]    
 
-* **The Monte Carlo method**, Journal of the American Statistical Association 44 247. (1949): 335-41 .
-Nicholas C. Metropolis, S. M. Ulam. 
-[[page](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/handouts/MetropolisUlam_TheMonteCarloMethod.pdf)]
-
-* **A Formal Basis for the Heuristic Determination of Minimum Cost Paths**, IEEE Trans. Syst. Sci. Cybern. 4. (1968): 100-107.     
+* **A Formal Basis for the Heuristic Determination of Minimum Cost Paths**, IEEE Trans. Syst. Sci. Cybern. 4. (1968): 100-107.        
 Peter E. Hart, Nils J. Nilsson, Bertram Raphael.     
 [[page](https://ieeexplore.ieee.org/abstract/document/4082128)]    
 
