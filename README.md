@@ -205,7 +205,7 @@ Bescos, Berta, José M, Facil, Javier, Civera, José, Neira.
 * **SG-SLAM: A real-time RGB-D visual SLAM toward dynamic scenes with semantic and geometric information**, IEEE Transactions on Instrumentation and Measurement 72. (2022): 1–12.      
 Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang.    
 [[page]](https://ieeexplore.ieee.org/abstract/document/9978699)   
- 
+
 * **OVD-SLAM: An online visual SLAM for dynamic environments**, IEEE Sensors Journal, 2023.    
 He, Jiaming, Mingrui, Li, Yangyang, Wang, Hongyu, Wang.     
 [[page]](https://ieeexplore.ieee.org/abstract/document/10113832)    
@@ -358,7 +358,7 @@ Bakr, Eslam and Alsaedy, Yasmeen and Elhoseiny, Mohamed
 * **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**, arXix, 2023   
 Yang, Jianing and Chen, Xuweiyi and Qian, Shengyi and Madaan, Nikhil and Iyengar, Madhavan and Fouhey, David F and Chai, Joyce   
 [[page]](https://arxiv.org/pdf/2309.12311)   
- 
+
 * **Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**, arXix, 2023   
 Yuan, Zhihao and Ren, Jinke and Feng, Chun-Mei and Zhao, Hengshuang and Cui, Shuguang and Li, Zhen   
 [[page]](https://arxiv.org/pdf/2311.15383)   
@@ -401,7 +401,7 @@ Ziyu Zhu, Zhuofan Zhang, Xiaojian Ma, Xuesong Niu, Yixin Chen, Baoxiong Jia, Zhi
 * **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments**, CVPR, 2018.   
 Anderson, Peter, Qi, Wu, Damien, Teney, Jake, Bruce, Mark, Johnson, Niko, Sunderhauf, Ian, Reid, Stephen, Gould, Anton, Hengel.    
 [[page](https://arxiv.org/pdf/1711.07280)]    
- 
+
 * **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation**, ACL, 2019.   
 Jain, Vihan, Gabriel, Magalhaes, Alexander, Ku, Ashish, Vaswani, Eugene, Ie, Jason, Baldridge.    
 [[page](https://arxiv.org/pdf/1905.12255)]    
@@ -437,7 +437,7 @@ Yenamandra, Sriram, Arun, Ramachandran, Karmesh, Yadav, Austin, Wang, Mukul, Kha
 * **Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation**, Conference on Robot Learning. 2023.    
 Li, Chengshu, Ruohan, Zhang, Josiah, Wong, Cem, Gokmen, Sanjana, Srivastava, Roberto, Mart\in-Mart\'\in, Chen, Wang, Gabrael, Levine, Michael, Lingelbach, Jiankai, Sun, others.    
 [[page](https://arxiv.org/pdf/2403.09227)]    
- 
+
 * **Vision-and-dialog navigation**, Conference on Robot Learning. 2020.   
 Thomason, Jesse, Michael, Murray, Maya, Cakmak, Luke, Zettlemoyer.    
 [[page](https://arxiv.org/pdf/1907.04957)]   
@@ -465,7 +465,7 @@ So Yeon Min, , Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ru
 * **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, Conference on Robot Learning. 2022.   
 Dhruv Shah, , Blazej Osinski, Brian Ichter, Sergey Levine.      
 [[page](https://arxiv.org/pdf/2207.04429)]     
- 
+
 * **HOP: History-and-Order Aware Pretraining for Vision-and-Language Navigation**, CVPR, 2022.       
 Qiao, Yanyuan, Yuankai, Qi, Yicong, Hong, Zheng, Yu, Peng, Wang, Qi, Wu.        
 [[page](https://arxiv.org/pdf/2203.11591)]      
@@ -473,7 +473,7 @@ Qiao, Yanyuan, Yuankai, Qi, Yicong, Hong, Zheng, Yu, Peng, Wang, Qi, Wu.
 * **Towards Learning a Generalist Model for Embodied Navigation**, CVPR, 2024.    
 Duo Zheng, , Shijia Huang, Lin Zhao, Yiwu Zhong, Liwei Wang.     
 [[page](https://arxiv.org/pdf/2312.02010)]     
- 
+
 * **Fast-Slow Test-time Adaptation for Online Vision-and-Language Navigation** ICML, 2024.    
 Junyu Gao, , Xuan Yao, Changsheng Xu.    
 [[page](https://arxiv.org/pdf/2311.13209)]   
@@ -590,8 +590,8 @@ Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.
 [[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]   
 
 * **Gelslim 3.0: High-resolution measurement of shape, force and slip in a compact tactile-sensing finger**, ICRA, 2022.   
-Taylor, Ian H and Dong, Siyuan and Rodriguez, Alberto.   
-[[page](https://arxiv.org/pdf/2103.12269)]    
+  Taylor, Ian H and Dong, Siyuan and Rodriguez, Alberto.   
+  [[page](https://arxiv.org/pdf/2103.12269)]    
   
 * **DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor With Application to In-Hand Manipulation**, IEEE Robotics and Automation Letters, 2020.   
 Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and Jayaraman, Dinesh and Calandra, Roberto.    
@@ -774,11 +774,11 @@ Hansen, Johanna and Hogan, Francois and Rivkin, Dmitriy and Meger, David and Jen
 [[page](https://johannah.github.io/papers/Visuotactile-RL.pdf)]   
 
 * **General In-hand Object Rotation with Vision and Touch**, CoRL, 2023.   
-Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and Calandra, Roberto and Malik, Jitendra.   
+Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and Calandra, Roberto and Malik, Jitendra. 
 [[page](https://proceedings.mlr.press/v229/qi23a/qi23a.pdf)]   
 
 * **Sim-to-Real Model-Based and Model-Free Deep Reinforcement Learning for Tactile Pushing**, IEEE Robotics and Automation Letters, 2023.   
-Yang, Max and Lin, Yijiong and Church, Alex and Lloyd, John and Zhang, Dandan and Barton, David AW and Lepora, Nathan F.   
+Yang, Max and Lin, Yijiong and Church, Alex and Lloyd, John and Zhang, Dandan and Barton, David AW and Lepora, Nathan F. 
 [[page](https://arxiv.org/pdf/2307.14272)]   
 
 * **AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**, ArXiv, 2024.   
@@ -875,7 +875,7 @@ Wijmans, Erik and Datta, Samyak and Maksymets, Oleksandr and Das, Abhishek and G
 [[page]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wijmans_Embodied_Question_Answering_in_Photorealistic_Environments_With_Point_Cloud_Perception_CVPR_2019_paper.pdf)    
 
 * **IQA: Visual Question Answering in Interactive Environments**, CVPR, 2018     
-Gordon, Daniel and Kembhavi, Aniruddha and Rastegari, Mohammad and Redmon, Joseph and Fox, Dieter and Farhadi, Ali    
+Gordon, Daniel and Kembhavi, Aniruddha and Rastegari, Mohammad and Redmon, Joseph and Fox, Dieter and Farhadi, Ali 
 [[page]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_IQA_Visual_Question_CVPR_2018_paper.pdf)      
 
 * **VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering**, BMVC, 2019    
@@ -901,7 +901,7 @@ Dorbala, Vishnu Sashank and Goyal, Prasoon and Piramuthu, Robinson and Johnston,
 * **Building Generalizable Agents with a Realistic and Rich 3D Environment**, ECCV, 2018     
 Wu, Yi and Wu, Yuxin and Gkioxari, Georgia and Tian, Yuandong    
 [[page]](https://arxiv.org/pdf/1801.02209)    
- 
+
 * **MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments**, ECCV, 2018    
 Savva, Manolis and Chang, Angel X and Dosovitskiy, Alexey and Funkhouser, Thomas and Koltun, Vladlen    
 [[page]](https://arxiv.org/pdf/1712.03931)    
@@ -911,7 +911,7 @@ Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niess
 [[page]](https://arxiv.org/pdf/1709.06158)    
 
 * **ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes**, CVPR, 2017    
-Dai, Angela and Chang, Angel X and Savva, Manolis and Halber, Maciej and Funkhouser, Thomas and Nie{\ss}ner, Matthias    
+Dai, Angela and Chang, Angel X and Savva, Manolis and Halber, Maciej and Funkhouser, Thomas and Nie{\ss}ner, Matthias 
 [[page]](https://www.computer.org/csdl/proceedings-article/cvpr/2017/0457c432/12OmNyRg4C5)    
 
 * **Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI**, NeurIPS, 2021    
@@ -1010,7 +1010,7 @@ Shen, William and Yang, Ge and Yu, Alan and Wong, Jansen and Kaelbling, Leslie P
 Zheng, Yuhang and Chen, Xiangyu and Zheng, Yupeng and Gu, Songen and Yang, Runyi and Jin, Bu and Li, Pengfei and Zhong, Chengliang and Wang, Zengmao and Liu, Lina and others    
 [[page]](https://arxiv.org/abs/2403.09637)    
 
-* **AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains**, IEEE Transactions on Robotics, 2023    
+* **AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains**, IEEE Transactions on Robotics, 2023 
 Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jirong and Yan, Hengxu and Liu, Wenhai and Xie, Yichen and Lu, Cewu    
 [[page]](https://ieeexplore.ieee.org/abstract/document/10167687)    
 
@@ -1212,13 +1212,17 @@ Noah Shinn, Beck Labash, A. Gopinath.
 Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang. 
 [[page](https://arxiv.org/pdf/2302.01560)]
 
-* **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model** ArXiv, 2023.     
+* **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**, ArXiv, 2023.     
 Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, and Hongsheng Li.      
 [[page]](https://github.com/OpenGVLab/Instruct2Act)
 
-* **LLM-SAP: Large Language Model Situational Awareness Based Planning** ArXiv, 2024.       
+* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ArXiv, 2024.       
 Liman Wang, Hanyang Zhong.          
 [[page]](https://github.com/HanyangZhong/Situational_Planning_datasets)    
+
+* **FMB: a Functional Manipulation Benchmark for Generalizable Robotic Learning**, ArXiv, 2024.       
+Jianlan Luo, Charles Xu, Fangchen Liu, Liam Tan, Zipeng Lin, Jeffrey Wu, Pieter Abbeel, and Sergey Levine.          
+[[page]](https://arxiv.org/pdf/2401.08553)    
 
 * **ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models** IROS, 2024.     
 Siyuan Huang, Iaroslav Ponomarenko, Zhengkai Jiang, Xiaoqi Li, Xiaobin Hu, Peng Gao, Hongsheng Li, and Hao Dong.     
@@ -1298,6 +1302,10 @@ Yann LeCun
 * **Introduction to Latent Variable Energy-Based Models: A Path Towards Autonomous Machine Intelligence**, arXiv, 2023
 Dawid, Anna and LeCun, Yann
 [[page]](https://arxiv.org/abs/2306.02572)
+
+* **Robust agents learn causal world models**, ICLR, 2024
+Richens, Jonathan, and Tom Everitt
+[[page]](https://arxiv.org/pdf/2402.10877)
 
 * **Real2Sim2Real: Self-Supervised Learning of Physical Single-Step Dynamic Actions for Planar Robot Casting**, ICRA, 2022
 Lim, Vincent and Huang, Huang and Chen, Lawrence Yunliang and Wang, Jonathan and Ichnowski, Jeffrey and Seita, Daniel and Laskey, Michael and Goldberg, Ken
@@ -1424,8 +1432,7 @@ Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)    
 [Habitat-Lab](https://github.com/facebookresearch/habitat-lab)    
 [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)    
-[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)    
-[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)       
+[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)      
 [MANIPULATE-ANYTHING：Automating Real-World Robots using Vision-Language Models](https://robot-ma.github.io/)    
 [Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)    
 [RoboMamba](https://sites.google.com/view/robomamba-web)   
@@ -1437,6 +1444,8 @@ Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 [EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
 [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://github.com/MineDojo/Voyager)    
+
+[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)     
 
 ## Acknowledgement
 We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Ganlong Zhao for their contributions.     
