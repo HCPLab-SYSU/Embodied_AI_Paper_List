@@ -526,6 +526,10 @@ Bhambri, Suvaansh, Byeonghwi, Kim, Jonghyun, Choi.
 Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong. 
 [[page](https://arxiv.org/pdf/2310.10822)]    
 
+* **Towards Deviation-robust Agent Navigation via Perturbation-aware Contrastive Learning**, TPAMI, 2023.              
+Bingqian Lin, Yanxin Long, Yi Zhu, Fengda Zhu, Xiaodan Liang , Qixiang Ye, Liang Lin.           
+[[page]](https://ieeexplore.ieee.org/abstract/document/10120966/)     
+
 * **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.   
 Wu, Wang, Xu, Lu, Yan. 
 [[page](https://arxiv.org/pdf/2406.11818)]   
@@ -533,6 +537,14 @@ Wu, Wang, Xu, Lu, Yan.
 * **Bridging zero-shot object navigation and foundation models through pixel-guided navigation skill** ICRA, 2024.           
 Wenzhe Cai, Siyuan Huang, Guangran Cheng, Yuxing Long, Peng Gao, Changyin Sun, and Hao Dong.       
 [[page]](https://github.com/wzcai99/Pixel-Navigator)      
+
+* **OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation**, CVPR, 2024.              
+Ganlong Zhao, Guanbin Li, Weikai Chen, Yizhou Yu.           
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_OVER-NAV_Elevating_Iterative_Vision-and-Language_Navigation_with_Open-Vocabulary_Detection_and_StructurEd_CVPR_2024_paper.pdf)     
+
+* **Correctable Landmark Discovery via Large Models for Vision-Language Navigation**, TPAMI, 2024.              
+Bingqian Lin, Yunshuang Nie, Ziming Wei, Yi Zhu, Hang Xu, Shikui Ma, Jianzhuang Liu, Xiaodan Liang.           
+[[page]](https://ieeexplore.ieee.org/abstract/document/10543121)     
 
 
 
@@ -1426,6 +1438,14 @@ Cheng, Xuxin and Ji, Yandong and Chen, Junming and Yang, Ruihan and Yang, Ge and
 * **The MIT Humanoid Robot: Design, Motion Planning, and Control for Acrobatic Behaviors**, IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021
 Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 [[page]](https://arxiv.longhoe.net/pdf/2104.09025)
+
+* **Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion**, TPAMI, 2022.       
+Changxin Huang, Guangrun Wang, Zhibo Zhou, Ronghui Zhang, Liang Lin.       
+[[page]](https://ieeexplore.ieee.org/abstract/document/9956746)    
+
+* **Surfer: Progressive Reasoning with World Models for Robotic Manipulation**, arxiv, 2023.    
+Pengzhen Ren, Kaidong Zhang, Hetao Zheng, Zixuan Li, Yuhang Wen, Fengda Zhu, Mas Ma, Xiaodan Liang.         
+[[page]](https://arxiv.org/pdf/2306.11335)    
 
 ## Other Useful Embodied Projects
 [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)     
