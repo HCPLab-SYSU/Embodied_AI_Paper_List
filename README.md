@@ -9,8 +9,6 @@
   </p>
 </p>
 
-# 
-
 <p align="center">
 <img src="./EmbodiedAI.jpg" width="250">
 </p>
