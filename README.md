@@ -1444,7 +1444,6 @@ Chignoli, Matthew and Kim, Donghyun and Stanger-Jones, Elijah and Kim, Sangbae
 [EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
 [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://github.com/MineDojo/Voyager)    
-
 [GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)     
 
 ## Acknowledgement
