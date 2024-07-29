@@ -2,7 +2,7 @@
 <p align="center">
 <h1 align="center"><strong>Paper list for Embodied AI</strong></h1>
   <p align="center">
-    <a href='https://github.com/HCPLab-SYSU' target='_blank'>HCPLab</a>&emsp;
+    <a href='https://www.sysu-hcp.net/' target='_blank'>HCPLab</a>&emsp;
     <br>
     Pengcheng Laboratory & SYSU HCP Lab
     <br>
