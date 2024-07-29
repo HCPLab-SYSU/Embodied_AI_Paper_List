@@ -152,97 +152,95 @@ Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang.
 
 * **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI 29. 6(2007): 1052–1067  
 Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse.   
-[[page]()]
+[[page]](http://www.doc.ic.ac.uk/~ajd/Publications/davison_etal_pami2007.pdf)
 
 * **A multi-state constraint Kalman filter for vision-aided inertial navigation**, IROS, 2007  
 Mourikis, Anastasios I, Stergios I, Roumeliotis.   
-[[page]()]
+[[page]](https://intra.engr.ucr.edu/~mourikis/tech_reports/TR_MSCKF.pdf)
 
 * **Parallel tracking and mapping for small AR workspaces**, ISMAR, 2007  
 Klein, Georg, David, Murray.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/4538852/)
 
 * **ORB-SLAM: a versatile and accurate monocular SLAM system** IEEE T-RO 31. 5(2015): 1147–1163  
 Mur-Artal, Raul, Jose Maria Martinez, Montiel, Juan D, Tardos.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/7219438/)
 
 * **DTAM: Dense tracking and mapping in real-time**, ICCV, 2011  
 Newcombe, Richard A, Steven J, Lovegrove, Andrew J, Davison.  
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/6126513/)
 
 * **LSD-SLAM: Large-scale direct monocular SLAM**, ECCV, 2014  
 Engel, Jakob, Thomas, Schops, Daniel, Cremers.  
-[[page]()]
+[[page]](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54)
 
 * **Slam++: Simultaneous localisation and mapping at the level of objects**, CVPR, 2013  
 Salas-Moreno, Renato F, Richard A, Newcombe, Hauke, Strasdat, Paul HJ, Kelly, Andrew J, Davison.   
-[[page]()]
+[[page]](https://openaccess.thecvf.com/content_cvpr_2013/papers/Salas-Moreno_SLAM_Simultaneous_Localisation_2013_CVPR_paper.pdf)
 
 * **Cubeslam: Monocular 3-d object slam**, IEEE T-RO 35. 4(2019): 925–938  
 Yang, Shichao, Sebastian, Scherer.  
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/8708251)
 
 * **Hierarchical topic model based object association for semantic SLAM**, IEEE T-VCG 25. 11(2019): 3052–3062  
 Zhang, Jianhua, Mengping, Gui, Qichao, Wang, Ruyu, Liu, Junzhe, Xu, Shengyong, Chen.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/8794595)
 
 * **Quadricslam: Dual quadrics from object detections as landmarks in object-oriented slam**, IEEE Robotics and Automation Letters 4. 1(2018): 1–8.  
 Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/8440105)
 
 * **So-slam: Semantic object slam with scale proportional and symmetrical texture constraints**. IEEE Robotics and Automation Letters 7. 2(2022): 4008–4015.  
 Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/9705562)
 
 * **DS-SLAM: A semantic visual SLAM towards dynamic environments**, IROS, 2018  
 Yu, Chao, Zuxin, Liu, Xin-Jun, Liu, Fugui, Xie, Yi, Yang, Qi, Wei, Qiao, Fei.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/8593691)
 
 * **DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes**, IEEE Robotics and Automation Letters 3. 4(2018): 4076–4083  
 Bescos, Berta, José M, Facil, Javier, Civera, José, Neira.   
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/8421015)
 
 * **SG-SLAM: A real-time RGB-D visual SLAM toward dynamic scenes with semantic and geometric information**, IEEE Transactions on Instrumentation and Measurement 72. (2022): 1–12.
 Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang. 
-[[page]()]
-
+[[page]](https://ieeexplore.ieee.org/abstract/document/9978699)
 
 * **OVD-SLAM: An online visual SLAM for dynamic environments**, IEEE Sensors Journal, 2023.
 He, Jiaming, Mingrui, Li, Yangyang, Wang, Hongyu, Wang. 
-[[page]()]
-
+[[page]](https://ieeexplore.ieee.org/abstract/document/10113832)
 
 * **Gs-slam: Dense visual slam with 3d gaussian splatting**, CVPR, 2024.
 Yan, Chi, Delin, Qu, Dan, Xu, Bin, Zhao, Zhigang, Wang, Dong, Wang, Xuelong, Li. 
-[[page]()]
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_GS-SLAM_Dense_Visual_SLAM_with_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)
 
 * **Multi-view 3d object detection network for autonomous driving**, CVPR, 2017.
 Chen, Xiaozhi, Huimin, Ma, Ji, Wan, Bo, Li, Tian, Xia. 
-[[page]()]
+[[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)
 
 * **Pointpillars: Fast encoders for object detection from point clouds**, CVPR, 2019.
 Lang, Alex H, Sourabh, Vora, Holger, Caesar, Lubing, Zhou, Jiong, Yang, Oscar, Beijbom. 
-[[page]()]
+[[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)
 
 * **Multi-view convolutional neural networks for 3d shape recognition**, ICCV, 2015.
 Su, Hang, Subhransu, Maji, Evangelos, Kalogerakis, Erik, Learned-Miller. 
-[[page]()]
+[[page]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf)
 
 * **Voxnet: A 3d convolutional neural network for real-time object recognition**, IROS, 2015.
 Maturana, Daniel, Sebastian, Scherer. 
-[[page]()]
+[[page]](https://ieeexplore.ieee.org/abstract/document/7353481)
 
 * **Semantic scene completion from a single depth image**, CVPR, 2017.
 Song, Shuran, Fisher, Yu, Andy, Zeng, Angel X, Chang, Manolis, Savva, Thomas, Funkhouser. 
-[[page]()]
+[[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)
 
 * **4d spatio-temporal convnets: Minkowski convolutional neural networks**, CVPR, 2019.
 Choy, Christopher, JunYoung, Gwak, Silvio, Savarese. 
-[[page]()]
+[[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choy_4D_Spatio-Temporal_ConvNets_Minkowski_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
 * **3d semantic segmentation with submanifold sparse convolutional networks**, CVPR, 2018.
 Graham, Benjamin, Martin, Engelcke, Laurens, Van Der Maaten. 
-[[page]()]
+[[page](https://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)]
 
 * **Embodiedscan: A holistic multi-modal 3d perception suite towards embodied ai** CVPR, 2024.
 Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others. 
