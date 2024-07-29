@@ -4,7 +4,7 @@
   <p align="center">
     <a href='https://github.com/HCPLab-SYSU' target='_blank'>HCPLab</a>&emsp;
     <br>
-    Pengcheng Lab & SYSU HCP Lab
+    Pengcheng Laboratory & SYSU HCP Lab
     <br>
   </p>
 </p>
