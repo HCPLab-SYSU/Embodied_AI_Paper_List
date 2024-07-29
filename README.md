@@ -1502,4 +1502,4 @@ We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Gan
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HCPLab-SYSU/Embodied_AI_Paper_List&type=Timeline)](https://star-history.com/#HCPLab-SYSU/Embodied_AI_Paper_List&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=HCPLab-SYSU/Embodied_AI_Paper_List&type=Date)](https://star-history.com/#HCPLab-SYSU/Embodied_AI_Paper_List&Date)
