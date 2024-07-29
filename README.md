@@ -777,29 +777,29 @@ Chen, Yiting and Tekden, Ahmet Ercan and Deisenroth, Marc Peter and Bekiroglu, Y
 Comi, Mauro and Tonioni, Alessio and Yang, Max and Tremblay, Jonathan and Blukis, Valts and Lin, Yijiong and Lepora, Nathan F and Aitchison, Laurence.    
 [[page](https://arxiv.org/pdf/2403.20275)]   
 
-* **Tactile-augmented radiance fields**, CVPR, 2024.   
-Dou, Yiming and Yang, Fengyu and Liu, Yi and Loquercio, Antonio and Owens, Andrew.
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Dou_Tactile-Augmented_Radiance_Fields_CVPR_2024_paper.pdf)]    
+* **Tactile-augmented radiance fields**, CVPR, 2024.      
+Dou, Yiming and Yang, Fengyu and Liu, Yi and Loquercio, Antonio and Owens, Andrew.    
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Dou_Tactile-Augmented_Radiance_Fields_CVPR_2024_paper.pdf)]       
 
-* **Visuotactile-rl: Learning multimodal manipulation policies with deep reinforcement learning**, ICRA, 2022.   
-Hansen, Johanna and Hogan, Francois and Rivkin, Dmitriy and Meger, David and Jenkin, Michael and Dudek, Gregory.   
-[[page](https://johannah.github.io/papers/Visuotactile-RL.pdf)]   
+* **Visuotactile-rl: Learning multimodal manipulation policies with deep reinforcement learning**, ICRA, 2022.          
+Hansen, Johanna and Hogan, Francois and Rivkin, Dmitriy and Meger, David and Jenkin, Michael and Dudek, Gregory.          
+[[page](https://johannah.github.io/papers/Visuotactile-RL.pdf)]          
 
-* **General In-hand Object Rotation with Vision and Touch**, CoRL, 2023.   
-Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and Calandra, Roberto and Malik, Jitendra. 
-[[page](https://proceedings.mlr.press/v229/qi23a/qi23a.pdf)]   
+* **General In-hand Object Rotation with Vision and Touch**, CoRL, 2023.          
+Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and Calandra, Roberto and Malik, Jitendra.        
+[[page](https://proceedings.mlr.press/v229/qi23a/qi23a.pdf)]          
 
 * **Sim-to-Real Model-Based and Model-Free Deep Reinforcement Learning for Tactile Pushing**, IEEE Robotics and Automation Letters, 2023.   
-Yang, Max and Lin, Yijiong and Church, Alex and Lloyd, John and Zhang, Dandan and Barton, David AW and Lepora, Nathan F. 
-[[page](https://arxiv.org/pdf/2307.14272)]   
+Yang, Max and Lin, Yijiong and Church, Alex and Lloyd, John and Zhang, Dandan and Barton, David AW and Lepora, Nathan F.     
+[[page](https://arxiv.org/pdf/2307.14272)]      
 
-* **AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**, ArXiv, 2024.   
-Yang, Max and Lu, Chenghua and Church, Alex and Lin, Yijiong and Ford, Chris and Li, Haoran and Psomopoulou, Efi and Barton, David AW and Lepora, Nathan F.
-[[page](https://arxiv.org/pdf/2405.07391)]   
+* **AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**, ArXiv, 2024.      
+Yang, Max and Lu, Chenghua and Church, Alex and Lin, Yijiong and Ford, Chris and Li, Haoran and Psomopoulou, Efi and Barton, David AW and Lepora, Nathan F.     
+[[page](https://arxiv.org/pdf/2405.07391)]      
 
-* **Unsupervised adversarial domain adaptation for sim-to-real transfer of tactile images**, IEEE Transactions on Instrumentation and Measurement, 2023.   
-Jing, Xingshuo and Qian, Kun and Jianu, Tudor and Luo, Shan.   
-[[page](https://ieeexplore.ieee.org/abstract/document/10106009/)]    
+* **Unsupervised adversarial domain adaptation for sim-to-real transfer of tactile images**, IEEE Transactions on Instrumentation and Measurement, 2023.       
+Jing, Xingshuo and Qian, Kun and Jianu, Tudor and Luo, Shan.      
+[[page](https://ieeexplore.ieee.org/abstract/document/10106009/)]       
 
 * **Feature-level Sim2Real Regression of Tactile Images for Robot Manipulation**, ICRA ViTac, 2024.    
 Duan, Boyi and Qian, Kun and Zhao, Yongqiang and Zhang, Dongyuan and Luo, Shan.    
@@ -810,12 +810,12 @@ Lin, Yijiong and Lloyd, John and Church, Alex and Lepora, Nathan F.
 [[page](https://arxiv.org/pdf/2207.10763)]   
 
 * **Convolutional autoencoder for feature extraction in tactile sensing**, IEEE Robotics and Automation Letters, 2019.   
-Polic, Marsela and Krajacic, Ivona and Lepora, Nathan and Orsag, Matko.   
-[[page](https://ieeexplore.ieee.org/abstract/document/8758942/)]    
+Polic, Marsela and Krajacic, Ivona and Lepora, Nathan and Orsag, Matko.    
+[[page](https://ieeexplore.ieee.org/abstract/document/8758942/)]     
 
-* **Supervised autoencoder joint learning on heterogeneous tactile sensory data: Improving material classification performance**, IROS, 2020.   
-Gao, Ruihan and Taunyazov, Tasbolat and Lin, Zhiping and Wu, Yan.    
-[[page](https://yan-wu.com/wp-content/uploads/2020/08/gao2020supervised.pdf)]    
+* **Supervised autoencoder joint learning on heterogeneous tactile sensory data: Improving material classification performance**, IROS, 2020.      
+Gao, Ruihan and Taunyazov, Tasbolat and Lin, Zhiping and Wu, Yan.      
+[[page](https://yan-wu.com/wp-content/uploads/2020/08/gao2020supervised.pdf)]      
 
 * **Learn from incomplete tactile data: Tactile representation learning with masked autoencoders**, IROS, 2023.    
 Cao, Guanqun and Jiang, Jiaqi and Bollegala, Danushka and Luo, Shan.    
