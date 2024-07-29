@@ -21,8 +21,10 @@
 
 ![Teaser](teaser.png "demo")
 
+<p align="center">
 [**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**](https://arxiv.org/pdf/2407.06886)    
   [Yang Liu](https://yangliu9208.github.io), Weixing Chen, Yongjie Bai, [Guanbin Li](http://guanbinli.com/), [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm), [Liang Lin](http://www.linliang.net/)     
+</p>  
 <p align="center">
 <img src="./Survey.png" width="800">
 </p>  
