@@ -405,9 +405,17 @@ Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian
 Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, and Qing Li      
 [[page]](https://3d-vista.github.io/)    
 
+* **LeaF: Learning Frames for 4D Point Cloud Sequence Understanding**, ICCV, 2023       
+Yunze Liu, Junyu Chen, Zekai Zhang, Li Yi        
+[[page]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_LeaF_Learning_Frames_for_4D_Point_Cloud_Sequence_Understanding_ICCV_2023_paper.pdf)
+
 * **SQA3D: Situated Question Answering in 3D Scenes**, ICLR, 2023    
 Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, and Siyuan Huang    
 [[page]]([https://sqa3d.github.io/))    
+
+* **ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**, arxiv, 2024          
+Zekun Qi, Runpei Dong, Shaochen Zhang, Haoran Geng, Chunrui Han, Zheng Ge, He Wang, Li Yi, Kaisheng Ma      
+[[page]](https://qizekun.github.io/shapellm/))
 
 * **LEO: An Embodied Generalist Agent in 3D World**, ICML, 2024      
 Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, and Siyuan Huang   
@@ -432,6 +440,10 @@ Yiran Qin, Enshen Zhou, Qichang Liu, Zhenfei Yin, Lu Sheng, Ruimao Zhang, Yu Qia
 * **MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation**, CVPR, 2024     
 Mi Yan, Jiazhao Zhang, Yan Zhu, He Wang            
 [[page]](https://arxiv.org/pdf/2401.07745)
+
+* **TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding**, CVPR, 2024     
+Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Yi                
+[[page]](https://taco2024.github.io/)
 
 
 ### Visual Language Navigation
@@ -1642,6 +1654,11 @@ Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui 
 Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong.        
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)
 
+* **GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation**, CVPR, 2024.        
+Zifan Wang, Junyu Chen, Ziqing Chen, Pengwei Xie, Rui Chen, Li Yi.        
+[[page]](https://genh2r.github.io/)
+
+
 * **SAGE: Bridging Semantic and Actionable Parts for Generalizable Manipulation of Articulated Objects**, RSS, 2024.        
 Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas.        
 [[page]](https://arxiv.org/abs/2312.01307)
@@ -1669,6 +1686,13 @@ Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang, Chaoyi Xu, Weiguan
 [EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
 [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://github.com/MineDojo/Voyager)    
+[GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation](https://genh2r.github.io/)
+[DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation](https://pku-epic.github.io/DexGraspNet/)
+[UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://pku-epic.github.io/UniDexGrasp/)
+[UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning](https://pku-epic.github.io/UniDexGrasp++/)
+[RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents](https://sites.google.com/view/rh20t-primitive/main)
+[OAKINK2 : A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion](https://oakink.net/v2)
+[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
 [GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)         
 
 ## :newspaper: Citation 
