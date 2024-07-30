@@ -51,8 +51,10 @@ Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artifici
 
 ## <a id="books-surveys"> Books & Surveys <a href="#table-of-contents">🔝</a> </a> 
 
-* **Multimodal Large Models: The New Paradigm of Artificial General Intelligence**, Publishing House of Electronics Industry (PHE), 2024     
-Yang Liu, Liang Lin     
+* **Multimodal Large Models: The New Paradigm of Artificial General Intelligence**, Publishing House of Electronics Industry (PHE), 2024
+* **《多模态大模型：新一代人工智能技术范式》**, 电子工业出版社, 2024    
+Yang Liu, Liang Lin         
+刘阳, 林倞 著       
 [[Page](https://hcplab-sysu.github.io/Book-of-MLM/)]      
 
 * **Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**, arXiv:2407.06886, 2024       
