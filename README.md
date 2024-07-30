@@ -429,6 +429,9 @@ Yining Hong, Zishuo Zheng, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan
 Yiran Qin, Enshen Zhou, Qichang Liu, Zhenfei Yin, Lu Sheng, Ruimao Zhang, Yu Qiao, Jing Shao        
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_MP5_A_Multi-modal_Open-ended_Embodied_System_in_Minecraft_via_Active_CVPR_2024_paper.pdf)
 
+* **MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation**, CVPR, 2024     
+Mi Yan, Jiazhao Zhang, Yan Zhu, He Wang            
+[[page]](https://arxiv.org/pdf/2401.07745)
 
 
 ### Visual Language Navigation
@@ -526,8 +529,8 @@ Liuyi Wang, Qijun Chen.
 Rui Liu, Yi Yang.    
 [[page](https://arxiv.org/pdf/2403.14158)]    
 
-* **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**, ArXiv, 2024.   
-Jiazhao Zhang, , Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang, Qi Wu, Zhizheng Zhang, Wang He.    
+* **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**, RSS, 2024.   
+Jiazhao Zhang, Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang, Qi Wu, Zhizheng Zhang, He Wang.    
 [[page](https://arxiv.org/pdf/2402.15852)]   
 
 * **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**, ECCV, 2018.   
@@ -971,7 +974,12 @@ Taunyazov, Tasbolat and Chua, Yansong and Gao, Ruihan and Soh, Harold and Wu, Ya
 
 * **When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective**, Arxiv, 2024.    
 Li, Shoujie and Wang, Zihan and Wu, Changsheng and Li, Xiang and Luo, Shan and Fang, Bin and Sun, Fuchun and Zhang, Xiao-Ping and Ding, Wenbo.    
-[[page](https://arxiv.org/pdf/2406.12226)]    
+[[page](https://arxiv.org/pdf/2406.12226)]
+
+* **Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing**, RA-L, 2024.    
+Yun Liu, Xiaomeng Xu, Weihang Chen, Haocheng Yuan, He Wang, Jing Xu, Rui Chen, Li Yi.       
+[[page](https://arxiv.org/abs/2210.04026)]
+
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 * **Embodied Question Answering**, CVPR, 2018    
@@ -1126,6 +1134,18 @@ Zheng, Yuhang and Chen, Xiangyu and Zheng, Yupeng and Gu, Songen and Yang, Runyi
 Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jirong and Yan, Hengxu and Liu, Wenhai and Xie, Yichen and Lu, Cewu    
 [[page]](https://ieeexplore.ieee.org/abstract/document/10167687)
 
+* **DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation**, ICRA, 2023.           
+Ruicheng Wang, Jialiang Zhang, Jiayi Chen, Yinzhen Xu, Puhao Li, Tengyu Liu, He Wang                          
+[[page]](https://pku-epic.github.io/DexGraspNet/)
+
+* **UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy**, CVPR, 2023.           
+Yinzhen Xu, Weikang Wan, Jialiang Zhang, Haoran Liu, Zikang Shan, Hao Shen, Ruicheng Wang, Haoran Geng, Yijia Weng, Jiayi Chen, Tengyu Liu, Li Yi, He Wang                      
+[[page]](https://pku-epic.github.io/UniDexGrasp/)
+
+* **UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning**, ICCV, 2023.           
+Weikang Wan, Haoran Geng, Yun Liu, Zikang Shan, Yaodong Yang, Li Yi, He Wang                    
+[[page]](https://pku-epic.github.io/UniDexGrasp++/)
+
 * **MANUS: Markerless Grasp Capture using Articulated 3D Gaussians**, CVPR, 2024     
 Chandradeep Pokhariya, Ishaan Nikhil Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar.       
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pokhariya_MANUS_Markerless_Grasp_Capture_using_Articulated_3D_Gaussians_CVPR_2024_paper.pdf)
@@ -1153,6 +1173,19 @@ Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani.
 * **Grasping Diverse Objects with Simulated Humanoids** ArXiv, 2024.           
 Zhengyi Luo, Jinkun Cao, Sammy Christen, Alexander Winkler, Kris Kitani, Weipeng Xu      
 [[page]](https://arxiv.org/pdf/2407.11385)        
+
+* **Task-Oriented Dexterous Grasp Synthesis via Differentiable Grasp Wrench Boundary Estimator**, IROS, 2024.           
+Jiayi Chen,Yuxing Chen,Jialiang Zhang, He Wang          
+[[page]](https://arxiv.org/pdf/2309.13586)
+
+* **Open6DOR: Benchmarking Open-instruction 6-DoF Object Rearrangement and A VLM-based Approach**, IROS, 2024.           
+Yufei Ding,Haoran Geng , Chaoyi Xu ,Xiaomeng Fang,Jiazhao Zhang,Songlin Wei, Qiyu Dai, Zhizheng Zhang, He Wang             
+[[page]](https://pku-epic.github.io/Open6DOR/)
+
+* **ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera**, ICRA, 2024.           
+Jun Shi, Yong A, Yixiang Jin, Dingzhe Li, Haoyu Niu, Zhezhu Jin, He Wang                 
+[[page]](https://arxiv.org/pdf/2405.05648)
+
 
 
 
@@ -1589,6 +1622,10 @@ Changxin Huang, Guangrun Wang, Zhibo Zhou, Ronghui Zhang, Liang Lin.
 Pengzhen Ren, Kaidong Zhang, Hetao Zheng, Zixuan Li, Yuhang Wen, Fengda Zhu, Mas Ma, Xiaodan Liang.         
 [[page]](https://arxiv.org/pdf/2306.11335)
 
+* **PartManip: Learning Cross-Category Generalizable Part Manipulation Policy from Point Cloud Observations**, CVPR, 2023.    
+Haoran Geng, Ziming Li, Yiran Geng, Jiayi Chen, Hao Dong, He Wang.         
+[[page]](https://pku-epic.github.io/PartManip/)
+
 * **Lifelike agility and play in quadrupedal robots using reinforcement learning and generative pre-trained models**, Nature Machine Intelligence, 2024.        
 Lei Han, Qingxu Zhu, Jiapeng Sheng, Chong Zhang, Tingguang Li, Yizheng Zhang, He Zhang et al.        
 [[page]](https://www.nature.com/articles/s42256-024-00861-3)
@@ -1604,6 +1641,15 @@ Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui 
 * **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation**, CVPR, 2024.        
 Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong.        
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)
+
+* **SAGE: Bridging Semantic and Actionable Parts for Generalizable Manipulation of Articulated Objects**, RSS, 2024.        
+Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas.        
+[[page]](https://arxiv.org/abs/2312.01307)
+
+* **GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion**, ICRA, 2024.        
+Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang, Chaoyi Xu, Weiguang Chen, Liu Dai, He Wang.        
+[[page]](https://arxiv.org/pdf/2309.15459)
+
 
 
 ## Other Useful Embodied Projects
