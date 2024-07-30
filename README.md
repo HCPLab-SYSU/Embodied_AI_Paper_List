@@ -568,6 +568,66 @@ Wenzhe Cai, Siyuan Huang, Guangran Cheng, Yuxing Long, Peng Gao, Changyin Sun, a
 Ganlong Zhao, Guanbin Li, Weikai Chen, Yizhou Yu.           
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_OVER-NAV_Elevating_Iterative_Vision-and-Language_Navigation_with_Open-Vocabulary_Detection_and_StructurEd_CVPR_2024_paper.pdf)     
 
+* **RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**, CVPR, 2024.                
+Zeyuan Yang, Jiageng Liu, Peihao Chen, Anoop Cherian, Tim K. Marks, Jonathan Le Roux, Chuang Gan.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf)   
+
+* **Towards Learning a Generalist Model for Embodied Navigation**, CVPR, 2024.                
+Duo Zheng, Shijia Huang, Lin Zhao, Yiwu Zhong, Liwei Wang.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Towards_Learning_a_Generalist_Model_for_Embodied_Navigation_CVPR_2024_paper.pdf)
+
+* **Vision-and-Language Navigation via Causal Learning**, CVPR, 2024.                
+Liuyi Wang, Zongtao He, Ronghao Dang, Mengjiao Shen, Chengju Liu, Qijun Chen.        
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf)
+
+* **Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation**, CVPR, 2024.                
+Xiaohan Lei, Min Wang, Wengang Zhou, Li Li, Houqiang Li.     
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lei_Instance-aware_Exploration-Verification-Exploitation_for_Instance_ImageGoal_Navigation_CVPR_2024_paper.pdf)
+
+* **Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation**, CVPR, 2024.                
+Mukul Khanna, Yongsen Mao, Hanxiao Jiang, Sanjay Haresh, Brennan Shacklett, Dhruv Batra, Alexander Clegg, Eric Undersander, Angel X. Chang, Manolis Savva.     
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Khanna_Habitat_Synthetic_Scenes_Dataset_HSSD-200_An_Analysis_of_3D_Scene_CVPR_2024_paper.pdf)
+
+* **SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System**, CVPR, 2024.                
+Yunfei Fan, Tianyu Zhao, Guidong Wang.     
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_SchurVINS_Schur_Complement-Based_Lightweight_Visual_Inertial_Navigation_System_CVPR_2024_paper.pdf)
+
+* **SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**, CVPR, 2024.                
+Kiana Ehsani, Tanmay Gupta, Rose Hendrix, Jordi Salvador, Luca Weihs, Kuo-Hao Zeng, Kunal Pratap Singh, Yejin Kim, Winson Han, Alvaro Herrasti, Ranjay Krishna, Dustin Schwenk, Eli VanderBilt, Aniruddha Kembhavi.  
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ehsani_SPOC_Imitating_Shortest_Paths_in_Simulation_Enables_Effective_Navigation_and_CVPR_2024_paper.pdf)
+
+* **Volumetric Environment Representation for Vision-Language Navigation**, CVPR, 2024.                
+Rui Liu, Wenguan Wang, Yi Yang.     
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Volumetric_Environment_Representation_for_Vision-Language_Navigation_CVPR_2024_paper.pdf)
+
+* **GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation**, CVPR, 2024.                
+Xiaohan Wang, Yuehu Liu, Xinhang Song, Yuyi Liu, Sixian Zhang, Shuqiang Jiang.        
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Khanna_GOAT-Bench_A_Benchmark_for_Multi-Modal_Lifelong_Navigation_CVPR_2024_paper.pdf)
+
+* **An Interactive Navigation Method with Effect-oriented Affordance**, CVPR, 2024.                
+Xiaohan Wang, Yuehu Liu, Xinhang Song, Yuyi Liu, Sixian Zhang, Shuqiang Jiang.      
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_An_Interactive_Navigation_Method_with_Effect-oriented_Affordance_CVPR_2024_paper.pdf)
+
+* **Imagine Before Go: Self-Supervised Generative Map for Object Goal Navigation**, CVPR, 2024.                
+Sixian Zhang, Xinyao Yu, Xinhang Song, Xiaohan Wang, Shuqiang Jiang.         
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Imagine_Before_Go_Self-Supervised_Generative_Map_for_Object_Goal_Navigation_CVPR_2024_paper.pdf)
+
+* **MemoNav: Working Memory Model for Visual Navigation**, CVPR, 2024.                
+Hongxin Li, Zeyu Wang, Xu Yang, Yuran Yang, Shuqi Mei, Zhaoxiang Zhang.         
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf)
+
+* **Versatile Navigation Under Partial Observability via Value-guided Diffusion Policy**, CVPR, 2024.                
+Gengyu Zhang, Hao Tang, Yan Yan.         
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Versatile_Navigation_Under_Partial_Observability_via_Value-guided_Diffusion_Policy_CVPR_2024_paper.pdf)
+
+* **Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**, CVPR, 2024.                
+Zihan Wang, Xiangyang Li, Jiahao Yang, Yeqi Liu, Junjie Hu, Ming Jiang, Shuqiang Jiang.    
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Lookahead_Exploration_with_Neural_Radiance_Representation_for_Continuous_Vision-Language_Navigation_CVPR_2024_paper.pdf)
+
+* **SPIN: Simultaneous Perception Interaction and Navigation**, CVPR, 2024.                
+Shagun Uppal, Ananye Agarwal, Haoyu Xiong, Kenneth Shaw, Deepak Pathak.    
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Uppal_SPIN_Simultaneous_Perception_Interaction_and_Navigation_CVPR_2024_paper.pdf)
+
 * **Correctable Landmark Discovery via Large Models for Vision-Language Navigation**, TPAMI, 2024.              
 Bingqian Lin, Yunshuang Nie, Ziming Wei, Yi Zhu, Hang Xu, Shikui Ma, Jianzhuang Liu, Xiaodan Liang.           
 [[page]](https://ieeexplore.ieee.org/abstract/document/10543121)
