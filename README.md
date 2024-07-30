@@ -55,6 +55,10 @@ Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artifici
 Yang Liu, Liang Lin     
 [[Page](https://hcplab-sysu.github.io/Book-of-MLM/)]      
 
+* **Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**, arXiv:2407.06886, 2024       
+Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Liang Lin.        
+[[Paper](https://arxiv.org/pdf/2407.06886)]    
+
 * **A Survey on Vision-Language-Action Models for Embodied AI**, arXiv:2405.14093, 2024   
 Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King    
 [[Paper](https://arxiv.org/pdf/2405.14093)]
