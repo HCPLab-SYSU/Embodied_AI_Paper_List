@@ -421,6 +421,16 @@ Baoxiong Jia, Yixin Chen, Huangyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing L
 Ziyu Zhu, Zhuofan Zhang, Xiaojian Ma, Xuesong Niu, Yixin Chen, Baoxiong Jia, Zhidong Deng, Siyuan Huang, and Qing Li    
 [[page]](https://3d-vista.github.io/)
 
+* **MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World**, CVPR, 2024     
+Yining Hong, Zishuo Zheng, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan     
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_MultiPLY_A_Multisensory_Object-Centric_Embodied_Large_Language_Model_in_3D_CVPR_2024_paper.pdf)
+
+* **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**, CVPR, 2024     
+Yiran Qin, Enshen Zhou, Qichang Liu, Zhenfei Yin, Lu Sheng, Ruimao Zhang, Yu Qiao, Jing Shao        
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_MP5_A_Multi-modal_Open-ended_Embodied_System_in_Minecraft_via_Active_CVPR_2024_paper.pdf)
+
+
+
 ### Visual Language Navigation
 
 
@@ -1140,6 +1150,9 @@ Yan-Kang Wang, Chengyi Xing, Yi-Lin Wei, Xiao-Ming Wu, Wei-Shi Zheng.
 Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani.       
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_G-HOP_Generative_Hand-Object_Prior_for_Interaction_Reconstruction_and_Grasp_Synthesis_CVPR_2024_paper.pdf)
 
+* **Grasping Diverse Objects with Simulated Humanoids** ArXiv, 2024.           
+Zhengyi Luo, Jinkun Cao, Sammy Christen, Alexander Winkler, Kris Kitani, Weipeng Xu      
+[[page]](https://arxiv.org/pdf/2407.11385)        
 
 
 
@@ -1361,9 +1374,17 @@ Siyuan Huang, Iaroslav Ponomarenko, Zhengkai Jiang, Xiaoqi Li, Xiaobin Hu, Peng 
 Siyuan Huang, Haonan Chang, Yuhan Liu, Yimeng Zhu, Hao Dong, Peng Gao, Abdeslam Boularias, and Hongsheng Li.       
 [[page]](https://github.com/changhaonan/A3VLM)
 
-* **Grasping Diverse Objects with Simulated Humanoids** ArXiv, 2024.           
-Zhengyi Luo, Jinkun Cao, Sammy Christen, Alexander Winkler, Kris Kitani, Weipeng Xu      
-[[page]](https://arxiv.org/pdf/2407.11385)        
+* **Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld**, CVPR, 2024.       
+Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, Yuhui Shi.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Embodied_Multi-Modal_Agent_trained_by_an_LLM_from_a_Parallel_CVPR_2024_paper.pdf)
+
+* **Retrieval-Augmented Embodied Agents**, CVPR, 2024.       
+Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf)
+
+* **Multi-agent Collaborative Perception via Motion-aware Robust Communication Network**, CVPR, 2024.       
+Shixin Hong, Yu Liu, Zhi Li, Shaohui Li, You He.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.pdf)
 
 
 
@@ -1570,7 +1591,20 @@ Pengzhen Ren, Kaidong Zhang, Hetao Zheng, Zixuan Li, Yuhang Wen, Fengda Zhu, Mas
 
 * **Lifelike agility and play in quadrupedal robots using reinforcement learning and generative pre-trained models**, Nature Machine Intelligence, 2024.        
 Lei Han, Qingxu Zhu, Jiapeng Sheng, Chong Zhang, Tingguang Li, Yizheng Zhang, He Zhang et al.        
-[[page]](https://www.nature.com/articles/s42256-024-00861-3)        
+[[page]](https://www.nature.com/articles/s42256-024-00861-3)
+
+* **Model Adaptation for Time Constrained Embodied Control**, CVPR, 2024.        
+Jaehyun Song, Minjong Yoo, Honguk Woo.        
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Model_Adaptation_for_Time_Constrained_Embodied_Control_CVPR_2024_paper.pdf)
+
+* **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation**, CVPR, 2024.        
+Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong.        
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)    
+
+* **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation**, CVPR, 2024.        
+Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong.        
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)
+
 
 ## Other Useful Embodied Projects
 [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)     
