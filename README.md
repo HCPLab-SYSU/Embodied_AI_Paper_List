@@ -1686,14 +1686,14 @@ Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang, Chaoyi Xu, Weiguan
 [EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
 [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://github.com/MineDojo/Voyager)    
-[GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation](https://genh2r.github.io/)
-[DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation](https://pku-epic.github.io/DexGraspNet/)
-[UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://pku-epic.github.io/UniDexGrasp/)
-[UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning](https://pku-epic.github.io/UniDexGrasp++/)
-[RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents](https://sites.google.com/view/rh20t-primitive/main)
-[OAKINK2 : A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion](https://oakink.net/v2)
-[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
-[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)         
+[GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation](https://genh2r.github.io/)       
+[DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation](https://pku-epic.github.io/DexGraspNet/)      
+[UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://pku-epic.github.io/UniDexGrasp/)      
+[UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning](https://pku-epic.github.io/UniDexGrasp++/)      
+[RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents](https://sites.google.com/view/rh20t-primitive/main)       
+[OAKINK2 : A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion](https://oakink.net/v2)         
+[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)      
+[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)            
 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
