@@ -1262,7 +1262,11 @@ Siyuan Huang, Iaroslav Ponomarenko, Zhengkai Jiang, Xiaoqi Li, Xiaobin Hu, Peng 
 
 * **A3VLM: Actionable Articulation-Aware Vision Language Model** ArXiv, 2024.       
 Siyuan Huang, Haonan Chang, Yuhan Liu, Yimeng Zhu, Hao Dong, Peng Gao, Abdeslam Boularias, and Hongsheng Li.       
-[[page]](https://github.com/changhaonan/A3VLM)     
+[[page]](https://github.com/changhaonan/A3VLM)
+
+* **Grasping Diverse Objects with Simulated Humanoids** ArXiv, 2024.           
+Zhengyi Luo, Jinkun Cao, Sammy Christen, Alexander Winkler, Kris Kitani, Weipeng Xu      
+[[page]](https://arxiv.org/pdf/2407.11385)        
 
 
 
@@ -1465,7 +1469,11 @@ Changxin Huang, Guangrun Wang, Zhibo Zhou, Ronghui Zhang, Liang Lin.
 
 * **Surfer: Progressive Reasoning with World Models for Robotic Manipulation**, arxiv, 2023.    
 Pengzhen Ren, Kaidong Zhang, Hetao Zheng, Zixuan Li, Yuhang Wen, Fengda Zhu, Mas Ma, Xiaodan Liang.         
-[[page]](https://arxiv.org/pdf/2306.11335)    
+[[page]](https://arxiv.org/pdf/2306.11335)
+
+* **Lifelike agility and play in quadrupedal robots using reinforcement learning and generative pre-trained models**, Nature Machine Intelligence, 2024.        
+Lei Han, Qingxu Zhu, Jiapeng Sheng, Chong Zhang, Tingguang Li, Yizheng Zhang, He Zhang et al.        
+[[page]](https://www.nature.com/articles/s42256-024-00861-3)        
 
 ## Other Useful Embodied Projects
 [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)     
