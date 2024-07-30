@@ -1114,7 +1114,34 @@ Zheng, Yuhang and Chen, Xiangyu and Zheng, Yupeng and Gu, Songen and Yang, Runyi
 
 * **AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains**, IEEE Transactions on Robotics, 2023 
 Fang, Hao-Shu and Wang, Chenxi and Fang, Hongjie and Gou, Minghao and Liu, Jirong and Yan, Hengxu and Liu, Wenhai and Xie, Yichen and Lu, Cewu    
-[[page]](https://ieeexplore.ieee.org/abstract/document/10167687)    
+[[page]](https://ieeexplore.ieee.org/abstract/document/10167687)
+
+* **MANUS: Markerless Grasp Capture using Articulated 3D Gaussians**, CVPR, 2024     
+Chandradeep Pokhariya, Ishaan Nikhil Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pokhariya_MANUS_Markerless_Grasp_Capture_using_Articulated_3D_Gaussians_CVPR_2024_paper.pdf)
+
+* **Language-driven Grasp Detection**, CVPR, 2024     
+An Dinh Vuong, Minh Nhat Vu, Baoru Huang, Nghia Nguyen, Hieu Le, Thieu Vo, Anh Nguyen.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.pdf)
+
+* **Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge**, CVPR, 2024     
+Haoxiang Ma, Modi Shi, Boyang Gao, Di Huang.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Generalizing_6-DoF_Grasp_Detection_via_Domain_Prior_Knowledge_CVPR_2024_paper.pdf)
+
+* **Dexterous Grasp Transformer**, CVPR, 2024     
+Guo-Hao Xu, Yi-Lin Wei, Dian Zheng, Xiao-Ming Wu, Wei-Shi Zheng.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Dexterous_Grasp_Transformer_CVPR_2024_paper.pdf)
+
+* **Single-View Scene Point Cloud Human Grasp Generation**, CVPR, 2024     
+Yan-Kang Wang, Chengyi Xing, Yi-Lin Wei, Xiao-Ming Wu, Wei-Shi Zheng.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Single-View_Scene_Point_Cloud_Human_Grasp_Generation_CVPR_2024_paper.pdf)
+
+* **G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**, CVPR, 2024     
+Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani.       
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_G-HOP_Generative_Hand-Object_Prior_for_Interaction_Reconstruction_and_Grasp_Synthesis_CVPR_2024_paper.pdf)
+
+
+
 
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
