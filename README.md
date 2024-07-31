@@ -1707,7 +1707,7 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
 }
 ```
 ## 👏 Acknowledgements
-We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Zhida Li, and Ganlong Zhao for their contributions.
+We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Junyi Lin, Zhida Li, and Ganlong Zhao for their contributions.
 
 ## Star History
 
