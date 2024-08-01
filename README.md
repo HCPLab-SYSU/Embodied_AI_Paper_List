@@ -1708,7 +1708,3 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
 ```
 ## 👏 Acknowledgements
 We sincerely thank Jingzhou Luo, Xinshuai Song, Kaixuan Jiang, Junyi Lin, Zhida Li, and Ganlong Zhao for their contributions.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=HCPLab-SYSU/Embodied_AI_Paper_List&type=Date)](https://star-history.com/#HCPLab-SYSU/Embodied_AI_Paper_List&Date)
