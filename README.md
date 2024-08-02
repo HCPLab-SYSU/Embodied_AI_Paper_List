@@ -1667,6 +1667,19 @@ Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas.
 Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang, Chaoyi Xu, Weiguang Chen, Liu Dai, He Wang.        
 [[page]](https://arxiv.org/pdf/2309.15459)
 
+* **ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments**, ECCV, 2024.        
+Taewoong Kim, Cheolhong Min, Byeonghwi Kim, Jinyeon Kim, Wonje Jeung, Jonghyun Choi.        
+[[page]](https://arxiv.org/pdf/2407.18550)
+
+* **DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**, ECCV, 2024.        
+Xinyu Xu, Shengcheng Luo, Yanchao Yang, Yong-Lu Li, Cewu Lu.         
+[[page]](https://arxiv.org/pdf/2407.14758)
+
+* **DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems**, ICML, 2024.        
+Kaibo He, Chenhui Zuo, Chengtian Ma, Yanan Sui.         
+[[page]](https://arxiv.org/pdf/2407.11472)
+
+
 
 
 ## Other Useful Embodied Projects
@@ -1694,6 +1707,7 @@ Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang, Chaoyi Xu, Weiguan
 [OAKINK2](https://oakink.net/v2)         
 [Open X-Embodiment](https://robotics-transformer-x.github.io/)      
 [GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)            
+[MetaUrban](https://metadriverse.github.io/metaurban/)
 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
