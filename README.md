@@ -1213,6 +1213,8 @@ Jun Shi, Yong A, Yixiang Jin, Dingzhe Li, Haoyu Niu, Zhezhu Jin, He Wang
 
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
+### Embodied Multimodal Foundation Models
+
 * **Rt-1: Robotics transformer for real-world control at scale**, ArXiv, 2022.    
 Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis, Chelsea, Finn, Keerthana, Gopalakrishnan, Karol, Hausman, Alex, Herzog, Jasmine, Hsu, others.     
 [[page](https://arxiv.org/pdf/2212.06817)]    
@@ -1256,10 +1258,9 @@ Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerth
 * **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, ArXiv, 2023.    
 Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others.     
 [[page](https://arxiv.org/pdf/2312.01990)]    
- 
-* **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, ArXiv, 2024.    
-Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An, Senqiao, Yang, Renrui, Zhang, Yandong, Guo, Shanghang, Zhang.     
-[[page](https://arxiv.org/pdf/2406.04339)]    
+
+
+### Embodied Manipulation & Control
 
 * **Cliport: What and where pathways for robotic manipulation**, Conference on robot learning, 2022.    
 Shridhar, Mohit, Lucas, Manuelli, Dieter, Fox.     
@@ -1440,6 +1441,19 @@ Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang.
 * **Multi-agent Collaborative Perception via Motion-aware Robust Communication Network**, CVPR, 2024.       
 Shixin Hong, Yu Liu, Zhi Li, Shaohui Li, You He.       
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.pdf)
+
+* **A Backbone for Long-Horizon Robot Task Understanding**, arxiv, 2024.       
+Xiaoshuai Chen, Wei Chen, Dongmyoung Lee, Yukun Ge, Nicolas Rojas, and Petar Kormushev.           
+[[page]](https://arxiv.org/pdf/2408.01334)
+
+* **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, arXiv, 2024.    
+Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An, Senqiao, Yang, Renrui, Zhang, Yandong, Guo, Shanghang, Zhang.     
+[[page](https://arxiv.org/pdf/2406.04339)]
+
+* **Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**, arxiv, 2024.          
+Ruoxuan Feng, Di Hu1, Wenke Ma, Xuelong Li.              
+[[page]](https://arxiv.org/pdf/2408.01366)
+ 
 
 
 
