@@ -170,7 +170,7 @@ Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fra
 Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark.   
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)]
 
-* **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, CVPR, 2024  
+* **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, arxiv, 2024  
 Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang.   
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
 
@@ -336,6 +336,11 @@ Hu, Yafei, Junyi, Geng, Chen, Wang, John, Keller, Sebastian, Scherer.
 Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf)]
 
+* **SpatialBot: Precise Spatial Understanding with Vision Language Models**, CVPR, 2024.    
+Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao. 
+[[page](https://arxiv.org/pdf/2406.13642)]
+
+
 
 ### 3D Visual Grounding
 * **ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language**, ECCV, 2020    
@@ -445,6 +450,10 @@ Mi Yan, Jiazhao Zhang, Yan Zhu, He Wang
 * **TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding**, CVPR, 2024     
 Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Yi                
 [[page]](https://taco2024.github.io/)
+
+* **MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**, arxiv, 2024       
+Ruiyuan Lyu, Tai Wang, Jingli Lin, Shuai Yang, Xiaohan Mao, Yilun Chen, Runsen Xu, Haifeng Huang, Chenming Zhu, Dahua Lin, Jiangmiao Pang                   
+[[page]](https://arxiv.org/pdf/2406.09401)
 
 
 ### Visual Language Navigation
