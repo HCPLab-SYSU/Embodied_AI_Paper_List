@@ -336,7 +336,7 @@ Hu, Yafei, Junyi, Geng, Chen, Wang, John, Keller, Sebastian, Scherer.
 Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf)]
 
-* **SpatialBot: Precise Spatial Understanding with Vision Language Models**, CVPR, 2024.    
+* **SpatialBot: Precise Spatial Understanding with Vision Language Models**, arxiv, 2024.    
 Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao. 
 [[page](https://arxiv.org/pdf/2406.13642)]
 
