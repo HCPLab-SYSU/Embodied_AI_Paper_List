@@ -113,12 +113,16 @@ Todorov, Emanuel, Tom, Erez, Yuval, Tassa.
 [[page](https://ieeexplore.ieee.org/abstract/document/6386109/), [code](https://github.com/google-deepmind/mujoco)]
 
 * **Unity: A general platform for intelligent agents**, ArXiv, 2020
-Juliani, Arthur, Vincent-Pierre, Berges, Ervin, Teng, Andrew, Cohen, Jonathan, Harper, Chris, Elion, Chris, Goy, Yuan, Gao, Hunter, Henry, Marwan, Mattar, Danny, Lange. 
+Juliani, Arthur, Vincent-Pierre, Berges, Ervin, Teng, Andrew, Cohen, Jonathan, Harper, Chris, Elion, Chris, Goy, Yuan, Gao, Hunter, Henry, Marwan, Mattar, Danny, Lange.
 [[page](https://arxiv.org/pdf/1809.02627)]
 
 * **AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles**, Field and Service Robotics, 2017
-Shital Shah, , Debadeepta Dey, Chris Lovett, Ashish Kapoor. 
+Shital Shah, , Debadeepta Dey, Chris Lovett, Ashish Kapoor.
 [[page](https://arxiv.org/pdf/1705.05065.pdf%20http://arxiv.org/abs/1705.05065)]
+
+* **Aerial Gym -- Isaac Gym Simulator for Aerial Robots**, ArXiv, 2023
+Mihir Kulkarni and Theodor J. L. Forgaard and Kostas Alexis.
+[[paper](https://arxiv.org/abs/2305.16510)]
 
 * **Modular open robots simulation engine: Morse**, ICRA, 2011
 Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{\'e}verin
