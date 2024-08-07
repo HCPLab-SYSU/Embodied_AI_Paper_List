@@ -1255,7 +1255,7 @@ Padalkar, others.
 Mu, Yao, Qinglong, Zhang, Mengkang, Hu, Wenhai, Wang, Mingyu, Ding, Jun, Jin, Bin, Wang, Jifeng, Dai, Yu, Qiao, Ping, Luo.     
 [[page](https://proceedings.neurips.cc/paper_files/paper/2023/file/4ec43957eda1126ad4887995d05fae3b-Paper-Conference.pdf)]    
 
-* **Vision-language foundation models as effective robot imitators**, ArXiv, 2023.    
+* **Vision-language foundation models as effective robot imitators**, arXiv, 2023.    
 Li, Xinghang, Minghuan, Liu, Hanbo, Zhang, Cunjun, Yu, Jie, Xu, Hongtao, Wu, Chilam, Cheang, Ya, Jing, Weinan, Zhang, Huaping, Liu, others.     
 [[page](https://arxiv.org/pdf/2311.01378)]    
 
@@ -1263,9 +1263,13 @@ Li, Xinghang, Minghuan, Liu, Hanbo, Zhang, Cunjun, Yu, Jie, Xu, Hongtao, Wu, Chi
 Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others.     
 [[page](https://arxiv.org/pdf/2401.12963)]     
 
-* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, ArXiv, 2023.    
+* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, arXiv, 2023.    
 Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others.     
 [[page](https://arxiv.org/pdf/2312.01990)]    
+
+* **Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learningn**, arXiv, 2024.      
+Norman Di Palo, Leonard Hasenclever, Jan Humplik, Arunkumar Byravan.       
+[[page](https://arxiv.org/pdf/2407.20798)]
 
 
 ### Embodied Manipulation & Control
