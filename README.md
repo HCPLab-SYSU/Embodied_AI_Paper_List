@@ -673,7 +673,11 @@ Bingqian Lin, Yunshuang Nie, Ziming Wei, Yi Zhu, Hang Xu, Shikui Ma, Jianzhuang 
 
 * **DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**, arxiv, 2024.                
 Xinyu Xu, Shengcheng Luo, Yanchao Yang, Yong-Lu Li, Cewu Lu.              
-[[page]](https://arxiv.org/abs/2407.14758)        
+[[page]](https://arxiv.org/abs/2407.14758)
+
+* **NOLO: Navigate Only Look Once**, arxiv, 2024.                
+Bohan Zhou, Jiangxing Wang, Zongqing Lu.              
+[[page]](https://arxiv.org/pdf/2408.01384)     
 
 
 
