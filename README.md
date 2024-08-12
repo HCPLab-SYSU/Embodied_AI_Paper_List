@@ -342,6 +342,10 @@ Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu.
 Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao. 
 [[page](https://arxiv.org/pdf/2406.13642)]
 
+* **Embodied Uncertainty-Aware Object Segmentations**, arxiv, 2024.      
+Xiaolin Fang, Leslie Pack Kaelbling, Tom ́as Lozano-P ́erez.   
+[[page](https://arxiv.org/pdf/2408.04760)]
+
 
 
 ### 3D Visual Grounding
