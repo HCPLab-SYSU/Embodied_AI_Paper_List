@@ -1467,7 +1467,10 @@ Liu, Jiaming, Mengzhen, Liu, Zhenyu, Wang, Lily, Lee, Kaichen, Zhou, Pengju, An,
 * **Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**, arxiv, 2024.          
 Ruoxuan Feng, Di Hu1, Wenke Ma, Xuelong Li.              
 [[page]](https://arxiv.org/pdf/2408.01366)
- 
+
+* **Egocentric Vision Language Planning**, arxiv, 2024.          
+Zhirui Fang, Ming Yang, Weishuai Zeng, Boyu Li, Junpeng Yue, Ziluo Ding, Xiu Li, Zongqing Lu.              
+[[page]](https://arxiv.org/pdf/2408.05802)
 
 
 
