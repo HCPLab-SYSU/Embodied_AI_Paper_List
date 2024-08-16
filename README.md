@@ -247,6 +247,10 @@ He, Jiaming, Mingrui, Li, Yangyang, Wang, Hongyu, Wang.
 Yan, Chi, Delin, Qu, Dan, Xu, Bin, Zhao, Zhigang, Wang, Dong, Wang, Xuelong, Li.      
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_GS-SLAM_Dense_Visual_SLAM_with_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)    
 
+* **GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**, IEEE RAL, 2024.    
+Yutong Wang, Chaoyang Jiang, Xieyuanli Chen.      
+[[page]](https://arxiv.org/pdf/2408.07917)
+
 * **Multi-view 3d object detection network for autonomous driving**, CVPR, 2017.    
 Chen, Xiaozhi, Huimin, Ma, Ji, Wan, Bo, Li, Tian, Xia.     
 [[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)    
@@ -1475,6 +1479,10 @@ Ruoxuan Feng, Di Hu1, Wenke Ma, Xuelong Li.
 * **Egocentric Vision Language Planning**, arxiv, 2024.          
 Zhirui Fang, Ming Yang, Weishuai Zeng, Boyu Li, Junpeng Yue, Ziluo Ding, Xiu Li, Zongqing Lu.              
 [[page]](https://arxiv.org/pdf/2408.05802)
+
+* **Polaris: Open-ended Interactive Robotic Manipulation via Syn2Real Visual Grounding and Large Language Models**, IROS, 2024.          
+Tianyu Wang, Haitao Lin, Junqiu Yu, Yanwei Fu.              
+[[page]](https://arxiv.org/pdf/2408.07975)
 
 
 
