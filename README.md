@@ -60,6 +60,10 @@ Yang Liu, Liang Lin
 Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Liang Lin.        
 [[Paper](https://arxiv.org/pdf/2407.06886)]    
 
+* **Teleoperation of Humanoid Robots: A Survey**, IEEE Transactions on Robotics, 2024       
+Kourosh Darvish, Luigi Penco, Joao Ramos, Rafael Cisneros, Jerry Pratt, Eiichi Yoshida, Serena Ivaldi, Daniele Pucci.        
+[[Paper](https://arxiv.org/pdf/2301.04317)]
+
 * **A Survey on Vision-Language-Action Models for Embodied AI**, arXiv:2405.14093, 2024   
 Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, Irwin King    
 [[Paper](https://arxiv.org/pdf/2405.14093)]
