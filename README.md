@@ -1238,10 +1238,6 @@ Yamauchi, Brian
 Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others.     
 [[page](https://arxiv.org/pdf/2401.12963)]     
 
-* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, arXiv, 2023.    
-Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others.     
-[[page](https://arxiv.org/pdf/2312.01990)]    
-
 * **Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learningn**, arXiv, 2024.      
 Norman Di Palo, Leonard Hasenclever, Jan Humplik, Arunkumar Byravan.       
 [[page](https://arxiv.org/pdf/2407.20798)]
@@ -1261,6 +1257,10 @@ Mu, Yao, Qinglong, Zhang, Mengkang, Hu, Wenhai, Wang, Mingyu, Ding, Jun, Jin, Bi
 * **Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions**, Conference on Robot Learning. 2023.    
 Chebotar, Yevgen, Quan, Vuong, Karol, Hausman, Fei, Xia, Yao, Lu, Alex, Irpan, Aviral, Kumar, Tianhe, Yu, Alexander, Herzog, Karl, Pertsch, others.     
 [[page](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)]    
+
+* **Sara-rt: Scaling up robotics transformers with self-adaptive robust attention**, arXiv, 2023.    
+Leal, Isabel, Krzysztof, Choromanski, Deepali, Jain, Avinava, Dubey, Jake, Varley, Michael, Ryoo, Yao, Lu, Frederick, Liu, Vikas, Sindhwani, Quan, Vuong, others.     
+[[page](https://arxiv.org/pdf/2312.01990)]
 
 * **Palm-e: An embodied multimodal language model**, ArXiv, 2023.    
 Driess, Danny, Fei, Xia, Mehdi SM, Sajjadi, Corey, Lynch, Aakanksha, Chowdhery, Brian, Ichter, Ayzaan, Wahid, Jonathan, Tompson, Quan, Vuong, Tianhe, Yu, others.     
