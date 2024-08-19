@@ -100,8 +100,8 @@ Rolf Pfeifer, Fumiya Iida
 ## <a id="simulators"> Embodied Simulators <a href="#table-of-contents">🔝</a> </a>
 ### General Simulator
 
-* **Design and use paradigms for gazebo, an open-source multi-robot simulator**, IROS, 2004
-Koenig, Nathan, Andrew, Howard. 
+* **Design and use paradigms for gazebo, an open-source multi-robot simulator**, IROS, 2004        
+Koenig, Nathan, Andrew, Howard.      
 [[page](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=79f91c1c95271a075b91e9fdca43d6c31e4cbe17)]
 
 * **Nvidia isaac sim: Robotics simulation and synthetic data**, NVIDIA, 2023    
