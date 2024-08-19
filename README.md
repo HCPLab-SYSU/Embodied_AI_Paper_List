@@ -188,7 +188,56 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
-* **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI 29. 6(2007): 1052–1067  
+* **Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception**, CVPR, 2024.    
+Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf)]
+
+* **SpatialBot: Precise Spatial Understanding with Vision Language Models**, arxiv, 2024.    
+Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao. 
+[[page](https://arxiv.org/pdf/2406.13642)]
+
+* **Embodied Uncertainty-Aware Object Segmentations**, IROS, 2024.      
+Xiaolin Fang, Leslie Pack Kaelbling, Tom ́as Lozano-P ́erez.   
+[[page](https://arxiv.org/pdf/2408.04760)]
+
+* **Point Transformer V3: Simpler Faster Stronger**, CVPR, 2024.
+Wu, Xiaoyang, Li, Jiang, Peng-Shuai, Wang, Zhijian, Liu, Xihui, Liu, Yu, Qiao, Wanli, Ouyang, Tong, He, Hengshuang, Zhao.    
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf)]    
+
+* **PointMamba: A Simple State Space Model for Point Cloud Analysis**, arXiv, 2024.   
+Liang, Dingkang, Xin, Zhou, Xinyu, Wang, Xingkui, Zhu, Wei, Xu, Zhikang, Zou, Xiaoqing, Ye, Xiang, Bai.     
+[[page](https://arxiv.org/pdf/2402.10739)]    
+
+* **Point Could Mamba: Point Cloud Learning via State Space Model**, arXiv, 2024.    
+Zhang, Tao, Xiangtai, Li, Haobo, Yuan, Shunping, Ji, Shuicheng, Yan.     
+[[page](https://arxiv.org/pdf/2403.00762)]    
+
+* **Mamba3d: Enhancing local features for 3d point cloud analysis via state space model**, arXiv, 2024.   
+Han, Xu, Yuan, Tang, Zhaoxuan, Wang, Xianzhi, Li.    
+[[page](https://arxiv.org/pdf/2404.14966)]
+
+* **Gs-slam: Dense visual slam with 3d gaussian splatting**, CVPR, 2024.    
+Yan, Chi, Delin, Qu, Dan, Xu, Bin, Zhao, Zhigang, Wang, Dong, Wang, Xuelong, Li.      
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_GS-SLAM_Dense_Visual_SLAM_with_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)    
+
+* **GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**, IEEE RAL, 2024.    
+Yutong Wang, Chaoyang Jiang, Xieyuanli Chen.      
+[[page]](https://arxiv.org/pdf/2408.07917)
+
+* **Embodiedscan: A holistic multi-modal 3d perception suite towards embodied ai** CVPR, 2024.    
+Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others. 
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_EmbodiedScan_A_Holistic_Multi-Modal_3D_Perception_Suite_Towards_Embodied_AI_CVPR_2024_paper.pdf)]
+
+* **Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering**, IROS, 2023.    
+Jin, Liren, Xieyuanli, Chen, Julius, Rückin, Marija, Popovi\'c.    
+[[page](https://arxiv.org/pdf/2303.01284)]    
+
+* **Off-policy evaluation with online adaptation for robot exploration in challenging environments**, IEEE Robotics and Automation Letters, 2023.   
+Hu, Yafei, Junyi, Geng, Chen, Wang, John, Keller, Sebastian, Scherer.    
+[[page](https://arxiv.org/pdf/2204.03140)]    
+
+
+* **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI, 2007.  
 Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse.   
 [[page]](http://www.doc.ic.ac.uk/~ajd/Publications/davison_etal_pami2007.pdf)
 
@@ -248,52 +297,17 @@ Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang.
 He, Jiaming, Mingrui, Li, Yangyang, Wang, Hongyu, Wang.     
 [[page]](https://ieeexplore.ieee.org/abstract/document/10113832)    
 
-* **Gs-slam: Dense visual slam with 3d gaussian splatting**, CVPR, 2024.    
-Yan, Chi, Delin, Qu, Dan, Xu, Bin, Zhao, Zhigang, Wang, Dong, Wang, Xuelong, Li.      
-[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_GS-SLAM_Dense_Visual_SLAM_with_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)    
+* **Transferring implicit knowledge of non-visual object properties across heterogeneous robot morphologies**, ICRA, 2023.    
+Tatiya, Gyan, Jonathan, Francis, Jivko, Sinapov.    
+[[page](https://arxiv.org/pdf/2209.06890)]
 
-* **GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**, IEEE RAL, 2024.    
-Yutong Wang, Chaoyang Jiang, Xieyuanli Chen.      
-[[page]](https://arxiv.org/pdf/2408.07917)
+* **Swin3d: A pretrained transformer backbone for 3d indoor scene understanding**, arXiv, 2023.   
+Yang, Yu-Qi, Yu-Xiao, Guo, Jian-Yu, Xiong, Yang, Liu, Hao, Pan, Peng-Shuai, Wang, Xin, Tong, Baining, Guo.    
+[[page](https://arxiv.org/pdf/2304.06906)]
 
-* **Multi-view 3d object detection network for autonomous driving**, CVPR, 2017.    
-Chen, Xiaozhi, Huimin, Ma, Ji, Wan, Bo, Li, Tian, Xia.     
-[[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)    
-
-* **Pointpillars: Fast encoders for object detection from point clouds**, CVPR, 2019.    
-Lang, Alex H, Sourabh, Vora, Holger, Caesar, Lubing, Zhou, Jiong, Yang, Oscar, Beijbom.     
-[[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)    
-
-* **Multi-view convolutional neural networks for 3d shape recognition**, ICCV, 2015.    
-Su, Hang, Subhransu, Maji, Evangelos, Kalogerakis, Erik, Learned-Miller.     
-[[page]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf)    
-
-* **Voxnet: A 3d convolutional neural network for real-time object recognition**, IROS, 2015.    
-Maturana, Daniel, Sebastian, Scherer.     
-[[page]](https://ieeexplore.ieee.org/abstract/document/7353481)    
-
-* **Semantic scene completion from a single depth image**, CVPR, 2017.    
-Song, Shuran, Fisher, Yu, Andy, Zeng, Angel X, Chang, Manolis, Savva, Thomas, Funkhouser.     
-[[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)    
-
-* **4d spatio-temporal convnets: Minkowski convolutional neural networks**, CVPR, 2019.    
-Choy, Christopher, JunYoung, Gwak, Silvio, Savarese.    
-[[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choy_4D_Spatio-Temporal_ConvNets_Minkowski_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)    
-
-* **3d semantic segmentation with submanifold sparse convolutional networks**, CVPR, 2018.    
-Graham, Benjamin, Martin, Engelcke, Laurens, Van Der Maaten.     
-[[page](https://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)]    
-
-* **Embodiedscan: A holistic multi-modal 3d perception suite towards embodied ai** CVPR, 2024.    
-Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others. 
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_EmbodiedScan_A_Holistic_Multi-Modal_3D_Perception_Suite_Towards_Embodied_AI_CVPR_2024_paper.pdf)]    
-* **Pointnet: Deep learning on point sets for 3d classification and segmentation**, CVPR, 2017.    
-Qi, Charles R, Hao, Su, Kaichun, Mo, Leonidas J, Guibas.     
-[[page](Pointnet: Deep learning on point sets for 3d classification and segmentation)]    
-
-* **Pointnet++: Deep hierarchical feature learning on point sets in a metric space**, NeurIPS, 2017.    
-Qi, Charles Ruizhongtai, Li, Yi, Hao, Su, Leonidas J, Guibas.     
-[[page](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf)]       
+* **Point transformer v2: Grouped vector attention and partition-based pooling**, NeurIPS, 2022.   
+Wu, Xiaoyang, Yixing, Lao, Li, Jiang, Xihui, Liu, Hengshuang, Zhao.     
+[[page](https://proceedings.neurips.cc/paper_files/paper/2022/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf)]
 
 * **Rethinking network design and local geometry in point cloud: A simple residual MLP framework**, arXiv, 2022.
 Ma, Xu, Can, Qin, Haoxuan, You, Haoxi, Ran, Yun, Fu. 
@@ -303,140 +317,55 @@ Ma, Xu, Can, Qin, Haoxuan, You, Haoxi, Ran, Yun, Fu.
 Zhao, Hengshuang, Li, Jiang, Jiaya, Jia, Philip HS, Torr, Vladlen, Koltun.     
 [[page](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf)]    
 
-* **Swin3d: A pretrained transformer backbone for 3d indoor scene understanding**, arXiv, 2023.   
-Yang, Yu-Qi, Yu-Xiao, Guo, Jian-Yu, Xiong, Yang, Liu, Hao, Pan, Peng-Shuai, Wang, Xin, Tong, Baining, Guo.    
-[[page](https://arxiv.org/pdf/2304.06906)]    
+* **Pointpillars: Fast encoders for object detection from point clouds**, CVPR, 2019.    
+Lang, Alex H, Sourabh, Vora, Holger, Caesar, Lubing, Zhou, Jiong, Yang, Oscar, Beijbom.     
+[[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)    
 
-* **Point transformer v2: Grouped vector attention and partition-based pooling**, NeurIPS, 2022.   
-Wu, Xiaoyang, Yixing, Lao, Li, Jiang, Xihui, Liu, Hengshuang, Zhao.     
-[[page](https://proceedings.neurips.cc/paper_files/paper/2022/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf)]
+* **4d spatio-temporal convnets: Minkowski convolutional neural networks**, CVPR, 2019.    
+Choy, Christopher, JunYoung, Gwak, Silvio, Savarese.    
+[[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choy_4D_Spatio-Temporal_ConvNets_Minkowski_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
-* **Point Transformer V3: Simpler Faster Stronger**, CVPR, 2024.
-Wu, Xiaoyang, Li, Jiang, Peng-Shuai, Wang, Zhijian, Liu, Xihui, Liu, Yu, Qiao, Wanli, Ouyang, Tong, He, Hengshuang, Zhao.    
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf)]    
-
-* **PointMamba: A Simple State Space Model for Point Cloud Analysis**, arXiv, 2024.   
-Liang, Dingkang, Xin, Zhou, Xinyu, Wang, Xingkui, Zhu, Wei, Xu, Zhikang, Zou, Xiaoqing, Ye, Xiang, Bai.     
-[[page](https://arxiv.org/pdf/2402.10739)]    
-
-* **Point Could Mamba: Point Cloud Learning via State Space Model**, arXiv, 2024.    
-Zhang, Tao, Xiangtai, Li, Haobo, Yuan, Shunping, Ji, Shuicheng, Yan.     
-[[page](https://arxiv.org/pdf/2403.00762)]    
-
-* **Mamba3d: Enhancing local features for 3d point cloud analysis via state space model**, arXiv, 2024.   
-Han, Xu, Yuan, Tang, Zhaoxuan, Wang, Xianzhi, Li.    
-[[page](https://arxiv.org/pdf/2404.14966)]   
-
-* **The curious robot: Learning visual representations via physical interactions**, ECCV, 2016.   
-Pinto, Lerrel, Dhiraj, Gandhi, Yuanfeng, Han, Yong-Lae, Park, Abhinav, Gupta.    
-[[page](https://arxiv.org/pdf/1604.01360)]    
-
-* **Transferring implicit knowledge of non-visual object properties across heterogeneous robot morphologies**, ICRA, 2023.    
-Tatiya, Gyan, Jonathan, Francis, Jivko, Sinapov.    
-[[page](https://arxiv.org/pdf/2209.06890)]    
+* **3d semantic segmentation with submanifold sparse convolutional networks**, CVPR, 2018.    
+Graham, Benjamin, Martin, Engelcke, Laurens, Van Der Maaten.     
+[[page](https://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)]
 
 * **Learning to look around: Intelligently exploring unseen environments for unknown tasks**, CVPR, 2018.   
 Jayaraman, Dinesh, Kristen, Grauman.    
 [[page](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jayaraman_Learning_to_Look_CVPR_2018_paper.pdf)]    
 
-* **Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering**, IROS, 2023.    
-Jin, Liren, Xieyuanli, Chen, Julius, Rückin, Marija, Popovi\'c.    
-[[page](https://arxiv.org/pdf/2303.01284)]    
+* **Multi-view 3d object detection network for autonomous driving**, CVPR, 2017.    
+Chen, Xiaozhi, Huimin, Ma, Ji, Wan, Bo, Li, Tian, Xia.     
+[[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)    
 
-* **Off-policy evaluation with online adaptation for robot exploration in challenging environments**, IEEE Robotics and Automation Letters, 2023.   
-Hu, Yafei, Junyi, Geng, Chen, Wang, John, Keller, Sebastian, Scherer.    
-[[page](https://arxiv.org/pdf/2204.03140)]    
+* **Semantic scene completion from a single depth image**, CVPR, 2017.    
+Song, Shuran, Fisher, Yu, Andy, Zeng, Angel X, Chang, Manolis, Savva, Thomas, Funkhouser.     
+[[page]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)    
 
-* **Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception**, CVPR, 2024.    
-Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf)]
+* **Pointnet: Deep learning on point sets for 3d classification and segmentation**, CVPR, 2017.    
+Qi, Charles R, Hao, Su, Kaichun, Mo, Leonidas J, Guibas.     
+[[page](Pointnet: Deep learning on point sets for 3d classification and segmentation)]    
 
-* **SpatialBot: Precise Spatial Understanding with Vision Language Models**, arxiv, 2024.    
-Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao. 
-[[page](https://arxiv.org/pdf/2406.13642)]
+* **Pointnet++: Deep hierarchical feature learning on point sets in a metric space**, NeurIPS, 2017.    
+Qi, Charles Ruizhongtai, Li, Yi, Hao, Su, Leonidas J, Guibas.     
+[[page](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf)]
 
-* **Embodied Uncertainty-Aware Object Segmentations**, IROS, 2024.      
-Xiaolin Fang, Leslie Pack Kaelbling, Tom ́as Lozano-P ́erez.   
-[[page](https://arxiv.org/pdf/2408.04760)]
+* **The curious robot: Learning visual representations via physical interactions**, ECCV, 2016.   
+Pinto, Lerrel, Dhiraj, Gandhi, Yuanfeng, Han, Yong-Lae, Park, Abhinav, Gupta.    
+[[page](https://arxiv.org/pdf/1604.01360)]    
 
+* **Multi-view convolutional neural networks for 3d shape recognition**, ICCV, 2015.    
+Su, Hang, Subhransu, Maji, Evangelos, Kalogerakis, Erik, Learned-Miller.     
+[[page]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf)    
 
+* **Voxnet: A 3d convolutional neural network for real-time object recognition**, IROS, 2015.    
+Maturana, Daniel, Sebastian, Scherer.     
+[[page]](https://ieeexplore.ieee.org/abstract/document/7353481)    
 
 ### 3D Visual Grounding
-* **ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language**, ECCV, 2020    
-Chen, Dave Zhenyu and Chang, Angel X and Nie{\ss}ner, Matthias    
-[[page]](https://arxiv.org/pdf/1912.08830)    
 
-* **ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes**, ECCV, 2020   
-Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and Guibas, Leonidas   
-[[page]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf)   
-
-* **Text-guided graph neural networks for referring 3D instance segmentation**, AAAI, 2021   
-Huang, Pin-Hao and Lee, Han-Hung and Chen, Hwann-Tzong and Liu, Tyng-Luh   
-[[page]](https://ojs.aaai.org/index.php/AAAI/article/view/16253/16060)   
-
-* **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**, ICCV, 2021   
-Yuan, Zhihao and Yan, Xu and Liao, Yinghong and Zhang, Ruimao and Wang, Sheng and Li, Zhen and Cui, Shuguang   
-[[page]](https://arxiv.org/pdf/2103.01128)   
-
-* **Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud**, CVPR, 2021   
-Feng, Mingtao and Li, Zhen and Li, Qi and Zhang, Liang and Zhang, XiangDong and Zhu, Guangming and Zhang, Hui and Wang, Yaonan and Mian, Ajmal   
-[[page]](https://arxiv.org/pdf/2103.16381)   
-
-* **SAT: 2D Semantics Assisted Training for 3D Visual Grounding**, CVPR, 2021   
-Yang, Zhengyuan and Zhang, Songyang and Wang, Liwei and Luo, Jiebo   
-[[page]](https://arxiv.org/pdf/2105.11450)   
-
-* **LanguageRefer: Spatiallanguage model for 3D visual grounding**, CVPR, 2021   
-Roh, Junha and Desingh, Karthik and Farhadi, Ali and Fox, Dieter   
-[[page]](https://arxiv.org/pdf/2107.03438)   
-
-* **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds**, ICCV, 2021    
-Zhao, Lichen and Cai, Daigang and Sheng, Lu and Xu, Dong    
-[[page]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf)    
-
-* **TransRefer3D: Entity-and-relation aware transformer for fine-grained 3D visual grounding**, CVPR, 2021    
-He, Dailan and Zhao, Yusheng and Luo, Junyu and Hui, Tianrui and Huang, Shaofei and Zhang, Aixi and Liu, Si
-[[page]](https://arxiv.org/pdf/2108.02388)   
-
-* **Multi-view transformer for 3D visual grounding**, CVPR, 2022   
-Huang, Shijia and Chen, Yilun and Jia, Jiaya and Wang, Liwei   
-[[page]](https://arxiv.org/pdf/2204.02174)    
-
-* **Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding**, CVPR, 2022   
-Bakr, Eslam and Alsaedy, Yasmeen and Elhoseiny, Mohamed   
-[[page]](https://arxiv.org/pdf/2211.14241)   
-
-* **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**, arXix, 2023   
-Yang, Jianing and Chen, Xuweiyi and Qian, Shengyi and Madaan, Nikhil and Iyengar, Madhavan and Fouhey, David F and Chai, Joyce   
-[[page]](https://arxiv.org/pdf/2309.12311)   
-
-* **Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**, arXix, 2023   
-Yuan, Zhihao and Ren, Jinke and Feng, Chun-Mei and Zhao, Hengshuang and Cui, Shuguang and Li, Zhen   
-[[page]](https://arxiv.org/pdf/2311.15383)   
-
-* **3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**, CVPR, 2022   
-Luo, Junyu and Fu, Jiahui and Kong, Xianghao and Gao, Chen and Ren, Haibing and Shen, Hao and Xia, Huaxia and Liu, Si   
-[[page]](https://arxiv.org/pdf/2204.06272)    
-
-* **Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds**, ECCV, 2022   
-Jain, Ayush and Gkanatsios, Nikolaos and Mediratta, Ishita and Fragkiadaki, Katerina   
-[[page]](https://arxiv.org/pdf/2112.08879)   
-
-* **EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding**, CVPR, 2023   
-Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian   
-[[page]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.pdf)   
-
-* **3d-vista: Pre-trained transformer for 3d vision and text alignment**, ICCV, 2023       
-Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, and Qing Li      
-[[page]](https://3d-vista.github.io/)    
-
-* **LeaF: Learning Frames for 4D Point Cloud Sequence Understanding**, ICCV, 2023       
-Yunze Liu, Junyu Chen, Zekai Zhang, Li Yi        
-[[page]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_LeaF_Learning_Frames_for_4D_Point_Cloud_Sequence_Understanding_ICCV_2023_paper.pdf)
-
-* **SQA3D: Situated Question Answering in 3D Scenes**, ICLR, 2023    
-Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, and Siyuan Huang    
-[[page]]([https://sqa3d.github.io/))    
+* **MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**, arxiv, 2024       
+Ruiyuan Lyu, Tai Wang, Jingli Lin, Shuai Yang, Xiaohan Mao, Yilun Chen, Runsen Xu, Haifeng Huang, Chenming Zhu, Dahua Lin, Jiangmiao Pang                   
+[[page]](https://arxiv.org/pdf/2406.09401)
 
 * **ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**, arxiv, 2024          
 Zekun Qi, Runpei Dong, Shaochen Zhang, Haoran Geng, Chunrui Han, Zheng Ge, He Wang, Li Yi, Kaisheng Ma      
@@ -470,85 +399,96 @@ Mi Yan, Jiazhao Zhang, Yan Zhu, He Wang
 Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Yi                
 [[page]](https://taco2024.github.io/)
 
-* **MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**, arxiv, 2024       
-Ruiyuan Lyu, Tai Wang, Jingli Lin, Shuai Yang, Xiaohan Mao, Yilun Chen, Runsen Xu, Haifeng Huang, Chenming Zhu, Dahua Lin, Jiangmiao Pang                   
-[[page]](https://arxiv.org/pdf/2406.09401)
+* **EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding**, CVPR, 2023   
+Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian   
+[[page]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.pdf)   
+
+* **3d-vista: Pre-trained transformer for 3d vision and text alignment**, ICCV, 2023       
+Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, and Qing Li      
+[[page]](https://3d-vista.github.io/)    
+
+* **LeaF: Learning Frames for 4D Point Cloud Sequence Understanding**, ICCV, 2023       
+Yunze Liu, Junyu Chen, Zekai Zhang, Li Yi        
+[[page]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_LeaF_Learning_Frames_for_4D_Point_Cloud_Sequence_Understanding_ICCV_2023_paper.pdf)
+
+* **SQA3D: Situated Question Answering in 3D Scenes**, ICLR, 2023    
+Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, and Siyuan Huang    
+[[page]]([https://sqa3d.github.io/))
+
+* **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**, arXix, 2023   
+Yang, Jianing and Chen, Xuweiyi and Qian, Shengyi and Madaan, Nikhil and Iyengar, Madhavan and Fouhey, David F and Chai, Joyce   
+[[page]](https://arxiv.org/pdf/2309.12311)   
+
+* **Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**, arXix, 2023   
+Yuan, Zhihao and Ren, Jinke and Feng, Chun-Mei and Zhao, Hengshuang and Cui, Shuguang and Li, Zhen   
+[[page]](https://arxiv.org/pdf/2311.15383)
+
+* **Multi-view transformer for 3D visual grounding**, CVPR, 2022   
+Huang, Shijia and Chen, Yilun and Jia, Jiaya and Wang, Liwei   
+[[page]](https://arxiv.org/pdf/2204.02174)    
+
+* **Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding**, CVPR, 2022   
+Bakr, Eslam and Alsaedy, Yasmeen and Elhoseiny, Mohamed   
+[[page]](https://arxiv.org/pdf/2211.14241)   
+
+* **3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**, CVPR, 2022   
+Luo, Junyu and Fu, Jiahui and Kong, Xianghao and Gao, Chen and Ren, Haibing and Shen, Hao and Xia, Huaxia and Liu, Si   
+[[page]](https://arxiv.org/pdf/2204.06272)    
+
+* **Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds**, ECCV, 2022   
+Jain, Ayush and Gkanatsios, Nikolaos and Mediratta, Ishita and Fragkiadaki, Katerina   
+[[page]](https://arxiv.org/pdf/2112.08879)   
+
+* **Text-guided graph neural networks for referring 3D instance segmentation**, AAAI, 2021   
+Huang, Pin-Hao and Lee, Han-Hung and Chen, Hwann-Tzong and Liu, Tyng-Luh   
+[[page]](https://ojs.aaai.org/index.php/AAAI/article/view/16253/16060)   
+
+* **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**, ICCV, 2021   
+Yuan, Zhihao and Yan, Xu and Liao, Yinghong and Zhang, Ruimao and Wang, Sheng and Li, Zhen and Cui, Shuguang   
+[[page]](https://arxiv.org/pdf/2103.01128)   
+
+* **Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud**, CVPR, 2021   
+Feng, Mingtao and Li, Zhen and Li, Qi and Zhang, Liang and Zhang, XiangDong and Zhu, Guangming and Zhang, Hui and Wang, Yaonan and Mian, Ajmal   
+[[page]](https://arxiv.org/pdf/2103.16381)   
+
+* **SAT: 2D Semantics Assisted Training for 3D Visual Grounding**, CVPR, 2021   
+Yang, Zhengyuan and Zhang, Songyang and Wang, Liwei and Luo, Jiebo   
+[[page]](https://arxiv.org/pdf/2105.11450)   
+
+* **LanguageRefer: Spatiallanguage model for 3D visual grounding**, CVPR, 2021   
+Roh, Junha and Desingh, Karthik and Farhadi, Ali and Fox, Dieter   
+[[page]](https://arxiv.org/pdf/2107.03438)   
+
+* **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds**, ICCV, 2021    
+Zhao, Lichen and Cai, Daigang and Sheng, Lu and Xu, Dong    
+[[page]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf)    
+
+* **TransRefer3D: Entity-and-relation aware transformer for fine-grained 3D visual grounding**, CVPR, 2021    
+He, Dailan and Zhao, Yusheng and Luo, Junyu and Hui, Tianrui and Huang, Shaofei and Zhang, Aixi and Liu, Si
+[[page]](https://arxiv.org/pdf/2108.02388)   
+
+* **ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language**, ECCV, 2020    
+Chen, Dave Zhenyu and Chang, Angel X and Nie{\ss}ner, Matthias    
+[[page]](https://arxiv.org/pdf/1912.08830)    
+
+* **ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes**, ECCV, 2020   
+Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and Guibas, Leonidas   
+[[page]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf)   
 
 
 ### Visual Language Navigation
 
+* **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.      
+Wu, Wang, Xu, Lu, Yan.       
+[[page](https://arxiv.org/pdf/2406.11818)]       
 
-* **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments**, CVPR, 2018.   
-Anderson, Peter, Qi, Wu, Damien, Teney, Jake, Bruce, Mark, Johnson, Niko, Sunderhauf, Ian, Reid, Stephen, Gould, Anton, Hengel.    
-[[page](https://arxiv.org/pdf/1711.07280)]    
+* **DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**, arxiv, 2024.                
+Xinyu Xu, Shengcheng Luo, Yanchao Yang, Yong-Lu Li, Cewu Lu.              
+[[page]](https://arxiv.org/abs/2407.14758)
 
-* **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation**, ACL, 2019.   
-Jain, Vihan, Gabriel, Magalhaes, Alexander, Ku, Ashish, Vaswani, Eugene, Ie, Jason, Baldridge.    
-[[page](https://arxiv.org/pdf/1905.12255)]    
-
-* **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**, ECCV, 2020.         
-Krantz, Jacob and Wijmans, Erik and Majumdar, Arjun and Batra, Dhruv and Lee, Stefan.   
-[[page](https://arxiv.org/pdf/2004.02857)]   
-
-* **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments**, CVPR, 2019.   
-Chen, Howard, Alane, Suhr, Dipendra, Misra, Noah, Snavely, Yoav, Artzi.    
-[[page](https://arxiv.org/pdf/1811.12354)]    
-
-* **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments**, CVPR, 2020.   
-Qi, Yuankai, Qi, Wu, Peter, Anderson, Xin, Wang, William Yang, Wang, Chunhua, Shen, Anton, Hengel.        
-[[page](https://arxiv.org/pdf/1904.10151)]      
-
-* **SOON: Scenario Oriented Object Navigation with Graph-based Exploration**, CVPR, 2021.      
-Zhu, Fengda, Xiwen, Liang, Yi, Zhu, Qizhi, Yu, Xiaojun, Chang, Xiaodan, Liang.    
-[[page](https://arxiv.org/pdf/2103.17138)]   
-
-* **Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation**, NIPS, 2023.   
-Wang, Chen, Li, Wu, Dong.    
-[[page](https://arxiv.org/pdf/2309.08138)]     
-
-* **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks**, CVPR, 2020.    
-Shridhar, Mohit, Jesse, Thomason, Daniel, Gordon, Yonatan, Bisk, Winson, Han, Roozbeh, Mottaghi, Luke, Zettlemoyer, Dieter, Fox.    
-[[page](https://arxiv.org/pdf/1912.01734)]   
-
-* **HomeRobot: Open-Vocabulary Mobile Manipulation**, NIPS, 2023.   
-Yenamandra, Sriram, Arun, Ramachandran, Karmesh, Yadav, Austin, Wang, Mukul, Khanna, Theophile, Gervet, Tsung-Yen, Yang, Vidhi, Jain, AlexanderWilliam, Clegg, John, Turner, Zsolt, Kira, Manolis, Savva, Angel, Chang, DevendraSingh, Chaplot, Dhruv, Batra, Roozbeh, Mottaghi, Yonatan, Bisk, Chris, Paxton.    
-[[page](https://arxiv.org/pdf/2306.11565)]    
-
-* **Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation**, Conference on Robot Learning. 2023.    
-Li, Chengshu, Ruohan, Zhang, Josiah, Wong, Cem, Gokmen, Sanjana, Srivastava, Roberto, Mart\in-Mart\'\in, Chen, Wang, Gabrael, Levine, Michael, Lingelbach, Jiankai, Sun, others.    
-[[page](https://arxiv.org/pdf/2403.09227)]    
-
-* **Vision-and-dialog navigation**, Conference on Robot Learning. 2020.   
-Thomason, Jesse, Michael, Murray, Maya, Cakmak, Luke, Zettlemoyer.    
-[[page](https://arxiv.org/pdf/1907.04957)]   
-
-* **DialFRED: Dialogue-Enabled Agents for Embodied Instruction Following**, arXiv, 2022.   
-Gao, Xiaofeng, Qiaozi, Gao, Ran, Gong, Kaixiang, Lin, Govind, Thattai, GauravS., Sukhatme.    
-[[page](https://arxiv.org/pdf/2202.13330)]   
-
-* **Language and visual entity relationship graph for agent navigation**, NeurIPS, 2020.   
-Hong, Yicong, Cristian, Rodriguez, Yuankai, Qi, Qi, Wu, Stephen, Gould.    
-[[page](https://arxiv.org/pdf/2010.09304)]   
-
-* **Language-Guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning**, IEEE T-CSVT 31. (2020): 3469-3481.    
-Weixia Zhang, , Chao Ma, Qi Wu, Xiaokang Yang.    
-[[page](https://arxiv.org/pdf/2011.10972)]   
-
-* **Vision-Language Navigation Policy Learning and Adaptation**, IEEE T-PAMI 43. 12(2021): 4205-4216.    
-Wang, Xin, Qiuyuan, Huang, Asli, Celikyilmaz, Jianfeng, Gao, Dinghan, Shen, Yuan-Fang, Wang, William Yang, Wang, Lei, Zhang.    
-[[page](https://arxiv.org/pdf/https://ieeexplore.ieee.org/document/8986691)]   
-
-* **FILM: Following Instructions in Language with Modular Methods**, ICLR, 2022.   
-So Yeon Min, , Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov.    
-[[page](https://arxiv.org/pdf/2110.07342)]   
-
-* **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, Conference on Robot Learning. 2022.   
-Dhruv Shah, , Blazej Osinski, Brian Ichter, Sergey Levine.      
-[[page](https://arxiv.org/pdf/2207.04429)]     
-
-* **HOP: History-and-Order Aware Pretraining for Vision-and-Language Navigation**, CVPR, 2022.       
-Qiao, Yanyuan, Yuankai, Qi, Yicong, Hong, Zheng, Yu, Peng, Wang, Qi, Wu.        
-[[page](https://arxiv.org/pdf/2203.11591)]      
+* **NOLO: Navigate Only Look Once**, arxiv, 2024.                
+Bohan Zhou, Jiangxing Wang, Zongqing Lu.              
+[[page]](https://arxiv.org/pdf/2408.01384)
 
 * **Towards Learning a Generalist Model for Embodied Navigation**, CVPR, 2024.    
 Duo Zheng, , Shijia Huang, Lin Zhao, Yiwu Zhong, Liwei Wang.     
@@ -570,49 +510,9 @@ Liuyi Wang, Qijun Chen.
 Rui Liu, Yi Yang.    
 [[page](https://arxiv.org/pdf/2403.14158)]    
 
-* **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**, RSS, 2024.   
-Jiazhao Zhang, Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang, Qi Wu, Zhizheng Zhang, He Wang.    
-[[page](https://arxiv.org/pdf/2402.15852)]   
-
-* **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**, ECCV, 2018.   
-Xin Eric Wang, , Wenhan Xiong, Hongmin Wang, William Yang Wang.    
-[[page](https://arxiv.org/pdf/1803.07729)]     
-
-* **Neighbor-view enhanced model for vision and language navigation**, MM, 2021.   
-An, Dong, Yuankai, Qi, Yan, Huang, Qi, Wu, Liang, Wang, Tieniu, Tan.    
-[[page](https://arxiv.org/pdf/2107.07201)]   
-
-* **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**, CVPR, 2022.    
-Hong, Yicong, Zun, Wang, Qi, Wu, Stephen, Gould.    
-[[page](https://arxiv.org/pdf/2203.02764)]   
-
-* **March in Chat: Interactive Prompting for Remote Embodied Referring Expression**, ICCV, 2023.   
-Qiao, Yanyuan, Yuankai, Qi, Zheng, Yu, Jing, Liu, Qi, Wu.    
-[[page](https://arxiv.org/pdf/2308.10141)]     
-
 * **Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**, CVPR 2024.   
 Wang, Zihan, Xiangyang, Li, Jiahao, Yang, Yeqi, Liu, Junjie, Hu, Ming, Jiang, Shuqiang, Jiang. 
 [[page](https://arxiv.org/pdf/2404.01943)]    
-
-* **ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**, IEEE T-PAMI, 2024.   
-An, Dong, Hanqing, Wang, Wenguan, Wang, Zun, Wang, Yan, Huang, Keji, He, Liang, Wang. 
-[[page](https://arxiv.org/pdf/2304.03047)]   
-
-* **Multi-level compositional reasoning for interactive instruction following**, AAAI, 2023.   
-Bhambri, Suvaansh, Byeonghwi, Kim, Jonghyun, Choi.    
-[[page](https://arxiv.org/pdf/2308.09387)]   
-
-* **Vision and Language Navigation in the Real World via Online Visual Language Mapping**, ArXiv, 2023.   
-Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong. 
-[[page](https://arxiv.org/pdf/2310.10822)]    
-
-* **Towards Deviation-robust Agent Navigation via Perturbation-aware Contrastive Learning**, TPAMI, 2023.              
-Bingqian Lin, Yanxin Long, Yi Zhu, Fengda Zhu, Xiaodan Liang , Qixiang Ye, Liang Lin.           
-[[page]](https://ieeexplore.ieee.org/abstract/document/10120966/)     
-
-* **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.      
-Wu, Wang, Xu, Lu, Yan.       
-[[page](https://arxiv.org/pdf/2406.11818)]       
 
 * **Bridging zero-shot object navigation and foundation models through pixel-guided navigation skill** ICRA, 2024.           
 Wenzhe Cai, Siyuan Huang, Guangran Cheng, Yuxing Long, Peng Gao, Changyin Sun, and Hao Dong.       
@@ -686,24 +586,138 @@ Shagun Uppal, Ananye Agarwal, Haoyu Xiong, Kenneth Shaw, Deepak Pathak.
 Bingqian Lin, Yunshuang Nie, Ziming Wei, Yi Zhu, Hang Xu, Shikui Ma, Jianzhuang Liu, Xiaodan Liang.           
 [[page]](https://ieeexplore.ieee.org/abstract/document/10543121)
 
-* **DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**, arxiv, 2024.                
-Xinyu Xu, Shengcheng Luo, Yanchao Yang, Yong-Lu Li, Cewu Lu.              
-[[page]](https://arxiv.org/abs/2407.14758)
+* **ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**, IEEE T-PAMI, 2024.   
+An, Dong, Hanqing, Wang, Wenguan, Wang, Zun, Wang, Yan, Huang, Keji, He, Liang, Wang. 
+[[page](https://arxiv.org/pdf/2304.03047)]
 
-* **NOLO: Navigate Only Look Once**, arxiv, 2024.                
-Bohan Zhou, Jiangxing Wang, Zongqing Lu.              
-[[page]](https://arxiv.org/pdf/2408.01384)     
+* **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**, RSS, 2024.   
+Jiazhao Zhang, Kunyu Wang, Rongtao Xu, Gengze Zhou, Yicong Hong, Xiaomeng Fang, Qi Wu, Zhizheng Zhang, He Wang.    
+[[page](https://arxiv.org/pdf/2402.15852)]
 
+* **March in Chat: Interactive Prompting for Remote Embodied Referring Expression**, ICCV, 2023.   
+Qiao, Yanyuan, Yuankai, Qi, Zheng, Yu, Jing, Liu, Qi, Wu.    
+[[page](https://arxiv.org/pdf/2308.10141)]     
 
+* **Multi-level compositional reasoning for interactive instruction following**, AAAI, 2023.   
+Bhambri, Suvaansh, Byeonghwi, Kim, Jonghyun, Choi.    
+[[page](https://arxiv.org/pdf/2308.09387)]   
+
+* **Vision and Language Navigation in the Real World via Online Visual Language Mapping**, ArXiv, 2023.   
+Chengguang Xu, , Hieu T. Nguyen, Christopher Amato, Lawson L.S. Wong. 
+[[page](https://arxiv.org/pdf/2310.10822)]    
+
+* **Towards Deviation-robust Agent Navigation via Perturbation-aware Contrastive Learning**, TPAMI, 2023.              
+Bingqian Lin, Yanxin Long, Yi Zhu, Fengda Zhu, Xiaodan Liang , Qixiang Ye, Liang Lin.           
+[[page]](https://ieeexplore.ieee.org/abstract/document/10120966/)
+
+* **Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation**, NIPS, 2023.   
+Wang, Chen, Li, Wu, Dong.    
+[[page](https://arxiv.org/pdf/2309.08138)]
+
+* **HomeRobot: Open-Vocabulary Mobile Manipulation**, NIPS, 2023.   
+Yenamandra, Sriram, Arun, Ramachandran, Karmesh, Yadav, Austin, Wang, Mukul, Khanna, Theophile, Gervet, Tsung-Yen, Yang, Vidhi, Jain, AlexanderWilliam, Clegg, John, Turner, Zsolt, Kira, Manolis, Savva, Angel, Chang, DevendraSingh, Chaplot, Dhruv, Batra, Roozbeh, Mottaghi, Yonatan, Bisk, Chris, Paxton.    
+[[page](https://arxiv.org/pdf/2306.11565)]    
+
+* **Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation**, Conference on Robot Learning. 2023.    
+Li, Chengshu, Ruohan, Zhang, Josiah, Wong, Cem, Gokmen, Sanjana, Srivastava, Roberto, Mart\in-Mart\'\in, Chen, Wang, Gabrael, Levine, Michael, Lingelbach, Jiankai, Sun, others.    
+[[page](https://arxiv.org/pdf/2403.09227)]
+
+* **DialFRED: Dialogue-Enabled Agents for Embodied Instruction Following**, arXiv, 2022.   
+Gao, Xiaofeng, Qiaozi, Gao, Ran, Gong, Kaixiang, Lin, Govind, Thattai, GauravS., Sukhatme.    
+[[page](https://arxiv.org/pdf/2202.13330)]   
+
+* **HOP: History-and-Order Aware Pretraining for Vision-and-Language Navigation**, CVPR, 2022.       
+Qiao, Yanyuan, Yuankai, Qi, Yicong, Hong, Zheng, Yu, Peng, Wang, Qi, Wu.        
+[[page](https://arxiv.org/pdf/2203.11591)]      
+
+* **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**, CVPR, 2022.    
+Hong, Yicong, Zun, Wang, Qi, Wu, Stephen, Gould.    
+[[page](https://arxiv.org/pdf/2203.02764)]   
+
+* **FILM: Following Instructions in Language with Modular Methods**, ICLR, 2022.   
+So Yeon Min, , Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov.    
+[[page](https://arxiv.org/pdf/2110.07342)]   
+
+* **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, Conference on Robot Learning. 2022.   
+Dhruv Shah, , Blazej Osinski, Brian Ichter, Sergey Levine.      
+[[page](https://arxiv.org/pdf/2207.04429)]
+
+* **SOON: Scenario Oriented Object Navigation with Graph-based Exploration**, CVPR, 2021.      
+Zhu, Fengda, Xiwen, Liang, Yi, Zhu, Qizhi, Yu, Xiaojun, Chang, Xiaodan, Liang.    
+[[page](https://arxiv.org/pdf/2103.17138)]   
+
+* **Vision-Language Navigation Policy Learning and Adaptation**, IEEE T-PAMI 43. 12(2021): 4205-4216.    
+Wang, Xin, Qiuyuan, Huang, Asli, Celikyilmaz, Jianfeng, Gao, Dinghan, Shen, Yuan-Fang, Wang, William Yang, Wang, Lei, Zhang.    
+[[page](https://arxiv.org/pdf/https://ieeexplore.ieee.org/document/8986691)]   
+
+* **Neighbor-view enhanced model for vision and language navigation**, MM, 2021.   
+An, Dong, Yuankai, Qi, Yan, Huang, Qi, Wu, Liang, Wang, Tieniu, Tan.    
+[[page](https://arxiv.org/pdf/2107.07201)]   
+
+* **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**, ECCV, 2020.         
+Krantz, Jacob and Wijmans, Erik and Majumdar, Arjun and Batra, Dhruv and Lee, Stefan.   
+[[page](https://arxiv.org/pdf/2004.02857)]
+
+* **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments**, CVPR, 2020.   
+Qi, Yuankai, Qi, Wu, Peter, Anderson, Xin, Wang, William Yang, Wang, Chunhua, Shen, Anton, Hengel.        
+[[page](https://arxiv.org/pdf/1904.10151)]      
+
+* **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks**, CVPR, 2020.    
+Shridhar, Mohit, Jesse, Thomason, Daniel, Gordon, Yonatan, Bisk, Winson, Han, Roozbeh, Mottaghi, Luke, Zettlemoyer, Dieter, Fox.    
+[[page](https://arxiv.org/pdf/1912.01734)]   
+
+* **Vision-and-dialog navigation**, Conference on Robot Learning. 2020.   
+Thomason, Jesse, Michael, Murray, Maya, Cakmak, Luke, Zettlemoyer.    
+[[page](https://arxiv.org/pdf/1907.04957)]   
+
+* **Language and visual entity relationship graph for agent navigation**, NeurIPS, 2020.   
+Hong, Yicong, Cristian, Rodriguez, Yuankai, Qi, Qi, Wu, Stephen, Gould.    
+[[page](https://arxiv.org/pdf/2010.09304)]   
+
+* **Language-Guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning**, IEEE T-CSVT 31. (2020): 3469-3481.    
+Weixia Zhang, , Chao Ma, Qi Wu, Xiaokang Yang.    
+[[page](https://arxiv.org/pdf/2011.10972)]   
+
+* **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation**, ACL, 2019.   
+Jain, Vihan, Gabriel, Magalhaes, Alexander, Ku, Ashish, Vaswani, Eugene, Ie, Jason, Baldridge.    
+[[page](https://arxiv.org/pdf/1905.12255)]    
+
+* **TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments**, CVPR, 2019.   
+Chen, Howard, Alane, Suhr, Dipendra, Misra, Noah, Snavely, Yoav, Artzi.    
+[[page](https://arxiv.org/pdf/1811.12354)]
+
+* **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments**, CVPR, 2018.   
+Anderson, Peter, Qi, Wu, Damien, Teney, Jake, Bruce, Mark, Johnson, Niko, Sunderhauf, Ian, Reid, Stephen, Gould, Anton, Hengel.    
+[[page](https://arxiv.org/pdf/1711.07280)]    
+
+* **Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation**, ECCV, 2018.   
+Xin Eric Wang, , Wenhan Xiong, Hongmin Wang, William Yang Wang.    
+[[page](https://arxiv.org/pdf/1803.07729)]     
 
 ### Non-Visual Perception: Tactile
+
+* **When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective**, Arxiv, 2024.    
+Li, Shoujie and Wang, Zihan and Wu, Changsheng and Li, Xiang and Luo, Shan and Fang, Bin and Sun, Fuchun and Zhang, Xiao-Ping and Ding, Wenbo.    
+[[page](https://arxiv.org/pdf/2406.12226)]
+
+* **Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing**, RA-L, 2024.    
+Yun Liu, Xiaomeng Xu, Weihang Chen, Haocheng Yuan, He Wang, Jing Xu, Rui Chen, Li Yi.       
+[[page](https://arxiv.org/abs/2210.04026)]
+
 * **Learning visuotactile skills with two multifingered hands**, ArXiv, 2024.   
 Lin, Toru and Zhang, Yu and Li, Qiyang and Qi, Haozhi and Yi, Brent and Levine, Sergey and Malik, Jitendra.   
 [[page](https://arxiv.org/pdf/2404.16823)]   
 
 * **Binding touch to everything: Learning unified multimodal tactile representations**, CVPR, 2024.   
 Yang, Fengyu and Feng, Chao and Chen, Ziyang and Park, Hyoungseob and Wang, Daniel and Dou, Yiming and Zeng, Ziyao and Chen, Xien and Gangopadhyay, Rit and Owens, Andrew and others.   
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Binding_Touch_to_Everything_Learning_Unified_Multimodal_Tactile_Representations_CVPR_2024_paper.pdf)]   
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Binding_Touch_to_Everything_Learning_Unified_Multimodal_Tactile_Representations_CVPR_2024_paper.pdf)]
+
+* **Bioinspired sensors and applications in intelligent robots: a review**, Robotic Intelligence and Automation, 2024.    
+Zhou, Yanmin and Yan, Zheng and Yang, Ye and Wang, Zhipeng and Lu, Ping and Yuan, Philip F and He, Bin.   
+[[page](https://www.emerald.com/insight/content/doi/10.1108/RIA-07-2023-0088/full/pdf)]   
+
+
+
 
 * **Give Me a Sign: Using Data Gloves for Static Hand-Shape Recognition**, Sensors, 2023.   
 Achenbach, Philipp and Laux, Sebastian and Purdack, Dennis and Müller, Philipp Niklas and Göbel, Stefan.   
@@ -733,85 +747,53 @@ Stassi, Stefano and Cauda, Valentina and Canavese, Giancarlo and Pirri, Candido 
 Kappassov, Zhanat and Corrales, Juan-Antonio and Perdereau, Véronique.   
 [[page](https://uca.hal.science/hal-01680649/document)]   
 
-* **Bioinspired sensors and applications in intelligent robots: a review**, Robotic Intelligence and Automation, 2024.    
-Zhou, Yanmin and Yan, Zheng and Yang, Ye and Wang, Zhipeng and Lu, Ping and Yuan, Philip F and He, Bin.   
-[[page](https://www.emerald.com/insight/content/doi/10.1108/RIA-07-2023-0088/full/pdf)]   
+* **GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception**, arXiv, 2024.   
+Ma, Yuxiang and Adelson, Edward.   
+[[page](https://arxiv.org/pdf/2403.14887)]
 
-* **Sensing tactile microvibrations with the BioTac—Comparison with human sensitivity**, BioRob, 2012.   
-Fishel, Jeremy A and Loeb, Gerald E.   
-[[page](https://www.researchgate.net/profile/Gerald-Loeb/publication/256748883_Sensing_tactile_microvibrations_with_the_BioTac_Comparison_with_human_sensitivity/links/5dbcacae299bf1a47b0a3fa6/Sensing-tactile-microvibrations-with-the-BioTac-Comparison-with-human-sensitivity.pdf)]   
+* **A Touch, Vision, and Language Dataset for Multimodal Alignment**, ArXiv, 2024.   
+Fu, Letian and Datta, Gaurav and Huang, Huang and Panitch, William Chung-Ho and Drake, Jaimyn and Ortiz, Joseph and Mukadam, Mustafa and Lambeta, Mike and Calandra, Roberto and Goldberg, Ken.   
+[[page](https://arxiv.org/pdf/2402.13232)]
 
-* **Simulation of the SynTouch BioTac sensor**, Intelligent Autonomous Systems 15: Proceedings of the 15th International Conference IAS-15, 2019.    
-Ruppel, Philipp and Jonetzko, Yannick and Görner, Michael and Hendrich, Norman and Zhang, Jianwei.   
-[[page](https://www.researchgate.net/profile/Yannick-Jonetzko/publication/330014756_Simulation_of_the_SynTouch_BioTac_Sensor_Proceedings_of_the_15th_International_Conference_IAS-15/links/5cc7ed694585156cd7bbc519/Simulation-of-the-SynTouch-BioTac-Sensor-Proceedings-of-the-15th-International-Conference-IAS-15.pdf)]   
+* **Large-scale actionless video pre-training via discrete diffusion for efficient policy learning**, ArXiv, 2024.   
+He, Haoran and Bai, Chenjia and Pan, Ling and Zhang, Weinan and Zhao, Bin and Li, Xuelong.   
+[[page](https://arxiv.org/pdf/2402.14407)]
 
-* **GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force**, Sensors, 2017.   
-Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.   
-[[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]   
+* **Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces**, ArXiv, 2024.   
+Comi, Mauro and Tonioni, Alessio and Yang, Max and Tremblay, Jonathan and Blukis, Valts and Lin, Yijiong and Lepora, Nathan F and Aitchison, Laurence.    
+[[page](https://arxiv.org/pdf/2403.20275)]   
 
-* **Gelslim 3.0: High-resolution measurement of shape, force and slip in a compact tactile-sensing finger**, ICRA, 2022.   
-  Taylor, Ian H and Dong, Siyuan and Rodriguez, Alberto.   
-  [[page](https://arxiv.org/pdf/2103.12269)]    
-  
-* **DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor With Application to In-Hand Manipulation**, IEEE Robotics and Automation Letters, 2020.   
-Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and Jayaraman, Dinesh and Calandra, Roberto.    
-[[page](https://arxiv.org/pdf/2005.14679)]   
+* **Tactile-augmented radiance fields**, CVPR, 2024.      
+Dou, Yiming and Yang, Fengyu and Liu, Yi and Loquercio, Antonio and Owens, Andrew.    
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Dou_Tactile-Augmented_Radiance_Fields_CVPR_2024_paper.pdf)]       
+
+* **AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**, ArXiv, 2024.      
+Yang, Max and Lu, Chenghua and Church, Alex and Lin, Yijiong and Ford, Chris and Li, Haoran and Psomopoulou, Efi and Barton, David AW and Lepora, Nathan F.     
+[[page](https://arxiv.org/pdf/2405.07391)]      
+
+* **Feature-level Sim2Real Regression of Tactile Images for Robot Manipulation**, ICRA ViTac, 2024.    
+Duan, Boyi and Qian, Kun and Zhao, Yongqiang and Zhang, Dongyuan and Luo, Shan.    
+[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_09.pdf)]   
+
+* **MAE4GM: Visuo-Tactile Learning for Property Estimation of Granular Material using Multimodal Autoencoder**,ICRA ViTac, 2024.    
+Zhang, Zeqing and Zheng, Guangze and Ji, Xuebo and Chen, Guanqi and Jia, Ruixing and Chen, Wentao and Chen, Guanhua and Zhang, Liangjun and Pan, Jia.    
+[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_01.pdf)]
+
+* **Octopi: Object Property Reasoning with Large Tactile-Language Models**, arXiv preprint arXiv:2405.02794, 2024.     
+Yu, Samson and Lin, Kelvin and Xiao, Anxing and Duan, Jiafei and Soh, Harold.    
+[[page](https://arxiv.org/pdf/2405.02794)]
 
 * **9dtact: A compact vision-based tactile sensor for accurate 3D shape reconstruction and generalizable 6D force estimation**, IEEE Robotics and Automation Letters, 2023.   
 Lin, Changyi and Zhang, Han and Xu, Jikai and Wu, Lei and Xu, Huazhe.   
-[[page](https://arxiv.org/pdf/2308.14277)]   
-
-* **The tactip family: Soft optical tactile sensors with 3D-printed biomimetic morphologies**, Soft Robotics, 2018.   
-Ward-Cherrier, Benjamin and Pestell, Nicholas and Cramphorn, Luke and Winstone, Benjamin and Giannaccini, Maria Elena and Rossiter, Jonathan and Lepora, Nathan F.   
-[[page](https://www.liebertpub.com/doi/pdf/10.1089/soro.2017.0052)]     
-
-* **GelTip: A finger-shaped optical tactile sensor for robotic manipulation**, IROS, 2020.   
-Gomes, Daniel Fernandes and Lin, Zhonglin and Luo, Shan.   
-[[page](https://arxiv.org/pdf/2008.05404)]   
+[[page](https://arxiv.org/pdf/2308.14277)]
 
 * **Allsight: A low-cost and high-resolution round tactile sensor with zero-shot learning capability**, IEEE Robotics and Automation Letters, 2023.   
 Azulay, Osher and Curtis, Nimrod and Sokolovsky, Rotem and Levitski, Guy and Slomovik, Daniel and Lilling, Guy and Sintov, Avishai.    
 [[page](https://arxiv.org/pdf/2307.02928)]   
 
-* **Tacto: A fast, flexible, and open-source simulator for high-resolution vision-based tactile sensors**, IEEE Robotics and Automation Letters, 2022.    
-Wang, Shaoxiong and Lambeta, Mike and Chou, Po-Wei and Calandra, Roberto.   
-[[page](https://arxiv.org/pdf/2012.08456)]   
-
-* **Taxim: An example-based simulation model for GelSight tactile sensors**, IEEE Robotics and Automation Letters, 2022.   
-Si, Zilin and Yuan, Wenzhen.   
-[[page](https://arxiv.org/pdf/2109.04027)]   
-
 * **Vistac towards a unified multi-modal sensing finger for robotic manipulation**, IEEE Sensors Journal, 2023.   
 Athar, Sheeraz and Patel, Gaurav and Xu, Zhengtong and Qiu, Qiang and She, Yu.   
 [[page](https://ieeexplore.ieee.org/abstract/document/10242327/)]   
-
-* **GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception**, arXiv, 2024.   
-Ma, Yuxiang and Adelson, Edward.   
-[[page](https://arxiv.org/pdf/2403.14887)]   
-
-* **Sensing tactile microvibrations with the BioTac—Comparison with human sensitivity**, BioRob, 2012.   
-Fishel, Jeremy A and Loeb, Gerald E.   
-[[page](https://www.researchgate.net/profile/Gerald-Loeb/publication/256748883_Sensing_tactile_microvibrations_with_the_BioTac_Comparison_with_human_sensitivity/links/5dbcacae299bf1a47b0a3fa6/Sensing-tactile-microvibrations-with-the-BioTac-Comparison-with-human-sensitivity.pdf)]   
-
-* **The feeling of success: Does touch sensing help predict grasp outcomes?**, arXiv, 2017.      
-Calandra, Roberto and Owens, Andrew and Upadhyaya, Manu and Yuan, Wenzhen and Lin, Justin and Adelson, Edward H and Levine, Sergey.      
-[[page](https://arxiv.org/pdf/1710.05512)]        
-
-* **Robust learning of tactile force estimation through robot interaction**, ICRA, 2019.   
-Sundaralingam, Balakumar and Lambert, Alexander Sasha and Handa, Ankur and Boots, Byron and Hermans, Tucker and Birchfield, Stan and Ratliff, Nathan and Fox, Dieter.   
-[[page](https://arxiv.org/pdf/1810.06187)]   
-
-* **Objectfolder: A dataset of objects with implicit visual, auditory, and tactile representations**, arXiv, 2021.   
-Gao, Ruohan and Chang, Yen-Yu and Mall, Shivani and Fei-Fei, Li and Wu, Jiajun.   
-[[page](https://arxiv.org/pdf/2109.07991)]   
-
-* **Objectfolder 2.0: A multisensory object dataset for sim2real transfer**, CVPR, 2022.      
-Gao, Ruohan and Si, Zilin and Chang, Yen-Yu and Clarke, Samuel and Bohg, Jeannette and Fei-Fei, Li and Yuan, Wenzhen and Wu, Jiajun.     
-[[page](http://openaccess.thecvf.com/content/CVPR2022/papers/Gao_ObjectFolder_2.0_A_Multisensory_Object_Dataset_for_Sim2Real_Transfer_CVPR_2022_paper.pdf)]      
-
-* **Self-supervised visuo-tactile pretraining to locate and follow garment features**, ArXiv, 2022.      
-Kerr, Justin and Huang, Huang and Wilcox, Albert and Hoque, Ryan and Ichnowski, Jeffrey and Calandra, Roberto and Goldberg, Ken.     
-[[page](https://arxiv.org/pdf/2209.13042)]     
 
 * **Midastouch: Monte-carlo inference over distributions across sliding touch**, CoRL, 2023.   
 Suresh, Sudharshan and Si, Zilin and Anderson, Stuart and Kaess, Michael and Mukadam, Mustafa.   
@@ -821,37 +803,9 @@ Suresh, Sudharshan and Si, Zilin and Anderson, Stuart and Kaess, Michael and Muk
 Gao, Ruohan and Dou, Yiming and Li, Hao and Agarwal, Tanmay and Bohg, Jeannette and Li, Yunzhu and Fei-Fei, Li and Wu, Jiajun.
 [[page](http://openaccess.thecvf.com/content/CVPR2023/papers/Gao_The_ObjectFolder_Benchmark_Multisensory_Learning_With_Neural_and_Real_Objects_CVPR_2023_paper.pdf)]
 
-* **A Touch, Vision, and Language Dataset for Multimodal Alignment**, ArXiv, 2024.   
-Fu, Letian and Datta, Gaurav and Huang, Huang and Panitch, William Chung-Ho and Drake, Jaimyn and Ortiz, Joseph and Mukadam, Mustafa and Lambeta, Mike and Calandra, Roberto and Goldberg, Ken.   
-[[page](https://arxiv.org/pdf/2402.13232)]   
-
-* **Learning transferable visual models from natural language supervision**, International Conference on Machine Learning, 2021.   
-Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others.   
-[[page](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]   
-
 * **Imagebind: One embedding space to bind them all**, CVPR, 2023.   
 Girdhar, Rohit and El-Nouby, Alaaeldin and Liu, Zhuang and Singh, Mannat and Alwala, Kalyan Vasudev and Joulin, Armand and Misra, Ishan.   
-[[page](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)]   
-
-* **Improved GelSight tactile sensor for measuring geometry and slip**, IROS, 2017.    
-Dong, Siyuan and Yuan, Wenzhen and Adelson, Edward H.   
-[[page](https://arxiv.org/pdf/1708.00922)]   
-
-* **GelSight: High-resolution robot tactile sensors for estimating geometry and force**, Sensors, vol. 17, no. 12, pp. 2762, 2017.   
-Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.   
-[[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]   
-
-* **Digit: A novel design for a low-cost compact high-resolution tactile sensor with application to in-hand manipulation**, IEEE Robotics and Automation Letters, 2020.   
-Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and others.   
-[[page](https://arxiv.org/pdf/2005.14679)]   
-
-* **From pixels to percepts: Highly robust edge perception and contour following using deep learning and an optical biomimetic tactile sensor**, IEEE Robotics and Automation Letters, 2019.    
-Lepora, Nathan F and Church, Alex and De Kerckhove, Conrad and Hadsell, Raia and Lloyd, John.   
-[[page](https://arxiv.org/pdf/1812.02941)]   
-
-* **Deep tactile experience: Estimating tactile sensor output from depth sensor data**, IROS, 2020.   
-Patel, Karankumar and Iba, Soshi and Jamali, Nawid.   
-[[page](https://arxiv.org/pdf/2110.08946)]   
+[[page](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)]
 
 * **Touching a nerf: Leveraging neural radiance fields for tactile sensory data generation**, Conference on Robot Learning, pp. 1618-1628, 2023.    
 Zhong, Shaohong and Albini, Alessandro and Jones, Oiwi Parker and Maiolino, Perla and Posner, Ingmar.   
@@ -863,31 +817,11 @@ Higuera, Carolina and Boots, Byron and Mukadam, Mustafa.
 
 * **Generating visual scenes from touch**, CVPR, 2023.   
 Yang, Fengyu and Zhang, Jiacheng and Owens, Andrew.   
-[[page](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Generating_Visual_Scenes_from_Touch_ICCV_2023_paper.pdf)]   
-
-* **GelSight wedge: Measuring high-resolution 3D contact geometry with a compact robot finger**, ICRA, 2021.   
-Wang, Shaoxiong and She, Yu and Romero, Branden and Adelson, Edward.   
-[[page](https://arxiv.org/pdf/2106.08851)]   
+[[page](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Generating_Visual_Scenes_from_Touch_ICCV_2023_paper.pdf)]
 
 * **Dtact: A vision-based tactile sensor that measures high-resolution 3D geometry directly from darkness**, ICRA, 2023.   
 Lin, Changyi and Lin, Ziqi and Wang, Shaoxiong and Xu, Huazhe.   
-[[page](https://arxiv.org/pdf/2209.13916)]   
-
-* **3D shape perception from monocular vision, touch, and shape priors**, IROS, 2018.   
-Wang, Shaoxiong and Wu, Jiajun and Sun, Xingyuan and Yuan, Wenzhen and Freeman, William T and Tenenbaum, Joshua B and Adelson, Edward H.   
-[[page](https://arxiv.org/pdf/2209.13916)]   
-
-* **Tactile mapping and localization from high-resolution tactile imprints**, ICRA, 2019.   
-Bauza, Maria and Canal, Oleguer and Rodriguez, Alberto.   
-[[page](https://arxiv.org/pdf/1904.10944)]   
-
-* **Tactile object pose estimation from the first touch with geometric contact rendering**, CoRL, 2021.   
-Villalonga, Maria Bauza and Rodriguez, Alberto and Lim, Bryan and Valls, Eric and Sechopoulos, Theo.   
-[[page](https://proceedings.mlr.press/v155/villalonga21a/villalonga21a.pdf)]     
-
-* **Visuotactile 6D pose estimation of an in-hand object using vision and tactile sensor data**, IEEE Robotics and Automation Letters, 2022.   
-Dikhale, Snehal and Patel, Karankumar and Dhingra, Daksh and Naramura, Itoshi and Hayashi, Akinobu and Iba, Soshi and Jamali, Nawid.   
-[[page](https://www.researchgate.net/profile/Snehal_Dikhale/publication/357842538_VisuoTactile_6D_Pose_Estimation_of_an_In-Hand_Object_Using_Vision_and_Tactile_Sensor_Data/links/6297b925416ec50bdb022987/VisuoTactile-6D-Pose-Estimation-of-an-In-Hand-Object-Using-Vision-and-Tactile-Sensor-Data.pdf)]   
+[[page](https://arxiv.org/pdf/2209.13916)]
 
 * **In-hand pose estimation using hand-mounted RGB cameras and visuotactile sensors**, IEEE Access, 2023.    
 Gao, Yuan and Matsuoka, Shogo and Wan, Weiwei and Kiyokawa, Takuya and Koyama, Keisuke and Harada, Kensuke.   
@@ -895,43 +829,15 @@ Gao, Yuan and Matsuoka, Shogo and Wan, Weiwei and Kiyokawa, Takuya and Koyama, K
 
 * **Collision-aware in-hand 6D object pose estimation using multiple vision-based tactile sensors**, ICRA, 2023.    
 Caddeo, Gabriele M and Piga, Nicola A and Bottarel, Fabrizio and Natale, Lorenzo.    
-[[page](https://arxiv.org/pdf/2301.13667)]   
-
-* **Shapemap 3-D: Efficient shape mapping through dense touch and vision**, ICRA, 2022.    
-Suresh, Sudharshan and Si, Zilin and Mangelson, Joshua G and Yuan, Wenzhen and Kaess, Michael.    
-[[page](https://arxiv.org/pdf/2109.09884)]   
-
-* **3D shape reconstruction from vision and touch**, NeurIPS, 2020.   
-Smith, Edward and Calandra, Roberto and Romero, Adriana and Gkioxari, Georgia and Meger, David and Malik, Jitendra and Drozdzal, Michal.   
-[[page](https://proceedings.neurips.cc/paper/2020/file/a3842ed7b3d0fe3ac263bcabd2999790-Paper.pdf)]   
-
-* **Active 3D shape reconstruction from vision and touch**, NeurIPS, 2021.   
-Smith, Edward and Meger, David and Pineda, Luis and Calandra, Roberto and Malik, Jitendra and Romero Soriano, Adriana and Drozdzal, Michal.    
-[[page](https://proceedings.neurips.cc/paper/2021/file/8635b5fd6bc675033fb72e8a3ccc10a0-Paper.pdf)]   
+[[page](https://arxiv.org/pdf/2301.13667)]
 
 * **Implicit neural representation for 3D shape reconstruction using vision-based tactile sensing**, ArXiv, 2023.    
 Comi, Mauro and Church, Alex and Li, Kejie and Aitchison, Laurence and Lepora, Nathan F.    
 [[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2023_Paper_06.pdf)]    
 
-* **Large-scale actionless video pre-training via discrete diffusion for efficient policy learning**, ArXiv, 2024.   
-He, Haoran and Bai, Chenjia and Pan, Ling and Zhang, Weinan and Zhao, Bin and Li, Xuelong.   
-[[page](https://arxiv.org/pdf/2402.14407)]   
-
 * **Sliding touch-based exploration for modeling unknown object shape with multi-fingered hands**, IROS, 2023.   
 Chen, Yiting and Tekden, Ahmet Ercan and Deisenroth, Marc Peter and Bekiroglu, Yasemin.   
 [[page](https://arxiv.org/pdf/2308.00576)]   
-
-* **Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces**, ArXiv, 2024.   
-Comi, Mauro and Tonioni, Alessio and Yang, Max and Tremblay, Jonathan and Blukis, Valts and Lin, Yijiong and Lepora, Nathan F and Aitchison, Laurence.    
-[[page](https://arxiv.org/pdf/2403.20275)]   
-
-* **Tactile-augmented radiance fields**, CVPR, 2024.      
-Dou, Yiming and Yang, Fengyu and Liu, Yi and Loquercio, Antonio and Owens, Andrew.    
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Dou_Tactile-Augmented_Radiance_Fields_CVPR_2024_paper.pdf)]       
-
-* **Visuotactile-rl: Learning multimodal manipulation policies with deep reinforcement learning**, ICRA, 2022.          
-Hansen, Johanna and Hogan, Francois and Rivkin, Dmitriy and Meger, David and Jenkin, Michael and Dudek, Gregory.          
-[[page](https://johannah.github.io/papers/Visuotactile-RL.pdf)]          
 
 * **General In-hand Object Rotation with Vision and Touch**, CoRL, 2023.          
 Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and Calandra, Roberto and Malik, Jitendra.        
@@ -941,61 +847,109 @@ Qi, Haozhi and Yi, Brent and Suresh, Sudharshan and Lambeta, Mike and Ma, Yi and
 Yang, Max and Lin, Yijiong and Church, Alex and Lloyd, John and Zhang, Dandan and Barton, David AW and Lepora, Nathan F.     
 [[page](https://arxiv.org/pdf/2307.14272)]      
 
-* **AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**, ArXiv, 2024.      
-Yang, Max and Lu, Chenghua and Church, Alex and Lin, Yijiong and Ford, Chris and Li, Haoran and Psomopoulou, Efi and Barton, David AW and Lepora, Nathan F.     
-[[page](https://arxiv.org/pdf/2405.07391)]      
-
 * **Unsupervised adversarial domain adaptation for sim-to-real transfer of tactile images**, IEEE Transactions on Instrumentation and Measurement, 2023.       
 Jing, Xingshuo and Qian, Kun and Jianu, Tudor and Luo, Shan.      
-[[page](https://ieeexplore.ieee.org/abstract/document/10106009/)]       
-
-* **Feature-level Sim2Real Regression of Tactile Images for Robot Manipulation**, ICRA ViTac, 2024.    
-Duan, Boyi and Qian, Kun and Zhao, Yongqiang and Zhang, Dongyuan and Luo, Shan.    
-[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_09.pdf)]   
-
-* **Tactile gym 2.0: Sim-to-real deep reinforcement learning for comparing low-cost high-resolution robot touch**, IEEE Robotics and Automation Letters, 2022.   
-Lin, Yijiong and Lloyd, John and Church, Alex and Lepora, Nathan F.   
-[[page](https://arxiv.org/pdf/2207.10763)]   
-
-* **Convolutional autoencoder for feature extraction in tactile sensing**, IEEE Robotics and Automation Letters, 2019.   
-Polic, Marsela and Krajacic, Ivona and Lepora, Nathan and Orsag, Matko.    
-[[page](https://ieeexplore.ieee.org/abstract/document/8758942/)]     
-
-* **Supervised autoencoder joint learning on heterogeneous tactile sensory data: Improving material classification performance**, IROS, 2020.      
-Gao, Ruihan and Taunyazov, Tasbolat and Lin, Zhiping and Wu, Yan.      
-[[page](https://yan-wu.com/wp-content/uploads/2020/08/gao2020supervised.pdf)]      
+[[page](https://ieeexplore.ieee.org/abstract/document/10106009/)]
 
 * **Learn from incomplete tactile data: Tactile representation learning with masked autoencoders**, IROS, 2023.    
 Cao, Guanqun and Jiang, Jiaqi and Bollegala, Danushka and Luo, Shan.    
-[[page](https://arxiv.org/pdf/2307.07358)]    
-
-* **MAE4GM: Visuo-Tactile Learning for Property Estimation of Granular Material using Multimodal Autoencoder**,ICRA ViTac, 2024.    
-Zhang, Zeqing and Zheng, Guangze and Ji, Xuebo and Chen, Guanqi and Jia, Ruixing and Chen, Wentao and Chen, Guanhua and Zhang, Liangjun and Pan, Jia.    
-[[page](https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_01.pdf)]   
-
-* **Connecting look and feel: Associating the visual and tactile properties of physical materials**, CVPR, 2017.    
-Yuan, Wenzhen and Wang, Shaoxiong and Dong, Siyuan and Adelson, Edward.    
-[[page](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yuan_Connecting_Look_and_CVPR_2017_paper.pdf)]    
-
-* **Making sense of vision and touch: Learning multimodal representations for contact-rich tasks**, IEEE Transactions on Robotics, 2020.    
-Lee, Michelle A and Zhu, Yuke and Zachares, Peter and Tan, Matthew and Srinivasan, Krishnan and Savarese, Silvio and Fei-Fei, Li and Garg, Animesh and Bohg, Jeannette.    
-[[page](https://arxiv.org/pdf/1907.13098)]    
-
-* **Learning to identify object instances by touch: Tactile recognition via multimodal matching**, ICRA, 2019.    
-Lin, Justin and Calandra, Roberto and Levine, Sergey.    
-[[page](https://arxiv.org/pdf/1903.03591)]    
-
-* **Touch and go: Learning from human-collected vision and touch**, ArXiv, 2022.    
-Yang, Fengyu and Ma, Chenyang and Zhang, Jiacheng and Zhu, Jing and Yuan, Wenzhen and Owens, Andrew.    
-[[page](https://arxiv.org/pdf/2211.12498)]    
+[[page](https://arxiv.org/pdf/2307.07358)]
 
 * **Dexterity from touch: Self-supervised pre-training of tactile representations with robotic play**, ArXiv, 2023.    
 Guzey, Irmak and Evans, Ben and Chintala, Soumith and Pinto, Lerrel.    
 [[page](https://arxiv.org/pdf/2303.12076)]    
 
-* **Octopi: Object Property Reasoning with Large Tactile-Language Models**, arXiv preprint arXiv:2405.02794, 2024.     
-Yu, Samson and Lin, Kelvin and Xiao, Anxing and Duan, Jiafei and Soh, Harold.    
-[[page](https://arxiv.org/pdf/2405.02794)]    
+* **Gelslim 3.0: High-resolution measurement of shape, force and slip in a compact tactile-sensing finger**, ICRA, 2022.   
+  Taylor, Ian H and Dong, Siyuan and Rodriguez, Alberto.   
+  [[page](https://arxiv.org/pdf/2103.12269)]    
+
+* **Tacto: A fast, flexible, and open-source simulator for high-resolution vision-based tactile sensors**, IEEE Robotics and Automation Letters, 2022.    
+Wang, Shaoxiong and Lambeta, Mike and Chou, Po-Wei and Calandra, Roberto.   
+[[page](https://arxiv.org/pdf/2012.08456)]   
+
+* **Taxim: An example-based simulation model for GelSight tactile sensors**, IEEE Robotics and Automation Letters, 2022.   
+Si, Zilin and Yuan, Wenzhen.   
+[[page](https://arxiv.org/pdf/2109.04027)]
+
+* **Objectfolder 2.0: A multisensory object dataset for sim2real transfer**, CVPR, 2022.      
+Gao, Ruohan and Si, Zilin and Chang, Yen-Yu and Clarke, Samuel and Bohg, Jeannette and Fei-Fei, Li and Yuan, Wenzhen and Wu, Jiajun.     
+[[page](http://openaccess.thecvf.com/content/CVPR2022/papers/Gao_ObjectFolder_2.0_A_Multisensory_Object_Dataset_for_Sim2Real_Transfer_CVPR_2022_paper.pdf)]      
+
+* **Self-supervised visuo-tactile pretraining to locate and follow garment features**, ArXiv, 2022.      
+Kerr, Justin and Huang, Huang and Wilcox, Albert and Hoque, Ryan and Ichnowski, Jeffrey and Calandra, Roberto and Goldberg, Ken.     
+[[page](https://arxiv.org/pdf/2209.13042)]     
+
+* **Visuotactile 6D pose estimation of an in-hand object using vision and tactile sensor data**, IEEE Robotics and Automation Letters, 2022.   
+Dikhale, Snehal and Patel, Karankumar and Dhingra, Daksh and Naramura, Itoshi and Hayashi, Akinobu and Iba, Soshi and Jamali, Nawid.   
+[[page](https://www.researchgate.net/profile/Snehal_Dikhale/publication/357842538_VisuoTactile_6D_Pose_Estimation_of_an_In-Hand_Object_Using_Vision_and_Tactile_Sensor_Data/links/6297b925416ec50bdb022987/VisuoTactile-6D-Pose-Estimation-of-an-In-Hand-Object-Using-Vision-and-Tactile-Sensor-Data.pdf)]   
+
+* **Shapemap 3-D: Efficient shape mapping through dense touch and vision**, ICRA, 2022.    
+Suresh, Sudharshan and Si, Zilin and Mangelson, Joshua G and Yuan, Wenzhen and Kaess, Michael.    
+[[page](https://arxiv.org/pdf/2109.09884)]
+
+* **Visuotactile-rl: Learning multimodal manipulation policies with deep reinforcement learning**, ICRA, 2022.          
+Hansen, Johanna and Hogan, Francois and Rivkin, Dmitriy and Meger, David and Jenkin, Michael and Dudek, Gregory.          
+[[page](https://johannah.github.io/papers/Visuotactile-RL.pdf)]          
+
+* **Tactile gym 2.0: Sim-to-real deep reinforcement learning for comparing low-cost high-resolution robot touch**, IEEE Robotics and Automation Letters, 2022.   
+Lin, Yijiong and Lloyd, John and Church, Alex and Lepora, Nathan F.   
+[[page](https://arxiv.org/pdf/2207.10763)]
+
+* **Touch and go: Learning from human-collected vision and touch**, ArXiv, 2022.    
+Yang, Fengyu and Ma, Chenyang and Zhang, Jiacheng and Zhu, Jing and Yuan, Wenzhen and Owens, Andrew.    
+[[page](https://arxiv.org/pdf/2211.12498)]   
+
+* **Objectfolder: A dataset of objects with implicit visual, auditory, and tactile representations**, arXiv, 2021.   
+Gao, Ruohan and Chang, Yen-Yu and Mall, Shivani and Fei-Fei, Li and Wu, Jiajun.   
+[[page](https://arxiv.org/pdf/2109.07991)]   
+
+* **Learning transferable visual models from natural language supervision**, International Conference on Machine Learning, 2021.   
+Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others.   
+[[page](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]   
+
+* **GelSight wedge: Measuring high-resolution 3D contact geometry with a compact robot finger**, ICRA, 2021.   
+Wang, Shaoxiong and She, Yu and Romero, Branden and Adelson, Edward.   
+[[page](https://arxiv.org/pdf/2106.08851)]
+
+* **Tactile object pose estimation from the first touch with geometric contact rendering**, CoRL, 2021.   
+Villalonga, Maria Bauza and Rodriguez, Alberto and Lim, Bryan and Valls, Eric and Sechopoulos, Theo.   
+[[page](https://proceedings.mlr.press/v155/villalonga21a/villalonga21a.pdf)]     
+
+* **Active 3D shape reconstruction from vision and touch**, NeurIPS, 2021.   
+Smith, Edward and Meger, David and Pineda, Luis and Calandra, Roberto and Malik, Jitendra and Romero Soriano, Adriana and Drozdzal, Michal.    
+[[page](https://proceedings.neurips.cc/paper/2021/file/8635b5fd6bc675033fb72e8a3ccc10a0-Paper.pdf)]   
+
+* **Interpreting and predicting tactile signals for the syntouch biotac**, The International Journal of Robotics Research, 2021.    
+Narang, Yashraj S and Sundaralingam, Balakumar and Van Wyk, Karl and Mousavian, Arsalan and Fox, Dieter.    
+[[page](https://arxiv.org/pdf/2101.05452)]
+
+* **GelTip: A finger-shaped optical tactile sensor for robotic manipulation**, IROS, 2020.   
+Gomes, Daniel Fernandes and Lin, Zhonglin and Luo, Shan.   
+[[page](https://arxiv.org/pdf/2008.05404)]   
+
+* **DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor With Application to In-Hand Manipulation**, IEEE Robotics and Automation Letters, 2020.   
+Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and Jayaraman, Dinesh and Calandra, Roberto.    
+[[page](https://arxiv.org/pdf/2005.14679)]
+
+* **Digit: A novel design for a low-cost compact high-resolution tactile sensor with application to in-hand manipulation**, IEEE Robotics and Automation Letters, 2020.   
+Lambeta, Mike and Chou, Po-Wei and Tian, Stephen and Yang, Brian and Maloon, Benjamin and Most, Victoria Rose and Stroud, Dave and Santos, Raymond and Byagowi, Ahmad and Kammerer, Gregg and others.   
+[[page](https://arxiv.org/pdf/2005.14679)]
+
+* **Deep tactile experience: Estimating tactile sensor output from depth sensor data**, IROS, 2020.   
+Patel, Karankumar and Iba, Soshi and Jamali, Nawid.   
+[[page](https://arxiv.org/pdf/2110.08946)]   
+
+* **3D shape reconstruction from vision and touch**, NeurIPS, 2020.   
+Smith, Edward and Calandra, Roberto and Romero, Adriana and Gkioxari, Georgia and Meger, David and Malik, Jitendra and Drozdzal, Michal.   
+[[page](https://proceedings.neurips.cc/paper/2020/file/a3842ed7b3d0fe3ac263bcabd2999790-Paper.pdf)]
+
+* **Supervised autoencoder joint learning on heterogeneous tactile sensory data: Improving material classification performance**, IROS, 2020.      
+Gao, Ruihan and Taunyazov, Tasbolat and Lin, Zhiping and Wu, Yan.      
+[[page](https://yan-wu.com/wp-content/uploads/2020/08/gao2020supervised.pdf)]
+
+* **Making sense of vision and touch: Learning multimodal representations for contact-rich tasks**, IEEE Transactions on Robotics, 2020.    
+Lee, Michelle A and Zhu, Yuke and Zachares, Peter and Tan, Matthew and Srinivasan, Krishnan and Savarese, Silvio and Fei-Fei, Li and Garg, Animesh and Bohg, Jeannette.    
+[[page](https://arxiv.org/pdf/1907.13098)]
 
 * **Learning efficient haptic shape exploration with a rigid tactile sensor array**, PloS One, 2020.    
 Fleer, Sascha and Moringen, Alexandra and Klatzky, Roberta L and Ritter, Helge.    
@@ -1003,28 +957,71 @@ Fleer, Sascha and Moringen, Alexandra and Klatzky, Roberta L and Ritter, Helge.
 
 * **Interpreting and predicting tactile signals via a physics-based and data-driven framework**, ArXiv, 2020.    
 Narang, Yashraj S and Van Wyk, Karl and Mousavian, Arsalan and Fox, Dieter.    
-[[page](https://arxiv.org/pdf/2006.03777)]    
+[[page](https://arxiv.org/pdf/2006.03777)]
 
-* **Interpreting and predicting tactile signals for the syntouch biotac**, The International Journal of Robotics Research, 2021.    
-Narang, Yashraj S and Sundaralingam, Balakumar and Van Wyk, Karl and Mousavian, Arsalan and Fox, Dieter.    
-[[page](https://arxiv.org/pdf/2101.05452)]    
+* **Fast texture classification using tactile neural coding and spiking neural network**, IROS, 2020.    
+Taunyazov, Tasbolat and Chua, Yansong and Gao, Ruihan and Soh, Harold and Wu, Yan.    
+[[page](https://ruihangao.github.io/files/taunyazov2020fast.pdf)]
+
+* **Simulation of the SynTouch BioTac sensor**, Intelligent Autonomous Systems 15: Proceedings of the 15th International Conference IAS-15, 2019.    
+Ruppel, Philipp and Jonetzko, Yannick and Görner, Michael and Hendrich, Norman and Zhang, Jianwei.   
+[[page](https://www.researchgate.net/profile/Yannick-Jonetzko/publication/330014756_Simulation_of_the_SynTouch_BioTac_Sensor_Proceedings_of_the_15th_International_Conference_IAS-15/links/5cc7ed694585156cd7bbc519/Simulation-of-the-SynTouch-BioTac-Sensor-Proceedings-of-the-15th-International-Conference-IAS-15.pdf)]   
+
+* **Robust learning of tactile force estimation through robot interaction**, ICRA, 2019.   
+Sundaralingam, Balakumar and Lambert, Alexander Sasha and Handa, Ankur and Boots, Byron and Hermans, Tucker and Birchfield, Stan and Ratliff, Nathan and Fox, Dieter.   
+[[page](https://arxiv.org/pdf/1810.06187)]   
+
+* **From pixels to percepts: Highly robust edge perception and contour following using deep learning and an optical biomimetic tactile sensor**, IEEE Robotics and Automation Letters, 2019.    
+Lepora, Nathan F and Church, Alex and De Kerckhove, Conrad and Hadsell, Raia and Lloyd, John.   
+[[page](https://arxiv.org/pdf/1812.02941)]
+
+* **Tactile mapping and localization from high-resolution tactile imprints**, ICRA, 2019.   
+Bauza, Maria and Canal, Oleguer and Rodriguez, Alberto.   
+[[page](https://arxiv.org/pdf/1904.10944)]   
+
+* **Convolutional autoencoder for feature extraction in tactile sensing**, IEEE Robotics and Automation Letters, 2019.   
+Polic, Marsela and Krajacic, Ivona and Lepora, Nathan and Orsag, Matko.    
+[[page](https://ieeexplore.ieee.org/abstract/document/8758942/)]     
+
+* **Learning to identify object instances by touch: Tactile recognition via multimodal matching**, ICRA, 2019.    
+Lin, Justin and Calandra, Roberto and Levine, Sergey.    
+[[page](https://arxiv.org/pdf/1903.03591)]
+
+* **The tactip family: Soft optical tactile sensors with 3D-printed biomimetic morphologies**, Soft Robotics, 2018.   
+Ward-Cherrier, Benjamin and Pestell, Nicholas and Cramphorn, Luke and Winstone, Benjamin and Giannaccini, Maria Elena and Rossiter, Jonathan and Lepora, Nathan F.   
+[[page](https://www.liebertpub.com/doi/pdf/10.1089/soro.2017.0052)]     
+
+* **3D shape perception from monocular vision, touch, and shape priors**, IROS, 2018.   
+Wang, Shaoxiong and Wu, Jiajun and Sun, Xingyuan and Yuan, Wenzhen and Freeman, William T and Tenenbaum, Joshua B and Adelson, Edward H.   
+[[page](https://arxiv.org/pdf/2209.13916)]
+
+* **GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force**, Sensors, 2017.   
+Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.   
+[[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]   
+
+* **The feeling of success: Does touch sensing help predict grasp outcomes?**, arXiv, 2017.      
+Calandra, Roberto and Owens, Andrew and Upadhyaya, Manu and Yuan, Wenzhen and Lin, Justin and Adelson, Edward H and Levine, Sergey.      
+[[page](https://arxiv.org/pdf/1710.05512)]        
+
+* **Improved GelSight tactile sensor for measuring geometry and slip**, IROS, 2017.    
+Dong, Siyuan and Yuan, Wenzhen and Adelson, Edward H.   
+[[page](https://arxiv.org/pdf/1708.00922)]   
+
+* **GelSight: High-resolution robot tactile sensors for estimating geometry and force**, Sensors, vol. 17, no. 12, pp. 2762, 2017.   
+Yuan, Wenzhen and Dong, Siyuan and Adelson, Edward H.   
+[[page](https://www.mdpi.com/1424-8220/17/12/2762/pdf)]   
+
+* **Connecting look and feel: Associating the visual and tactile properties of physical materials**, CVPR, 2017.    
+Yuan, Wenzhen and Wang, Shaoxiong and Dong, Siyuan and Adelson, Edward.    
+[[page](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yuan_Connecting_Look_and_CVPR_2017_paper.pdf)]    
 
 * **Stable reinforcement learning with autoencoders for tactile and visual data**, IROS, 2016.    
 Van Hoof, Herke and Chen, Nutan and Karl, Maximilian and van der Smagt, Patrick and Peters, Jan.    
 [[page](https://www.academia.edu/download/47652433/Hoof2016.pdf)]    
 
-* **Fast texture classification using tactile neural coding and spiking neural network**, IROS, 2020.    
-Taunyazov, Tasbolat and Chua, Yansong and Gao, Ruihan and Soh, Harold and Wu, Yan.    
-[[page](https://ruihangao.github.io/files/taunyazov2020fast.pdf)]    
-
-* **When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective**, Arxiv, 2024.    
-Li, Shoujie and Wang, Zihan and Wu, Changsheng and Li, Xiang and Luo, Shan and Fang, Bin and Sun, Fuchun and Zhang, Xiao-Ping and Ding, Wenbo.    
-[[page](https://arxiv.org/pdf/2406.12226)]
-
-* **Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing**, RA-L, 2024.    
-Yun Liu, Xiaomeng Xu, Weihang Chen, Haocheng Yuan, He Wang, Jing Xu, Rui Chen, Li Yi.       
-[[page](https://arxiv.org/abs/2210.04026)]
-
+* **Sensing tactile microvibrations with the BioTac—Comparison with human sensitivity**, BioRob, 2012.   
+Fishel, Jeremy A and Loeb, Gerald E.   
+[[page](https://www.researchgate.net/profile/Gerald-Loeb/publication/256748883_Sensing_tactile_microvibrations_with_the_BioTac_Comparison_with_human_sensitivity/links/5dbcacae299bf1a47b0a3fa6/Sensing-tactile-microvibrations-with-the-BioTac-Comparison-with-human-sensitivity.pdf)]   
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 * **Embodied Question Answering**, CVPR, 2018    
