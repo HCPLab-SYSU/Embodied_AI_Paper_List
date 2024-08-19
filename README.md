@@ -237,63 +237,6 @@ Jin, Liren, Xieyuanli, Chen, Julius, Rückin, Marija, Popovi\'c.
 Hu, Yafei, Junyi, Geng, Chen, Wang, John, Keller, Sebastian, Scherer.    
 [[page](https://arxiv.org/pdf/2204.03140)]    
 
-
-* **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI, 2007.  
-Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse.   
-[[page]](http://www.doc.ic.ac.uk/~ajd/Publications/davison_etal_pami2007.pdf)
-
-* **A multi-state constraint Kalman filter for vision-aided inertial navigation**, IROS, 2007  
-Mourikis, Anastasios I, Stergios I, Roumeliotis.   
-[[page]](https://intra.engr.ucr.edu/~mourikis/tech_reports/TR_MSCKF.pdf)
-
-* **Parallel tracking and mapping for small AR workspaces**, ISMAR, 2007  
-Klein, Georg, David, Murray.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/4538852/)
-
-* **ORB-SLAM: a versatile and accurate monocular SLAM system** IEEE T-RO 31. 5(2015): 1147–1163  
-Mur-Artal, Raul, Jose Maria Martinez, Montiel, Juan D, Tardos.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/7219438/)
-
-* **DTAM: Dense tracking and mapping in real-time**, ICCV, 2011  
-Newcombe, Richard A, Steven J, Lovegrove, Andrew J, Davison.  
-[[page]](https://ieeexplore.ieee.org/abstract/document/6126513/)
-
-* **LSD-SLAM: Large-scale direct monocular SLAM**, ECCV, 2014  
-Engel, Jakob, Thomas, Schops, Daniel, Cremers.  
-[[page]](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54)
-
-* **Slam++: Simultaneous localisation and mapping at the level of objects**, CVPR, 2013  
-Salas-Moreno, Renato F, Richard A, Newcombe, Hauke, Strasdat, Paul HJ, Kelly, Andrew J, Davison.   
-[[page]](https://openaccess.thecvf.com/content_cvpr_2013/papers/Salas-Moreno_SLAM_Simultaneous_Localisation_2013_CVPR_paper.pdf)
-
-* **Cubeslam: Monocular 3-d object slam**, IEEE T-RO 35. 4(2019): 925–938  
-Yang, Shichao, Sebastian, Scherer.  
-[[page]](https://ieeexplore.ieee.org/abstract/document/8708251)
-
-* **Hierarchical topic model based object association for semantic SLAM**, IEEE T-VCG 25. 11(2019): 3052–3062  
-Zhang, Jianhua, Mengping, Gui, Qichao, Wang, Ruyu, Liu, Junzhe, Xu, Shengyong, Chen.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/8794595)
-
-* **Quadricslam: Dual quadrics from object detections as landmarks in object-oriented slam**, IEEE Robotics and Automation Letters 4. 1(2018): 1–8.  
-Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/8440105)
-
-* **So-slam: Semantic object slam with scale proportional and symmetrical texture constraints**. IEEE Robotics and Automation Letters 7. 2(2022): 4008–4015.  
-Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/9705562)
-
-* **DS-SLAM: A semantic visual SLAM towards dynamic environments**, IROS, 2018   
-Yu, Chao, Zuxin, Liu, Xin-Jun, Liu, Fugui, Xie, Yi, Yang, Qi, Wei, Qiao, Fei.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/8593691)
-
-* **DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes**, IEEE Robotics and Automation Letters 3. 4(2018): 4076–4083     
-Bescos, Berta, José M, Facil, Javier, Civera, José, Neira.   
-[[page]](https://ieeexplore.ieee.org/abstract/document/8421015)
-
-* **SG-SLAM: A real-time RGB-D visual SLAM toward dynamic scenes with semantic and geometric information**, IEEE Transactions on Instrumentation and Measurement 72. (2022): 1–12.      
-Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang.    
-[[page]](https://ieeexplore.ieee.org/abstract/document/9978699)   
-
 * **OVD-SLAM: An online visual SLAM for dynamic environments**, IEEE Sensors Journal, 2023.    
 He, Jiaming, Mingrui, Li, Yangyang, Wang, Hongyu, Wang.     
 [[page]](https://ieeexplore.ieee.org/abstract/document/10113832)    
@@ -314,6 +257,14 @@ Wu, Xiaoyang, Yixing, Lao, Li, Jiang, Xihui, Liu, Hengshuang, Zhao.
 Ma, Xu, Can, Qin, Haoxuan, You, Haoxi, Ran, Yun, Fu. 
 [[page](https://arxiv.org/pdf/2202.07123)]    
 
+* **So-slam: Semantic object slam with scale proportional and symmetrical texture constraints**. IEEE Robotics and Automation Letters 7. 2(2022): 4008–4015.  
+Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/9705562)
+
+* **SG-SLAM: A real-time RGB-D visual SLAM toward dynamic scenes with semantic and geometric information**, IEEE Transactions on Instrumentation and Measurement 72. (2022): 1–12.      
+Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang.    
+[[page]](https://ieeexplore.ieee.org/abstract/document/9978699)   
+
 * **Point transformer**, ICCV, 2021.
 Zhao, Hengshuang, Li, Jiang, Jiaya, Jia, Philip HS, Torr, Vladlen, Koltun.     
 [[page](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf)]    
@@ -325,6 +276,26 @@ Lang, Alex H, Sourabh, Vora, Holger, Caesar, Lubing, Zhou, Jiong, Yang, Oscar, B
 * **4d spatio-temporal convnets: Minkowski convolutional neural networks**, CVPR, 2019.    
 Choy, Christopher, JunYoung, Gwak, Silvio, Savarese.    
 [[page]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Choy_4D_Spatio-Temporal_ConvNets_Minkowski_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+
+* **Cubeslam: Monocular 3-d object slam**, IEEE T-RO 35. 4(2019): 925–938  
+Yang, Shichao, Sebastian, Scherer.  
+[[page]](https://ieeexplore.ieee.org/abstract/document/8708251)
+
+* **Hierarchical topic model based object association for semantic SLAM**, IEEE T-VCG 25. 11(2019): 3052–3062  
+Zhang, Jianhua, Mengping, Gui, Qichao, Wang, Ruyu, Liu, Junzhe, Xu, Shengyong, Chen.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/8794595)
+
+* **DS-SLAM: A semantic visual SLAM towards dynamic environments**, IROS, 2018   
+Yu, Chao, Zuxin, Liu, Xin-Jun, Liu, Fugui, Xie, Yi, Yang, Qi, Wei, Qiao, Fei.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/8593691)
+
+* **DynaSLAM: Tracking, mapping, and inpainting in dynamic scenes**, IEEE Robotics and Automation Letters 3. 4(2018): 4076–4083     
+Bescos, Berta, José M, Facil, Javier, Civera, José, Neira.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/8421015)
+
+* **Quadricslam: Dual quadrics from object detections as landmarks in object-oriented slam**, IEEE Robotics and Automation Letters 4. 1(2018): 1–8.  
+Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/8440105)
 
 * **3d semantic segmentation with submanifold sparse convolutional networks**, CVPR, 2018.    
 Graham, Benjamin, Martin, Engelcke, Laurens, Van Der Maaten.     
@@ -361,6 +332,34 @@ Su, Hang, Subhransu, Maji, Evangelos, Kalogerakis, Erik, Learned-Miller.
 * **Voxnet: A 3d convolutional neural network for real-time object recognition**, IROS, 2015.    
 Maturana, Daniel, Sebastian, Scherer.     
 [[page]](https://ieeexplore.ieee.org/abstract/document/7353481)    
+
+* **ORB-SLAM: a versatile and accurate monocular SLAM system** IEEE T-RO 31. 5(2015): 1147–1163  
+Mur-Artal, Raul, Jose Maria Martinez, Montiel, Juan D, Tardos.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/7219438/)
+
+* **LSD-SLAM: Large-scale direct monocular SLAM**, ECCV, 2014  
+Engel, Jakob, Thomas, Schops, Daniel, Cremers.  
+[[page]](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54)
+
+* **Slam++: Simultaneous localisation and mapping at the level of objects**, CVPR, 2013  
+Salas-Moreno, Renato F, Richard A, Newcombe, Hauke, Strasdat, Paul HJ, Kelly, Andrew J, Davison.   
+[[page]](https://openaccess.thecvf.com/content_cvpr_2013/papers/Salas-Moreno_SLAM_Simultaneous_Localisation_2013_CVPR_paper.pdf)
+
+* **DTAM: Dense tracking and mapping in real-time**, ICCV, 2011  
+Newcombe, Richard A, Steven J, Lovegrove, Andrew J, Davison.  
+[[page]](https://ieeexplore.ieee.org/abstract/document/6126513/)
+
+* **MonoSLAM: Real-time single camera SLAM**, IEEE T-PAMI, 2007.  
+Davison, Andrew J, Ian D, Reid, Nicholas D, Molton, Olivier, Stasse.   
+[[page]](http://www.doc.ic.ac.uk/~ajd/Publications/davison_etal_pami2007.pdf)
+
+* **A multi-state constraint Kalman filter for vision-aided inertial navigation**, IROS, 2007  
+Mourikis, Anastasios I, Stergios I, Roumeliotis.   
+[[page]](https://intra.engr.ucr.edu/~mourikis/tech_reports/TR_MSCKF.pdf)
+
+* **Parallel tracking and mapping for small AR workspaces**, ISMAR, 2007  
+Klein, Georg, David, Murray.   
+[[page]](https://ieeexplore.ieee.org/abstract/document/4538852/)
 
 ### 3D Visual Grounding
 
