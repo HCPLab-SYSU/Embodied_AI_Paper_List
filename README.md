@@ -363,6 +363,10 @@ Klein, Georg, David, Murray.
 
 ### 3D Visual Grounding
 
+* **LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**, arxiv, 2024       
+Fan Yang, Sicheng Zhao, Yanhao Zhang, Haoxiang Chen, Hui Chen, Wenbo Tang, Haonan Lu, Pengfei Xu, Zhenyu Yang, Jungong Han, Guiguang Ding                      
+[[page]](https://arxiv.org/pdf/2408.07422)
+
 * **MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**, arxiv, 2024       
 Ruiyuan Lyu, Tai Wang, Jingli Lin, Shuai Yang, Xiaohan Mao, Yilun Chen, Runsen Xu, Haifeng Huang, Chenming Zhu, Dahua Lin, Jiangmiao Pang                   
 [[page]](https://arxiv.org/pdf/2406.09401)
@@ -1487,6 +1491,14 @@ Nicholas C. Metropolis, S. M. Ulam.
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
 
+* **Body Transformer: Leveraging Robot Embodiment for Policy Learning**, arxiv, 2024       
+Carmelo Sferrazza, Dun-Ming Huang, Fangchen Liu, Jongmin Lee, Pieter Abbeel             
+[[page]](https://arxiv.org/pdf/2408.06316)
+
+* **Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model**, arxiv, 2024    
+Jin Wang, Arturo Laurenzi, Nikos Tsagarakis        
+[[page]](https://arxiv.org/pdf/2408.082827)
+
 * **Robust agents learn causal world models**, ICLR, 2024    
 Richens, Jonathan, and Tom Everitt   
 [[page]](https://arxiv.org/pdf/2402.10877)    
@@ -1758,6 +1770,7 @@ Miura, Hirofumi and Shimoyama, Isao
 [GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)            
 [MetaUrban](https://metadriverse.github.io/metaurban/)
 [ALOHA 2](https://aloha-2.github.io/)
+[VisualAgentBench](https://github.com/THUDM/VisualAgentBench)
 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
