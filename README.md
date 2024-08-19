@@ -99,47 +99,64 @@ Rolf Pfeifer, Fumiya Iida
 ## <a id="simulators"> Embodied Simulators <a href="#table-of-contents">🔝</a> </a>
 ### General Simulator
 
-
-* **Nvidia isaac sim: Robotics simulation and synthetic data**, NVIDIA, 2023
-[[page](https://developer.nvidia.com/isaac/sim)]
-
 * **Design and use paradigms for gazebo, an open-source multi-robot simulator**, IROS, 2004
 Koenig, Nathan, Andrew, Howard. 
 [[page](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=79f91c1c95271a075b91e9fdca43d6c31e4cbe17)]
 
-* **Pybullet, a python module for physics simulation for games, robotics and machine learning**, 2016
-Coumans, Erwin, Yunfei, Bai. 
+* **Nvidia isaac sim: Robotics simulation and synthetic data**, NVIDIA, 2023    
+[[page](https://developer.nvidia.com/isaac/sim)]    
 
-* **Webots: open-source robot simulator**
-Cyberbotics
-[[page](https://cyberbotics.com/doc/reference/index), [code](https://github.com/cyberbotics/webots)]
+* **Aerial Gym -- Isaac Gym Simulator for Aerial Robots**, ArXiv, 2023    
+Mihir Kulkarni and Theodor J. L. Forgaard and Kostas Alexis.     
+[[paper](https://arxiv.org/abs/2305.16510)]     
 
-* **MuJoCo: A physics engine for model-based control**, IROS, 2012
-Todorov, Emanuel, Tom, Erez, Yuval, Tassa. 
-[[page](https://ieeexplore.ieee.org/abstract/document/6386109/), [code](https://github.com/google-deepmind/mujoco)]
+* **Webots: open-source robot simulator**, 2018      
+Cyberbotics      
+[[page](https://cyberbotics.com/doc/reference/index), [code](https://github.com/cyberbotics/webots)]     
 
-* **Unity: A general platform for intelligent agents**, ArXiv, 2020
-Juliani, Arthur, Vincent-Pierre, Berges, Ervin, Teng, Andrew, Cohen, Jonathan, Harper, Chris, Elion, Chris, Goy, Yuan, Gao, Hunter, Henry, Marwan, Mattar, Danny, Lange.
-[[page](https://arxiv.org/pdf/1809.02627)]
+* **Unity: A general platform for intelligent agents**, ArXiv, 2020    
+Juliani, Arthur, Vincent-Pierre, Berges, Ervin, Teng, Andrew, Cohen, Jonathan, Harper, Chris, Elion, Chris, Goy, Yuan, Gao, Hunter, Henry, Marwan, Mattar, Danny, Lange.    
+[[page](https://arxiv.org/pdf/1809.02627)]    
 
-* **AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles**, Field and Service Robotics, 2017
-Shital Shah, , Debadeepta Dey, Chris Lovett, Ashish Kapoor.
-[[page](https://arxiv.org/pdf/1705.05065.pdf%20http://arxiv.org/abs/1705.05065)]
+* **AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles**, Field and Service Robotics, 2017    
+Shital Shah, , Debadeepta Dey, Chris Lovett, Ashish Kapoor.    
+[[page](https://arxiv.org/pdf/1705.05065.pdf%20http://arxiv.org/abs/1705.05065)]    
 
-* **Aerial Gym -- Isaac Gym Simulator for Aerial Robots**, ArXiv, 2023
-Mihir Kulkarni and Theodor J. L. Forgaard and Kostas Alexis.
-[[paper](https://arxiv.org/abs/2305.16510)]
+* **Pybullet, a python module for physics simulation for games, robotics and machine learning**, 2016     
+Coumans, Erwin, Yunfei, Bai.     
+[[page](https://github.com/bulletphysics/bullet3)]       
 
-* **Modular open robots simulation engine: Morse**, ICRA, 2011
-Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{\'e}verin
-[[page](https://www.openrobots.org/morse/material/media/pdf/paper-icra.pdf)]
+* **V-REP: A versatile and scalable robot simulation framework**, IROS, 2013      
+Rohmer, Eric, Surya PN, Singh, Marc, Freese.     
+[[page](https://coppeliarobotics.com/coppeliaSim_v-rep_iros2013.pdf)]     
 
-* **V-REP: A versatile and scalable robot simulation framework**, IROS, 2013
-Rohmer, Eric, Surya PN, Singh, Marc, Freese. 
-[[page](https://coppeliarobotics.com/coppeliaSim_v-rep_iros2013.pdf)]
+* **MuJoCo: A physics engine for model-based control**, IROS, 2012    
+Todorov, Emanuel, Tom, Erez, Yuval, Tassa.      
+[[page](https://ieeexplore.ieee.org/abstract/document/6386109/), [code](https://github.com/google-deepmind/mujoco)]     
+
+* **Modular open robots simulation engine: Morse**, ICRA, 2011       
+Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{\'e}verin     
+[[page](https://www.openrobots.org/morse/material/media/pdf/paper-icra.pdf)]    
 
 
 ### Real-Scene Based Simulators
+
+* **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, arxiv, 2024  
+Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang.   
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
+
+* **Holodeck: Language Guided Generation of 3D Embodied AI Environments**, CVPR, 2024  
+Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark.   
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)]
+
+* **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023  
+Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan.   
+[[page](https://arxiv.org/pdf/2311.01455)]
+
+* **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation**, NeurIPS, 2022  
+Deitke, VanderBilt, Herrasti, Weihs, Salvador, Ehsani, Han, Kolve, Farhadi, Kembhavi, Mottaghi   
+[[page](https://arxiv.org/pdf/2206.06994)]
+
 * **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**, NeurIPS, 2021  
 Gan, Chuang, J., Schwartz, Seth, Alter, Martin, Schrimpf, James, Traer, JulianDe, Freitas, Jonas, Kubilius, Abhishek, Bhandwaldar, Nick, Haber, Megumi, Sano, Kuno, Kim, Elias, Wang, Damian, Mrowca, Michael, Lingelbach, Aidan, Curtis, KevinT., Feigelis, DavidM., Bear, Dan, Gutfreund, DavidD., Cox, JamesJ., DiCarlo, JoshH., McDermott, JoshuaB., Tenenbaum, Daniel, Yamins.   
 [[page](https://arxiv.org/pdf/2007.04954)]
@@ -167,22 +184,6 @@ Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner
 * **AI2-THOR: An Interactive 3D Environment for Visual AI**. arXiv, 2017  
 Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi.   
 [[page](https://arxiv.org/pdf/1712.05474)]
-
-* **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation**, NeurIPS, 2022  
-Deitke, VanderBilt, Herrasti, Weihs, Salvador, Ehsani, Han, Kolve, Farhadi, Kembhavi, Mottaghi   
-[[page](https://arxiv.org/pdf/2206.06994)]
-
-* **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, arXiv, 2023  
-Wang, Yufei, Zhou, Xian, Feng, Chen, Tsun-Hsuan, Wang, Yian, Wang, Katerina, Fragkiadaki, Zackory, Erickson, David, Held, Chuang, Gan.   
-[[page](https://arxiv.org/pdf/2311.01455)]
-
-* **Holodeck: Language Guided Generation of 3D Embodied AI Environments**, CVPR, 2024  
-Yue Yang, , Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark.   
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)]
-
-* **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, arxiv, 2024  
-Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang.   
-[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
