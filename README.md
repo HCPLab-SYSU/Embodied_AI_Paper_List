@@ -78,12 +78,12 @@ Zhiyuan Xu, Kun Wu, Junjie Wen, Jinming Li, Ning Liu, Zhengping Che, and Jian Ta
 [[Paper](https://arxiv.org/pdf/2402.02385)]     
 
 * **Toward general-purpose robots via foundation models: A survey and meta-analysis**, Machines, 2023   
-Liman Wang, Jihong Zhu.       
-[[Paper](https://www.mdpi.com/2075-1702/11/11/1013)]    
+Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim, Yaqi Xie, Tianyi Zhang, Shibo Zhao, Yu Quan Chong, Chen Wang, Katia Sycara, Matthew Johnson-Roberson, Dhruv Batra, Xiaolong Wang, Sebastian Scherer, Zsolt Kira, Fei Xia, Yonatan Bisk.            
+[[Paper](https://arxiv.org/pdf/2312.08782)]    
 
-* **Deformable Object Manipulation in Caregiving Scenarios: A Review**, arXiv:2312.08782, 2023   
-Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim et al.  
-[[Paper](https://arxiv.org/pdf/2312.08782)]
+* **Deformable Object Manipulation in Caregiving Scenarios: A Review**, Machines, 2023   
+YLiman Wang, Jihong Zhu.  
+[[Paper]https://www.mdpi.com/2075-1702/11/11/1013]
 
 * **A survey of embodied ai: From simulators to research tasks**, IEEE Transactions on Emerging Topics in Computational Intelligence, 2022    
 Jiafei Duan, Samson Yu, Hui Li Tan, Hongyuan Zhu, Cheston Tan    
