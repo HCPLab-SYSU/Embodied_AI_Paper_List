@@ -189,6 +189,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
+* **Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**, arxiv, 2024.    
+Pengkun Wei, Shuo Cheng, Dayou Li, Ran Song, Yipeng Zhang, Wei Zhang. 
+[[page](https://arxiv.org/pdf/2408.10710)]
+
 * **Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception**, CVPR, 2024.    
 Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf)]
@@ -363,6 +367,10 @@ Klein, Georg, David, Murray.
 
 ### 3D Visual Grounding
 
+* **OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding**, arxiv, 2024       
+Youjun Zhao, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau                           
+[[page]](https://arxiv.org/pdf/2408.11030)
+
 * **LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**, arxiv, 2024       
 Fan Yang, Sicheng Zhao, Yanhao Zhang, Haoxiang Chen, Hui Chen, Wenbo Tang, Haonan Lu, Pengfei Xu, Zhenyu Yang, Jungong Han, Guiguang Ding                      
 [[page]](https://arxiv.org/pdf/2408.07422)
@@ -481,6 +489,18 @@ Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and
 
 
 ### Visual Language Navigation
+
+* **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**, ArXiv, 2024.      
+Junming Wang, Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, Fangming Liu, Heming Cui.         
+[[page](https://arxiv.org/pdf/2408.10618)]
+
+* **CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**, ArXiv, 2024.      
+Hidehisa Arai, Keita Miwa, Kento Sasaki, Yu Yamaguchi, Kohei Watanabe, Shunsuke Aoki, Issei Yamamoto.         
+[[page](https://arxiv.org/pdf/2408.10845)]
+
+* **FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**, ArXiv, 2024.      
+Yunzhe Xu, Yiyuan Pan, Zhe Liu, Hesheng Wang.       
+[[page](https://arxiv.org/pdf/2408.11051)]
 
 * **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.      
 Wu, Wang, Xu, Lu, Yan.       
