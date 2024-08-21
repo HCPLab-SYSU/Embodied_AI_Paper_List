@@ -190,19 +190,19 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ### Active Visual Exploration
 
 * **Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**, arxiv, 2024.    
-Pengkun Wei, Shuo Cheng, Dayou Li, Ran Song, Yipeng Zhang, Wei Zhang. 
-[[page](https://arxiv.org/pdf/2408.10710)]
+Pengkun Wei, Shuo Cheng, Dayou Li, Ran Song, Yipeng Zhang, Wei Zhang.      
+[[page](https://arxiv.org/pdf/2408.10710)]      
 
 * **Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception**, CVPR, 2024.    
-Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu. 
+Fan, Lei, Mingfu, Liang, Yunxuan, Li, Gang, Hua, Ying, Wu.      
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf)]
 
 * **SpatialBot: Precise Spatial Understanding with Vision Language Models**, arxiv, 2024.    
-Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao. 
+Wenxiao Cai, Yaroslav Ponomarenko, Jianhao Yuan, Xiaoqi Li, Wankou Yang, Hao Dong, Bo Zhao.      
 [[page](https://arxiv.org/pdf/2406.13642)]
 
 * **Embodied Uncertainty-Aware Object Segmentations**, IROS, 2024.      
-Xiaolin Fang, Leslie Pack Kaelbling, Tom ́as Lozano-P ́erez.   
+Xiaolin Fang, Leslie Pack Kaelbling, Tom ́as Lozano-P ́erez.     
 [[page](https://arxiv.org/pdf/2408.04760)]
 
 * **Point Transformer V3: Simpler Faster Stronger**, CVPR, 2024.
@@ -367,7 +367,7 @@ Klein, Georg, David, Murray.
 
 ### 3D Visual Grounding
 
-* **OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding**, arxiv, 2024       
+* **OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding**, arxiv, 2024        
 Youjun Zhao, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau                           
 [[page]](https://arxiv.org/pdf/2408.11030)
 
