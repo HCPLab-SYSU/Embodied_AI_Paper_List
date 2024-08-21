@@ -230,7 +230,7 @@ Yutong Wang, Chaoyang Jiang, Xieyuanli Chen.
 [[page]](https://arxiv.org/pdf/2408.07917)
 
 * **Embodiedscan: A holistic multi-modal 3d perception suite towards embodied ai** CVPR, 2024.    
-Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others. 
+Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others.      
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_EmbodiedScan_A_Holistic_Multi-Modal_3D_Perception_Suite_Towards_Embodied_AI_CVPR_2024_paper.pdf)]
 
 * **Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering**, IROS, 2023.    
