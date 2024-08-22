@@ -1807,11 +1807,11 @@ Miura, Hirofumi and Shimoyama, Isao
 [RH20T-P](https://sites.google.com/view/rh20t-primitive/main)       
 [OAKINK2](https://oakink.net/v2)         
 [Open X-Embodiment](https://robotics-transformer-x.github.io/)      
-[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)            
-[MetaUrban](https://metadriverse.github.io/metaurban/)
-[ALOHA 2](https://aloha-2.github.io/)
+[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)              
+[MetaUrban](https://metadriverse.github.io/metaurban/)      
+[ALOHA 2](https://aloha-2.github.io/)       
 [VisualAgentBench](https://github.com/THUDM/VisualAgentBench)
-
+ 
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
 
