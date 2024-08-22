@@ -514,6 +514,10 @@ Hidehisa Arai, Keita Miwa, Kento Sasaki, Yu Yamaguchi, Kohei Watanabe, Shunsuke 
 Yunzhe Xu, Yiyuan Pan, Zhe Liu, Hesheng Wang.       
 [[page](https://arxiv.org/pdf/2408.11051)]
 
+* **Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**, ArXiv, 2024.      
+Jiaqi Chen, Bingqian Lin, Xinmin Liu, Xiaodan Liang, Kwan-Yee K Wong.         
+[[page](https://arxiv.org/pdf/2407.05890)]
+
 * **Embodied Instruction Following in Unknown Environments**, ArXiv, 2024.      
 Wu, Wang, Xu, Lu, Yan.       
 [[page](https://arxiv.org/pdf/2406.11818)]       
@@ -751,9 +755,6 @@ Yang, Fengyu and Feng, Chao and Chen, Ziyang and Park, Hyoungseob and Wang, Dani
 * **Bioinspired sensors and applications in intelligent robots: a review**, Robotic Intelligence and Automation, 2024.    
 Zhou, Yanmin and Yan, Zheng and Yang, Ye and Wang, Zhipeng and Lu, Ping and Yuan, Philip F and He, Bin.   
 [[page](https://www.emerald.com/insight/content/doi/10.1108/RIA-07-2023-0088/full/pdf)]   
-
-
-
 
 * **Give Me a Sign: Using Data Gloves for Static Hand-Shape Recognition**, Sensors, 2023.   
 Achenbach, Philipp and Laux, Sebastian and Purdack, Dennis and Müller, Philipp Niklas and Göbel, Stefan.   
