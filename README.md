@@ -61,6 +61,10 @@ Yang Liu, Liang Lin
 Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Liang Lin.        
 [[Paper](https://arxiv.org/pdf/2407.06886)]    
 
+* **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, arXiv:2408.11537, 2024   
+Ying Zheng, Lei Yao, Yuejiao Su, Yi Zhang, Yi Wang, Sicheng Zhao, Yiyi Zhang, Lap-Pui Chau    
+[[Paper](https://arxiv.org/pdf/2408.11537)]
+
 * **Teleoperation of Humanoid Robots: A Survey**, IEEE Transactions on Robotics, 2024       
 Kourosh Darvish, Luigi Penco, Joao Ramos, Rafael Cisneros, Jerry Pratt, Eiichi Yoshida, Serena Ivaldi, Daniele Pucci.        
 [[Paper](https://arxiv.org/pdf/2301.04317)]
@@ -188,6 +192,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
+
+* **BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**, CVPR, 2024.    
+Yunhao Ge, Yihe Tang, Jiashu Xu, Cem Gokmen, Chengshu Li, Wensi Ai, Benjamin Jose Martinez, Arman Aydin, Mona Anvari, Ayush K Chakravarthy, Hong-Xing Yu, Josiah Wong, Sanjana Srivastava, Sharon Lee, Shengxin Zha, Laurent Itti, Yunzhu Li, Roberto Martín-Martín, Miao Liu, Pengchuan Zhang, Ruohan Zhang, Li Fei-Fei, Jiajun Wu.         
+[[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_BEHAVIOR_Vision_Suite_Customizable_Dataset_Generation_via_Simulation_CVPR_2024_paper.pdf)]
 
 * **Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**, arxiv, 2024.    
 Pengkun Wei, Shuo Cheng, Dayou Li, Ran Song, Yipeng Zhang, Wei Zhang.      
@@ -365,7 +373,11 @@ Mourikis, Anastasios I, Stergios I, Roumeliotis.
 Klein, Georg, David, Murray.   
 [[page]](https://ieeexplore.ieee.org/abstract/document/4538852/)
 
-### 3D Visual Grounding
+### 3D Visual Perception and Grounding
+
+* **EmbodiedSAM: Online Segment Any 3D Thing in Real Time**, arxiv, 2024        
+Xiuwei Xu, Huangxing Chen, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu                          
+[[page]](https://arxiv.org/pdf/2408.11811)
 
 * **OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding**, arxiv, 2024        
 Youjun Zhao, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau                           
@@ -1233,7 +1245,6 @@ Das, Abhishek and Gkioxari, Georgia and Lee, Stefan and Parikh, Devi and Batra, 
 Depierre, Amaury and Dellandr{\'e}a, Emmanuel and Chen, Liming    
 [[page]](https://ieeexplore.ieee.org/abstract/document/8593950)    
 
-
 * **Matterport3D: Learning from rgb-d data in indoor environments,**, IEEE International Conference on 3D Vision, 2017    
 Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niessner, Matthias and Savva, Manolis and Song, Shuran and Zeng, Andy and Zhang, Yinda    
 [[page]](https://arxiv.org/pdf/1709.06158)    
@@ -1307,6 +1318,10 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 [[page](https://arxiv.org/pdf/2212.06817)]    
 
 ### Embodied Manipulation & Control
+
+* **Dexcap: Scalable and portable mocap data collection system for dexterous manipulation**, ArXiv, 2024.    
+Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, C Karen Liu.       
+[[page](https://arxiv.org/pdf/2403.07788)]
 
 * **Lota-bench: Benchmarking language-oriented task planners for embodied agents**, ArXiv, 2024.    
 Choi, Jae-Woo, Youngwoo, Yoon, Hyobin, Ong, Jaehong, Kim, Minsu, Jang.     
@@ -1510,6 +1525,10 @@ Nicholas C. Metropolis, S. M. Ulam.
 
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
+
+* **Evaluating Real-World Robot Manipulation Policies in Simulation**, arxiv, 2024       
+Xuanlin Li, Kyle Hsu, Jiayuan Gu, Karl Pertsch, Oier Mees, Homer Rich Walke, Chuyuan Fu, Ishikaa Lunawat, Isabel Sieh, Sean Kirmani, Sergey Levine, Jiajun Wu, Chelsea Finn, Hao Su, Quan Vuong, Ted Xiao                
+[[page]](https://arxiv.org/pdf/2405.05941)
 
 * **Body Transformer: Leveraging Robot Embodiment for Policy Learning**, arxiv, 2024       
 Carmelo Sferrazza, Dun-Ming Huang, Fangchen Liu, Jongmin Lee, Pieter Abbeel             
