@@ -1810,7 +1810,7 @@ Miura, Hirofumi and Shimoyama, Isao
 [GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)              
 [MetaUrban](https://metadriverse.github.io/metaurban/)      
 [ALOHA 2](https://aloha-2.github.io/)       
-[VisualAgentBench](https://github.com/THUDM/VisualAgentBench)
+[VisualAgentBench](https://github.com/THUDM/VisualAgentBench)       
 [ARIO (All Robots In One)](https://imaei.github.io/project_pages/ario/)
  
 ## :newspaper: Citation 
