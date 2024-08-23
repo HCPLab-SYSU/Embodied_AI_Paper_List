@@ -61,6 +61,10 @@ Yang Liu, Liang Lin
 Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Liang Lin.        
 [[Paper](https://arxiv.org/pdf/2407.06886)]    
 
+* **All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**, arXiv:2408.10899, 2024      
+Zhiqiang Wang, Hao Zheng, Yunshuang Nie, Wenjun Xu, Qingwei Wang, Hua Ye, Zhe Li, Kaidong Zhang, Xuewen Cheng, Wanxi Dong, Chang Cai, Liang Lin, Feng Zheng, Xiaodan Liang           
+[[Paper]([https://arxiv.org/pdf/2408.11537](https://arxiv.org/pdf/2408.10899))][[Project](https://imaei.github.io/project_pages/ario/)]
+
 * **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, arXiv:2408.11537, 2024   
 Ying Zheng, Lei Yao, Yuejiao Su, Yi Zhang, Yi Wang, Sicheng Zhao, Yiyi Zhang, Lap-Pui Chau    
 [[Paper](https://arxiv.org/pdf/2408.11537)]
