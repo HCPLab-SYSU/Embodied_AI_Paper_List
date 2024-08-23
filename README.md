@@ -1811,6 +1811,7 @@ Miura, Hirofumi and Shimoyama, Isao
 [MetaUrban](https://metadriverse.github.io/metaurban/)      
 [ALOHA 2](https://aloha-2.github.io/)       
 [VisualAgentBench](https://github.com/THUDM/VisualAgentBench)
+[ARIO (All Robots In One)](https://imaei.github.io/project_pages/ario/)
  
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
