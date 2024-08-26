@@ -379,6 +379,10 @@ Klein, Georg, David, Murray.
 
 ### 3D Visual Perception and Grounding
 
+* **Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding**, arxiv, 2024        
+Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao, Xuelong Li                               
+[[page]](https://arxiv.org/pdf/2408.13024)
+
 * **EmbodiedSAM: Online Segment Any 3D Thing in Real Time**, arxiv, 2024        
 Xiuwei Xu, Huangxing Chen, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu                          
 [[page]](https://arxiv.org/pdf/2408.11811)
