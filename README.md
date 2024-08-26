@@ -506,6 +506,14 @@ Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and
 
 ### Visual Language Navigation
 
+* **MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**, ACL, 2024.       
+Jiaqi Chen, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong.             
+[[page](https://chen-judge.github.io/MapGPT/)]
+
+* **NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**, ArXiv, 2024.      
+Bingqian Lin, Yunshuang Nie, Ziming Wei, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang.             
+[[page](https://arxiv.org/abs/2403.07376)]       
+
 * **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**, ArXiv, 2024.      
 Junming Wang, Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, Fangming Liu, Heming Cui.         
 [[page](https://arxiv.org/pdf/2408.10618)]
