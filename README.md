@@ -90,7 +90,7 @@ Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keeth
 [[Paper](https://arxiv.org/pdf/2312.08782)]    
 
 * **Deformable Object Manipulation in Caregiving Scenarios: A Review**, Machines, 2023   
-YLiman Wang, Jihong Zhu.  
+Liman Wang, Jihong Zhu.  
 [[Paper]https://www.mdpi.com/2075-1702/11/11/1013]
 
 * **A survey of embodied ai: From simulators to research tasks**, IEEE Transactions on Emerging Topics in Computational Intelligence, 2022    
@@ -1384,7 +1384,7 @@ Zhirui Fang, Ming Yang, Weishuai Zeng, Boyu Li, Junpeng Yue, Ziluo Ding, Xiu Li,
 Tianyu Wang, Haitao Lin, Junqiu Yu, Yanwei Fu.              
 [[page]](https://arxiv.org/pdf/2408.07975)
 
-* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ArXiv, 2024.           
+* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ICME 2024 Workshop MML4SG.           
 Liman Wang, Hanyang Zhong.          
 [[page]](https://github.com/HanyangZhong/Situational_Planning_datasets)    
 
