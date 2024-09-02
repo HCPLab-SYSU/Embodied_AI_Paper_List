@@ -1812,7 +1812,7 @@ Miura, Hirofumi and Shimoyama, Isao
 
 ### Embodied Perception
 #### Vision
-
+To be updated...       
 
 
 #### Tactile 
@@ -1827,7 +1827,7 @@ Miura, Hirofumi and Shimoyama, Isao
 * **TaRF**, 2024. [[link]](https://dou-yiming.github.io/TaRF/)
 * **ARIO (All Robots In One)**, 2024.[[link]](https://imaei.github.io/project_pages/ario/)    
 
-### Embodied Naviation
+### Embodied Navigation
 * **Room to Room (R2R)**, 2017.[[link]](https://paperswithcode.com/dataset/room-to-room)  
 * **CVDN**, 2019.[[link]](https://github.com/mmurray/cvdn/)     
 * **REVERIE**, 2020.[[link]](https://github.com/YuankaiQi/REVERIE)  
