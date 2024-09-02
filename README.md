@@ -22,7 +22,7 @@
 ![Teaser](teaser.png "demo")
 
 [**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**](https://arxiv.org/pdf/2407.06886)    
-  [Yang Liu](https://yangliu9208.github.io), Weixing Chen, Yongjie Bai, [Guanbin Li](http://guanbinli.com/), [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm), [Liang Lin](http://www.linliang.net/)     
+  [Yang Liu](https://yangliu9208.github.io), Weixing Chen, Yongjie Bai, [Xiaodan Liang](https://lemondan.github.io), [Guanbin Li](http://guanbinli.com/), [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm), [Liang Lin](http://www.linliang.net/)     
 
 <p align="center">
 <img src="./Survey.png" width="800">
@@ -92,7 +92,7 @@ Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keeth
 [[Paper](https://arxiv.org/pdf/2312.08782)]    
 
 * **Deformable Object Manipulation in Caregiving Scenarios: A Review**, Machines, 2023   
-YLiman Wang, Jihong Zhu.  
+Liman Wang, Jihong Zhu.  
 [[Paper]https://www.mdpi.com/2075-1702/11/11/1013]
 
 * **A survey of embodied ai: From simulators to research tasks**, IEEE Transactions on Emerging Topics in Computational Intelligence, 2022    
@@ -381,6 +381,10 @@ Klein, Georg, David, Murray.
 
 ### 3D Visual Perception and Grounding
 
+* **Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding**, arxiv, 2024        
+Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao, Xuelong Li                               
+[[page]](https://arxiv.org/pdf/2408.13024)
+
 * **EmbodiedSAM: Online Segment Any 3D Thing in Real Time**, arxiv, 2024        
 Xiuwei Xu, Huangxing Chen, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu                          
 [[page]](https://arxiv.org/pdf/2408.11811)
@@ -507,6 +511,14 @@ Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and
 
 
 ### Visual Language Navigation
+
+* **MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**, ACL, 2024.       
+Jiaqi Chen, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong.             
+[[page](https://chen-judge.github.io/MapGPT/)]
+
+* **NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**, ArXiv, 2024.      
+Bingqian Lin, Yunshuang Nie, Ziming Wei, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang.             
+[[page](https://arxiv.org/abs/2403.07376)]       
 
 * **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**, ArXiv, 2024.      
 Junming Wang, Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, Fangming Liu, Heming Cui.         
@@ -1374,7 +1386,7 @@ Zhirui Fang, Ming Yang, Weishuai Zeng, Boyu Li, Junpeng Yue, Ziluo Ding, Xiu Li,
 Tianyu Wang, Haitao Lin, Junqiu Yu, Yanwei Fu.              
 [[page]](https://arxiv.org/pdf/2408.07975)
 
-* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ArXiv, 2024.           
+* **LLM-SAP: Large Language Model Situational Awareness Based Planning**, ICME 2024 Workshop MML4SG.           
 Liman Wang, Hanyang Zhong.          
 [[page]](https://github.com/HanyangZhong/Situational_Planning_datasets)    
 
