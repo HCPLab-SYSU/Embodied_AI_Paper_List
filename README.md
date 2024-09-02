@@ -33,6 +33,7 @@
 Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artificial General Intelligence (AGI) and serves as a foundation for various applications that bridge cyberspace and the physical world. Recently, the emergence of Multi-modal Large Models (MLMs) and World Models (WMs) have attracted significant attention due to their remarkable perception, interaction, and reasoning capabilities, making them a promising architecture for the brain of embodied agents. However, there is no comprehensive survey for Embodied AI in the era of MLMs. In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI. Our analysis firstly navigates through the forefront of representative works of embodied robots and simulators, to fully understand the research focuses and their limitations. Then, we analyze four main research targets: 1) embodied perception, 2) embodied interaction, 3) embodied agent, and 4) sim-to-real adaptation, covering the state-of-the-art methods, essential paradigms, and comprehensive datasets. Additionally, we explore the complexities of MLMs in virtual and real embodied agents, highlighting their significance in facilitating interactions in dynamic digital and physical environments.  Finally, we summarize the challenges and limitations of embodied AI and discuss their potential future directions. We hope this survey will serve as a foundational reference for the research community and inspire continued innovation. 
 
 ## :collision: Update Log 
+* [2024.08.31] We added the Datasets section and classified the useful projects!
 * [2024.08.19] To make readers focus on newest works, we have arranged papers in chronological order!   
 * [2024.08.02] We regularly update the project weekly!   
 * [2024.07.29] We have updated the project!   
@@ -50,6 +51,7 @@ Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artifici
 - [Embodied Interaction](#interaction)
 - [Embodied Agent](#agent)
 - [Sim-to-Real Adaptation](#sim-to-real)
+- [Datasets](#datasets)
 
 ## <a id="books-surveys"> Books & Surveys <a href="#table-of-contents">🔝</a> </a> 
 
@@ -1797,37 +1799,101 @@ Sreenath, Koushil and Park, Hae-Won and Poulakakis, Ioannis and Grizzle, Jessy W
 
 * **Dynamic walk of a biped**, The International Journal of Robotics Research, 1984   
 Miura, Hirofumi and Shimoyama, Isao   
-[[page]](https://journals.sagepub.com/doi/abs/10.1177/027836498400300206)    
+[[page]](https://journals.sagepub.com/doi/abs/10.1177/027836498400300206)  
 
-## Other Useful Embodied Projects
+## <a id="datasets"> Datasets <a href="#table-of-contents">🔝</a> </a> 
+
+* **VisualAgentBench**, 2023.[link](https://github.com/THUDM/VisualAgentBench)
+* **Open X-Embodiment**, 2023.[link](https://robotics-transformer-x.github.io/)
+* **RH20T-P**, 2024.[link](https://sites.google.com/view/rh20t-primitive/main)   
+* **ALOHA 2**, 2024.[link](https://aloha-2.github.io/)  
+* **GRUtopia**, 2024.[link](https://github.com/OpenRobotLab/GRUtopia)
+* **ARIO (All Robots In One)**, 2024.[link](https://imaei.github.io/project_pages/ario/)
+
+### Embodied Perception
+#### Vision
+
+
+
+#### Tactile 
+* **The Feeling of Success**, 2017. [[link]](https://sites.google.com/view/the-feeling-of-success/)
+* **SynTouch**, 2019. [[link]](https://tams.informatik.uni-hamburg.de/research/datasets/index.php#biotac_single_contact_response)
+* **Decoding the BioTac**, 2020. [[link]](https://drive.google.com/drive/folders/1-BkqiFN9q6cz9Dk74oDlfmDs2m7ZvbWC)
+* **ObjectFolder**, 2021-2023. [[link]](https://github.com/rhgao/ObjectFolder)
+* **SSVTP**, 2022. [[link]](https://drive.google.com/file/d/1H0B-jJ4l3tJu2zuqf-HbZy2bjEl-vL3f/view?usp=sharing)
+* **Touch and Go**, 2022. [[link]](https://drive.google.com/drive/folders/1NDasyshDCL9aaQzxjn_-Q5MBURRT360B)
+* **YCB-Slide**, 2022. [[link]](https://github.com/rpl-cmu/YCB-Slide)
+* **TVL**, 2024. [[link]](https://huggingface.co/datasets/mlfu7/Touch-Vision-Language-Dataset)
+* **TaRF**, 2024. [[link]](https://dou-yiming.github.io/TaRF/)
+* **ARIO (All Robots In One)**, 2024.[[link]](https://imaei.github.io/project_pages/ario/)    
+
+### Embodied Naviation
+* **Room to Room (R2R)**, 2017.[[link]](https://paperswithcode.com/dataset/room-to-room)  
+* **CVDN**, 2019.[[link]](https://github.com/mmurray/cvdn/)     
+* **REVERIE**, 2020.[[link]](https://github.com/YuankaiQi/REVERIE)  
+* **ALFRED**, 2020.[[link]](https://askforalfred.com/)  
+
+### Embodied Question Answering
+* **EQA**, 2018.[[link]](https://embodiedqa.org/data)  
+* **IQUAD V1**, 2018.[[link]](https://github.com/danielgordon10/thor-iqa-cvpr-2018)  
+* **MT-EQA**, 2019.[[link]](https://github.com/facebookresearch/MT-EQA)  
+* **MP3D-EQA**, 2019.[[link]](https://askforalfred.com/)  
+* **VideoNavQA**, 2019.[[link]](https://github.com/catalina17/VideoNavQA)  
+* **SQA3D**, 2023.[[link]](https://sqa3d.github.io/) 
+* **K-EQA**, 2023.[[link]](https://arxiv.org/abs/2109.07872) 
+* **HM-EQA**, 2024.[[link]](https://github.com/Stanford-ILIAD/explore-eqa) 
+* **S-EQA**, 2024.[[link]](https://gamma.umd.edu/researchdirections/embodied/seqa/)  
+
+
+### Embodied Manipulation
+* **OAKINK2**, 2024.[[link]](https://oakink.net/v2/)  
+
+## Other Useful Embodied Projects & Tools
+
+### Resources
 [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)     
-[Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)    
+[Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)  
+[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)  
+### Simulate Platforms & Enviroments
 [Habitat-Lab](https://github.com/facebookresearch/habitat-lab)    
+[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)    
 [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)    
-[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)      
-[MANIPULATE-ANYTHING](https://robot-ma.github.io/)    
-[Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)    
-[RoboMamba](https://sites.google.com/view/robomamba-web)   
 [LEGENT](https://github.com/thunlp/LEGENT)    
-[Octopus](https://github.com/dongyh20/Octopus)    
-[Holodeck](https://github.com/allenai/Holodeck)    
-[AllenAct](https://github.com/allenai/allenact)    
-[LEO](https://github.com/embodied-generalist/embodied-generalist)    
-[EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
-[EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)    
-[Voyager](https://github.com/MineDojo/Voyager)    
-[GenH2R](https://genh2r.github.io/)       
+[MetaUrban](https://metadriverse.github.io/metaurban/)  
+[GRUtopia](https://github.com/OpenRobotLab/GRUtopia)             
+[GenH2R](https://genh2r.github.io/)    
+[Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)     
+
+### Projects
+* Manipulation
+
+[RoboMamba](https://sites.google.com/view/robomamba-web)   
+[MANIPULATE-ANYTHING](https://robot-ma.github.io/)    
 [DexGraspNet](https://pku-epic.github.io/DexGraspNet/)      
 [UniDexGrasp](https://pku-epic.github.io/UniDexGrasp/)      
 [UniDexGrasp++](https://pku-epic.github.io/UniDexGrasp++/)      
-[RH20T-P](https://sites.google.com/view/rh20t-primitive/main)       
 [OAKINK2](https://oakink.net/v2)         
-[Open X-Embodiment](https://robotics-transformer-x.github.io/)      
-[GRUtopia: Dream General Robots in a City at Scale](https://github.com/OpenRobotLab/GRUtopia)              
-[MetaUrban](https://metadriverse.github.io/metaurban/)      
-[ALOHA 2](https://aloha-2.github.io/)       
-[VisualAgentBench](https://github.com/THUDM/VisualAgentBench)       
-[ARIO (All Robots In One)](https://imaei.github.io/project_pages/ario/)
+
+* Embodied Interaction
+
+[EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)  
+
+* Embodied Perception
+
+[EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan)    
+  
+* Models & Tools
+
+[Octopus](https://github.com/dongyh20/Octopus)    
+[Holodeck](https://github.com/allenai/Holodeck)    
+[AllenAct](https://github.com/allenai/allenact)    
+
+* Agents
+
+[LEO](https://github.com/embodied-generalist/embodied-generalist)    
+[Voyager](https://github.com/MineDojo/Voyager)    
+   
+
  
 ## :newspaper: Citation 
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
