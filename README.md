@@ -33,6 +33,7 @@
 Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artificial General Intelligence (AGI) and serves as a foundation for various applications that bridge cyberspace and the physical world. Recently, the emergence of Multi-modal Large Models (MLMs) and World Models (WMs) have attracted significant attention due to their remarkable perception, interaction, and reasoning capabilities, making them a promising architecture for the brain of embodied agents. However, there is no comprehensive survey for Embodied AI in the era of MLMs. In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI. Our analysis firstly navigates through the forefront of representative works of embodied robots and simulators, to fully understand the research focuses and their limitations. Then, we analyze four main research targets: 1) embodied perception, 2) embodied interaction, 3) embodied agent, and 4) sim-to-real adaptation, covering the state-of-the-art methods, essential paradigms, and comprehensive datasets. Additionally, we explore the complexities of MLMs in virtual and real embodied agents, highlighting their significance in facilitating interactions in dynamic digital and physical environments.  Finally, we summarize the challenges and limitations of embodied AI and discuss their potential future directions. We hope this survey will serve as a foundational reference for the research community and inspire continued innovation. 
 
 ## :collision: Update Log 
+* [2024.09.08] We are constantly updating the Dataset section!
 * [2024.08.31] We added the Datasets section and classified the useful projects!
 * [2024.08.19] To make readers focus on newest works, we have arranged papers in chronological order!   
 * [2024.08.02] We regularly update the project weekly!   
@@ -1802,6 +1803,7 @@ Miura, Hirofumi and Shimoyama, Isao
 [[page]](https://journals.sagepub.com/doi/abs/10.1177/027836498400300206)  
 
 ## <a id="datasets"> Datasets <a href="#table-of-contents">🔝</a> </a> 
+To be updated...     
 
 * **VisualAgentBench**, 2023.[link](https://github.com/THUDM/VisualAgentBench)
 * **Open X-Embodiment**, 2023.[link](https://robotics-transformer-x.github.io/)
@@ -1809,44 +1811,85 @@ Miura, Hirofumi and Shimoyama, Isao
 * **ALOHA 2**, 2024.[link](https://aloha-2.github.io/)  
 * **GRUtopia**, 2024.[link](https://github.com/OpenRobotLab/GRUtopia)
 * **ARIO (All Robots In One)**, 2024.[link](https://imaei.github.io/project_pages/ario/)
+* **Matterport3D**, 2017. [[link]](https://github.com/niessner/Matterport)
 
 ### Embodied Perception
 #### Vision
-To be updated...       
+
+* **BEHAVIOR Vision Suite**, 2024. [[link]](https://behavior-vision-suite.github.io/)
+* **SpatialQA**, 2024.[[link]](https://github.com/BAAI-DCAI/SpatialBot)  
+* **SpatialBench**, 2024. [[link]](https://huggingface.co/datasets/RussRobin/SpatialBench)
+* **Uni3DScenes**, 2024. [[link]](https://huggingface.co/datasets/RussRobin/SpatialBench)
+* **Active Recognition Dataset**, 2023. [[link]](https://leifan95.github.io/_pages/AR-dataset/index.html)
+* **Baxter_UR5_95_Objects_Dataset**, 2023. [[link]](https://www.eecs.tufts.edu/~gtatiya/pages/2022/Baxter_UR5_95_Objects_Dataset.html)
+* **Caltech-256**, 2022. [[link]](https://data.caltech.edu/records/nyy15-4j048)
+* **DIDI Dataset**, 2020. [[link]](https://github.com/google-research/google-research/blob/master/didi_dataset/README.md)
+* **Replica**, 2019. [[link]](https://github.com/facebookresearch/Replica-Dataset)
+* **ScanObjectNN**, 2019. [[link]](https://hkust-vgd.github.io/scanobjectnn/)
+* **OCID Dataset**, 2019. [[link]](https://www.acin.tuwien.ac.at/en/vision-for-robotics/software-tools/object-clutter-indoor-dataset/)
+* **L3RScan**, 2019. [[link]](https://github.com/WaldJohannaU/3RScan)
+* **EmbodiedScan**, 2019. [[link]](https://docs.google.com/forms/d/e/1FAIpQLScUXEDTksGiqHZp31j7Zp7zlCNV7p_08uViwP_Nbzfn3g6hhw/viewform)  
+* **UZH-FPV Dataset**, 2019. [[link]](https://fpv.ifi.uzh.ch/)
+* **LM Data**, 2019. [[link]](https://peringlab.org/lmdata/)
+* **TUM Visual-Inertial Dataset**, 2018. [[link]](https://cvg.cit.tum.de/data/datasets/visual-inertial-dataset)
+
+* **ScanNet**, 2017. [[link]](https://github.com/ScanNet/ScanNet)
+* **SUNCG**, 2017. [[link]](http://suncg.cs.princeton.edu/)
+* **Semantic 3D**, 2017. [[link]](http://www.semantic3d.net/)
+* **ScanNet v2**, 2017. [[link]](https://github.com/ScanNet/ScanNet)
+* **S3DIS**, 2016. [[link]](http://buildingparser.stanford.edu/)
+* **Synthia**, 2016. [[link]](https://synthia-dataset.net/)
+* **ModelNet**, 2015. [[link]](https://modelnet.cs.princeton.edu/)
+* **ORBvoc**, 2015. [[link]](https://github.com/raulmur/ORB_SLAM)
+* **Sketch dataset**, 2015. [[link]](https://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
+* **SUN RGBD**, 2015. [[link]](https://rgbd.cs.princeton.edu/)
+* **ShapeNet**, 2015. [[link]](https://shapenet.org/)
+* **MVS Dataset**, 2014. [[link]](http://roboimagedata.compute.dtu.dk/?page_id=36)
+* **SUOD**, 2013. [[link]](https://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml)
+* **SUN360**, 2012. [[link]](https://vision.cs.princeton.edu/projects/2012/SUN360/data/)
+* **NYU Depth Dataset V2**, 2012. [[link]](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
+* **TUM-RGBD**, 2012. [[link]](https://cvg.cit.tum.de/data/datasets/rgbd-dataset/download)
+* **EuRoC MAV Dataset**, 2012. [[link]](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
+* **Semantic KITTI**, 2012. [[link]](https://www.semantic-kitti.org/dataset.html#download)
+* **KITTI Object Recognition**, 2012. [[link]](http://www.cvlibs.net/datasets/kitti/eval_object.php)
+* **Stanford Track Collection**, 2011. [[link]](http://cs.stanford.edu/people/teichman/stc/)
 
 
 #### Tactile 
-* **The Feeling of Success**, 2017. [[link]](https://sites.google.com/view/the-feeling-of-success/)
-* **SynTouch**, 2019. [[link]](https://tams.informatik.uni-hamburg.de/research/datasets/index.php#biotac_single_contact_response)
-* **Decoding the BioTac**, 2020. [[link]](https://drive.google.com/drive/folders/1-BkqiFN9q6cz9Dk74oDlfmDs2m7ZvbWC)
-* **ObjectFolder**, 2021-2023. [[link]](https://github.com/rhgao/ObjectFolder)
-* **SSVTP**, 2022. [[link]](https://drive.google.com/file/d/1H0B-jJ4l3tJu2zuqf-HbZy2bjEl-vL3f/view?usp=sharing)
-* **Touch and Go**, 2022. [[link]](https://drive.google.com/drive/folders/1NDasyshDCL9aaQzxjn_-Q5MBURRT360B)
-* **YCB-Slide**, 2022. [[link]](https://github.com/rpl-cmu/YCB-Slide)
+
+* **Touch100k**, 2024. [[link]](https://cocacola-lab.github.io/Touch100k/)
+* **ARIO (All Robots In One)**, 2024. [[link]](https://imaei.github.io/project_pages/ario/)
+* **TaRF**, 2024. [[link]](https://dou-yiming.github.io/TaRF/)    
 * **TVL**, 2024. [[link]](https://huggingface.co/datasets/mlfu7/Touch-Vision-Language-Dataset)
-* **TaRF**, 2024. [[link]](https://dou-yiming.github.io/TaRF/)
-* **ARIO (All Robots In One)**, 2024.[[link]](https://imaei.github.io/project_pages/ario/)    
+* **YCB-Slide**, 2022. [[link]](https://github.com/rpl-cmu/YCB-Slide)
+* **Touch and Go**, 2022. [[link]](https://drive.google.com/drive/folders/1NDasyshDCL9aaQzxjn_-Q5MBURRT360B)
+* **SSVTP**, 2022. [[link]](https://drive.google.com/file/d/1H0B-jJ4l3tJu2zuqf-HbZy2bjEl-vL3f/view?usp=sharing)
+* **ObjectFolder**, 2021-2023. [[link]](https://github.com/rhgao/ObjectFolder)
+* **Decoding the BioTac**, 2020. [[link]](https://drive.google.com/drive/folders/1-BkqiFN9q6cz9Dk74oDlfmDs2m7ZvbWC)
+* **SynTouch**, 2019. [[link]](https://tams.informatik.uni-hamburg.de/research/datasets/index.php#biotac_single_contact_response)
+* **The Feeling of Success**, 2017. [[link]](https://sites.google.com/view/the-feeling-of-success/)
 
 ### Embodied Navigation
-* **Room to Room (R2R)**, 2017.[[link]](https://paperswithcode.com/dataset/room-to-room)  
-* **CVDN**, 2019.[[link]](https://github.com/mmurray/cvdn/)     
-* **REVERIE**, 2020.[[link]](https://github.com/YuankaiQi/REVERIE)  
-* **ALFRED**, 2020.[[link]](https://askforalfred.com/)  
-
+* **ALFRED**, 2020. [[link]](https://askforalfred.com/)  
+* **REVERIE**, 2020. [[link]](https://github.com/YuankaiQi/REVERIE) 
+* **CVDN**, 2019. [[link]](https://github.com/mmurray/cvdn/)     
+* **Room to Room (R2R)**, 2017. [[link]](https://paperswithcode.com/dataset/room-to-room)  
+ 
 ### Embodied Question Answering
-* **EQA**, 2018.[[link]](https://embodiedqa.org/data)  
-* **IQUAD V1**, 2018.[[link]](https://github.com/danielgordon10/thor-iqa-cvpr-2018)  
-* **MT-EQA**, 2019.[[link]](https://github.com/facebookresearch/MT-EQA)  
-* **MP3D-EQA**, 2019.[[link]](https://askforalfred.com/)  
-* **VideoNavQA**, 2019.[[link]](https://github.com/catalina17/VideoNavQA)  
-* **SQA3D**, 2023.[[link]](https://sqa3d.github.io/) 
-* **K-EQA**, 2023.[[link]](https://arxiv.org/abs/2109.07872) 
-* **HM-EQA**, 2024.[[link]](https://github.com/Stanford-ILIAD/explore-eqa) 
-* **S-EQA**, 2024.[[link]](https://gamma.umd.edu/researchdirections/embodied/seqa/)  
 
-
+* **SpatialQA**, 2024. [[link]](https://github.com/BAAI-DCAI/SpatialBot)  
+* **S-EQA**, 2024. [[link]](https://gamma.umd.edu/researchdirections/embodied/seqa/)
+* **HM-EQA**, 2024. [[link]](https://github.com/Stanford-ILIAD/explore-eqa) 
+* **K-EQA**, 2023. [[link]](https://arxiv.org/abs/2109.07872) 
+* **SQA3D**, 2023. [[link]](https://sqa3d.github.io/) 
+* **VideoNavQA**, 2019. [[link]](https://github.com/catalina17/VideoNavQA)  
+* **MP3D-EQA**, 2019. [[link]](https://askforalfred.com/)  
+* **MT-EQA**, 2019. [[link]](https://github.com/facebookresearch/MT-EQA)  
+* **IQUAD V1**, 2018. [[link]](https://github.com/danielgordon10/thor-iqa-cvpr-2018)  
+* **EQA**, 2018. [[link]](https://embodiedqa.org/data)  
+  
 ### Embodied Manipulation
-* **OAKINK2**, 2024.[[link]](https://oakink.net/v2/)  
+* **OAKINK2**, 2024. [[link]](https://oakink.net/v2/)  
 
 ## Other Useful Embodied Projects & Tools
 
