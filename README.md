@@ -1819,7 +1819,7 @@ To be updated...
 * **BEHAVIOR Vision Suite**, 2024. [[link]](https://behavior-vision-suite.github.io/)
 * **SpatialQA**, 2024.[[link]](https://github.com/BAAI-DCAI/SpatialBot)  
 * **SpatialBench**, 2024. [[link]](https://huggingface.co/datasets/RussRobin/SpatialBench)
-* **Uni3DScenes**, 2024. [[link]](https://huggingface.co/datasets/RussRobin/SpatialBench)
+* **Uni3DScenes**, 2024. [[link]](https://huggingface.co/datasets/RussRobinSpatialBench)
 * **Active Recognition Dataset**, 2023. [[link]](https://leifan95.github.io/_pages/AR-dataset/index.html)
 * **Baxter_UR5_95_Objects_Dataset**, 2023. [[link]](https://www.eecs.tufts.edu/~gtatiya/pages/2022/Baxter_UR5_95_Objects_Dataset.html)
 * **Caltech-256**, 2022. [[link]](https://data.caltech.edu/records/nyy15-4j048)
@@ -1832,7 +1832,6 @@ To be updated...
 * **UZH-FPV Dataset**, 2019. [[link]](https://fpv.ifi.uzh.ch/)
 * **LM Data**, 2019. [[link]](https://peringlab.org/lmdata/)
 * **TUM Visual-Inertial Dataset**, 2018. [[link]](https://cvg.cit.tum.de/data/datasets/visual-inertial-dataset)
-
 * **ScanNet**, 2017. [[link]](https://github.com/ScanNet/ScanNet)
 * **SUNCG**, 2017. [[link]](http://suncg.cs.princeton.edu/)
 * **Semantic 3D**, 2017. [[link]](http://www.semantic3d.net/)
