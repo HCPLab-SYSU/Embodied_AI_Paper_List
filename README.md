@@ -1081,6 +1081,10 @@ Fishel, Jeremy A and Loeb, Gerald E.
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 
+* **ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation**, arxiv, 2024     
+Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang.       
+[[page]](https://arxiv.org/pdf/2403.08321)
+
 * **MANUS: Markerless Grasp Capture using Articulated 3D Gaussians**, CVPR, 2024     
 Chandradeep Pokhariya, Ishaan Nikhil Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar.       
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Pokhariya_MANUS_Markerless_Grasp_Capture_using_Articulated_3D_Gaussians_CVPR_2024_paper.pdf)
