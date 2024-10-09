@@ -153,6 +153,10 @@ Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{
 
 ### Real-Scene Based Simulators
 
+* **ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI**, arxiv, 2024  
+Stone Tao, Fanbo Xiang, Arth Shukla, Yuzhe Qin, Xander Hinrichsen, Xiaodi Yuan, Chen Bao, Xinsong Lin, Yulin Liu, Tse-kai Chan, Yuan Gao, Xuanlin Li, Tongzhou Mu, Nan Xiao, Arnav Gurha, Zhiao Huang, Roberto Calandra, Rui Chen, Shan Luo, Hao Su.   
+[[page](https://arxiv.org/pdf/2410.00425)]
+
 * **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**, arxiv, 2024  
 Yang, Yandan, Baoxiong, Jia, Peiyuan, Zhi, Siyuan, Huang.   
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf)]
@@ -1085,6 +1089,10 @@ Fishel, Jeremy A and Loeb, Gerald E.
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 
+* **Cross-Embodiment Dexterous Grasping with Reinforcement Learning**, arxiv, 2024     
+Haoqi Yuan, Bohan Zhou, Yuhui Fu, Zongqing Lu.       
+[[page]](https://arxiv.org/pdf/2410.02479)
+
 * **ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation**, arxiv, 2024     
 Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang.       
 [[page]](https://arxiv.org/pdf/2403.08321)
@@ -1296,6 +1304,18 @@ Yamauchi, Brian
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
 ### Embodied Multimodal Foundation Models
+
+* **Spatial Reasoning and Planning for Deep Embodied Agents**, arXiv, 2024.     
+Shu Ishida.     
+[[page](https://arxiv.org/pdf/2409.19479)]
+
+* **Grounding Large Language Models In Embodied Environment With Imperfect World Models**, arXiv, 2024.     
+Haolan Liu, Jishen Zhao.     
+[[page](https://arxiv.org/pdf/2410.02742)]
+
+* **SELU: Self-Learning Embodied MLLMs in Unknown Environments**, arXiv, 2024.     
+Boyu Li, Haobin Jiang, Ziluo Ding, Xinrun Xu, Haoran Li, Dongbin Zhao, Zongqing Lu.     
+[[page](https://arxiv.org/pdf/2410.03303)]
 
 * **Autort: Embodied foundation models for large scale orchestration of robotic agents**, arXiv, 2024.     
 Ahn, Michael, Debidatta, Dwibedi, Chelsea, Finn, Montse Gonzalez, Arenas, Keerthana, Gopalakrishnan, Karol, Hausman, Brian, Ichter, Alex, Irpan, Nikhil, Joshi, Ryan, Julian, others.     
