@@ -1305,6 +1305,10 @@ Yamauchi, Brian
 
 ### Embodied Multimodal Foundation Models
 
+* **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**, arXiv, 2024.     
+Chi-Lam Cheang, Guangzeng Chen, Ya Jing, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Hongtao Wu, Jiafeng Xu, Yichu Yang, Hanbo Zhang, Minzhao Zhu.     
+[[page](https://arxiv.org/pdf/2410.06158)]
+
 * **Spatial Reasoning and Planning for Deep Embodied Agents**, arXiv, 2024.     
 Shu Ishida.     
 [[page](https://arxiv.org/pdf/2409.19479)]
