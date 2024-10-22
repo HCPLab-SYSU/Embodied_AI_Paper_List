@@ -1371,6 +1371,10 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 
 ### Embodied Manipulation & Control
 
+* **Diffusion Transformer Policy**, ArXiv, 2024.    
+Zhi Hou, Tianyi Zhang, Yuwen Xiong, Hengjun Pu, Chengyang Zhao, Ronglei Tong, Yu Qiao, Jifeng Dai, Yuntao Chen.       
+[[page](https://arxiv.org/pdf/2410.15959)]
+
 * **Dexcap: Scalable and portable mocap data collection system for dexterous manipulation**, ArXiv, 2024.    
 Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, C Karen Liu.       
 [[page](https://arxiv.org/pdf/2403.07788)]
