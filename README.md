@@ -1309,6 +1309,10 @@ Yamauchi, Brian
 Chi-Lam Cheang, Guangzeng Chen, Ya Jing, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Hongtao Wu, Jiafeng Xu, Yichu Yang, Hanbo Zhang, Minzhao Zhu.     
 [[page](https://arxiv.org/pdf/2410.06158)]
 
+* **Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**, arXiv, 2024.     
+Lirui Wang, Xinlei Chen, Jialiang Zhao, Kaiming He.     
+[[page](https://arxiv.org/pdf/2409.20537)]
+
 * **Spatial Reasoning and Planning for Deep Embodied Agents**, arXiv, 2024.     
 Shu Ishida.     
 [[page](https://arxiv.org/pdf/2409.19479)]
@@ -1370,6 +1374,10 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 [[page](https://arxiv.org/pdf/2212.06817)]    
 
 ### Embodied Manipulation & Control
+
+* **SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**, ArXiv, 2024.    
+Zihan Zhou, Animesh Garg, Dieter Fox, Caelan Garrett, Ajay Mandlekar.       
+[[page](https://arxiv.org/pdf/2410.18065)]
 
 * **Diffusion Transformer Policy**, ArXiv, 2024.    
 Zhi Hou, Tianyi Zhang, Yuwen Xiong, Hengjun Pu, Chengyang Zhao, Ronglei Tong, Yu Qiao, Jifeng Dai, Yuntao Chen.       
