@@ -1590,6 +1590,14 @@ Nicholas C. Metropolis, S. M. Ulam.
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
 
+* **PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**, NeurIPS, 2024    
+Kaidong Zhang, Pengzhen Ren, Bingqian Lin, Junfan Lin, Shikui Ma, Hang Xu, Xiaodan Liang                      
+[[page]](https://arxiv.org/pdf/2410.10394)
+
+* **Data Scaling Laws in Imitation Learning for Robotic Manipulation**, arxiv, 2024       
+Fanqi Lin, Yingdong Hu, Pingyue Sheng, Chuan Wen, Jiacheng You, Yang Gao                   
+[[page]](https://arxiv.org/pdf/2410.18647)
+
 * **Evaluating Real-World Robot Manipulation Policies in Simulation**, arxiv, 2024       
 Xuanlin Li, Kyle Hsu, Jiayuan Gu, Karl Pertsch, Oier Mees, Homer Rich Walke, Chuyuan Fu, Ishikaa Lunawat, Isabel Sieh, Sean Kirmani, Sergey Levine, Jiajun Wu, Chelsea Finn, Hao Su, Quan Vuong, Ted Xiao                
 [[page]](https://arxiv.org/pdf/2405.05941)
