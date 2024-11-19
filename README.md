@@ -1375,6 +1375,10 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 
 ### Embodied Manipulation & Control
 
+* **RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**, ArXiv, 2024.    
+Xinhai Li, Jialin Li, Ziheng Zhang, Rui Zhang, Fan Jia, Tiancai Wang, Haoqiang Fan, Kuo-Kun Tseng, Ruiping Wang.       
+[[page](https://arxiv.org/pdf/2411.11839)]
+
 * **SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**, ArXiv, 2024.    
 Zihan Zhou, Animesh Garg, Dieter Fox, Caelan Garrett, Ajay Mandlekar.       
 [[page](https://arxiv.org/pdf/2410.18065)]
