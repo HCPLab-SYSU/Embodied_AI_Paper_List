@@ -204,6 +204,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
+* **SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**, arxiv, 2024.    
+Yuncong Yang, Han Yang, Jiachen Zhou, Peihao Chen, Hongxin Zhang, Yilun Du, Chuang Gan.      
+[[page](https://arxiv.org/pdf/2411.17735)]
+
 * **AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**, arxiv, 2024.    
 Zhenghao Qi, Shenghai Yuan, Fen Liu, Haozhi Cao, Tianchen Deng, Jianfei Yang, Lihua Xie.      
 [[page](https://arxiv.org/pdf/2409.16019)]
