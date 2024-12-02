@@ -1379,6 +1379,18 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 
 ### Embodied Manipulation & Control
 
+* **Fourier Controller Networks for Real-Time Decision-Making in Embodied Learning**, ICML, 2024.    
+Hengkai Tan, Songming Liu, Kai Ma, Chengyang Ying, Xingxing Zhang, Hang Su, Jun Zhu.       
+[[page](https://arxiv.org/pdf/2405.19885)]
+
+* **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, ArXiv, 2024.    
+Songming Liu, Lingxuan Wu, Bangguo Li, Hengkai Tan, Huayu Chen, Zhengyi Wang, Ke Xu, Hang Su, Jun Zhu.       
+[[page](https://arxiv.org/pdf/2410.07864)]
+
+* **ManiBox: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation**, ArXiv, 2024.    
+Hengkai Tan, Xuezhou Xu, Chengyang Ying, Xinyi Mao, Songming Liu, Xingxing Zhang, Hang Su, Jun Zhu.       
+[[page](https://arxiv.org/pdf/2411.01850)]
+
 * **RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**, ArXiv, 2024.    
 Xinhai Li, Jialin Li, Ziheng Zhang, Rui Zhang, Fan Jia, Tiancai Wang, Haoqiang Fan, Kuo-Kun Tseng, Ruiping Wang.       
 [[page](https://arxiv.org/pdf/2411.11839)]
