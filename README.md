@@ -153,6 +153,11 @@ Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{
 
 ### Real-Scene Based Simulators
 
+* **InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction**, arxiv, 2024  
+Pengzhen Ren, Min Li, Zhen Luo, Xinshuai Song, Ziwei Chen, Weijia Liufu, Yixuan Yang, Hao Zheng, Rongtao Xu, Zitong Huang, Tongsheng Ding, Luyang Xie, Kaidong Zhang, Changfei Fu, Yang Liu, Liang Lin, Feng Zheng, Xiaodan Liang.   
+[[page](https://arxiv.org/pdf/2412.05789)]
+
+
 * **ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI**, arxiv, 2024  
 Stone Tao, Fanbo Xiang, Arth Shukla, Yuzhe Qin, Xander Hinrichsen, Xiaodi Yuan, Chen Bao, Xinsong Lin, Yulin Liu, Tse-kai Chan, Yuan Gao, Xuanlin Li, Tongzhou Mu, Nan Xiao, Arnav Gurha, Zhiao Huang, Roberto Calandra, Rui Chen, Shan Luo, Hao Su.   
 [[page](https://arxiv.org/pdf/2410.00425)]
@@ -524,6 +529,11 @@ Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and
 
 
 ### Visual Language Navigation
+
+* **Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**, arxiv, 2024.       
+Xinshuai Song, Weixing Chen, Yang Liu, Weikai Chen, Guanbin Li, Liang Lin.             
+[[page](https://arxiv.org/pdf/2412.09082)]
+
 
 * **MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**, ACL, 2024.       
 Jiaqi Chen, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong.             
@@ -1978,6 +1988,7 @@ To be updated...
 [GenH2R](https://genh2r.github.io/)    
 [Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)     
 [BestMan](https://github.com/AutonoBot-Lab/BestMan_Pybullet)
+[InfiniteWorld](https://github.com/pzhren/InfiniteWorld)
 
 ### Projects
 * Manipulation
