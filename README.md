@@ -1620,6 +1620,10 @@ Nicholas C. Metropolis, S. M. Ulam.
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
 
+* **VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**, arxiv, 2024    
+Shiduo Zhang, Zhe Xu, Peiju Liu, Xiaopeng Yu, Yuan Li, Qinghui Gao, Zhaoye Fei, Zhangyue Yin, Zuxuan Wu, Yu-Gang Jiang, Xipeng Qiu                     
+[[page]](https://arxiv.org/pdf/2412.18194)
+
 * **PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**, NeurIPS, 2024    
 Kaidong Zhang, Pengzhen Ren, Bingqian Lin, Junfan Lin, Shikui Ma, Hang Xu, Xiaodan Liang                      
 [[page]](https://arxiv.org/pdf/2410.10394)
@@ -1893,6 +1897,7 @@ To be updated...
 * **ALOHA 2**, 2024.[link](https://aloha-2.github.io/)  
 * **GRUtopia**, 2024.[link](https://github.com/OpenRobotLab/GRUtopia)
 * **ARIO (All Robots In One)**, 2024.[link](https://imaei.github.io/project_pages/ario/)
+* **VLABench**, 2024.[link](https://vlabench.github.io/)
 * **Matterport3D**, 2017. [[link]](https://github.com/niessner/Matterport)
 
 ### Embodied Perception
