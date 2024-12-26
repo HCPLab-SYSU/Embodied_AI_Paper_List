@@ -1317,7 +1317,15 @@ Yamauchi, Brian
 
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
-### Embodied Multimodal Foundation Models
+### Embodied Multimodal Foundation Models and VLA Methods
+
+* **RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World**, arXiv, 2024.     
+Weixin Mao, Weiheng Zhong, Zhou Jiang, Dong Fang, Zhongyue Zhang, Zihan Lan, Fan Jia, Tiancai Wang, Haoqiang Fan, Osamu Yoshie.     
+[[page](https://arxiv.org/pdf/2412.00171)]
+
+* **Spatially Visual Perception for End-to-End Robotic Learning**, arXiv, 2024.     
+Travis Davies, Jiahuan Yan, Xiang Chen, Yu Tian, Yueting Zhuang, Yiqi Huang, Luhui Hu.     
+[[page](https://arxiv.org/pdf/2411.17458)]
 
 * **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**, arXiv, 2024.     
 Chi-Lam Cheang, Guangzeng Chen, Ya Jing, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Hongtao Wu, Jiafeng Xu, Yichu Yang, Hanbo Zhang, Minzhao Zhu.     
