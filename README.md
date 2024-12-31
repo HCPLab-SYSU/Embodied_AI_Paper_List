@@ -2011,7 +2011,8 @@ To be updated...
 [DexGraspNet](https://pku-epic.github.io/DexGraspNet/)      
 [UniDexGrasp](https://pku-epic.github.io/UniDexGrasp/)      
 [UniDexGrasp++](https://pku-epic.github.io/UniDexGrasp++/)      
-[OAKINK2](https://oakink.net/v2)         
+[OAKINK2](https://oakink.net/v2)      
+[AgiBot-World](https://github.com/OpenDriveLab/agibot-world)
 
 * Embodied Interaction
 
