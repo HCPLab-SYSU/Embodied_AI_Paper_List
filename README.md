@@ -2003,11 +2003,11 @@ To be updated...
 [MetaUrban](https://metadriverse.github.io/metaurban/)  
 [GRUtopia](https://github.com/OpenRobotLab/GRUtopia)             
 [GenH2R](https://genh2r.github.io/)    
-[Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)     
-[BestMan](https://github.com/AutonoBot-Lab/BestMan_Pybullet)
-[InfiniteWorld](https://github.com/pzhren/InfiniteWorld)
-[Genesis](https://genesis-embodied-ai.github.io/)   
-[Cosmos](https://www.nvidia.com/en-us/ai/cosmos/)   
+[Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)      
+[BestMan](https://github.com/AutonoBot-Lab/BestMan_Pybullet)      
+[InfiniteWorld](https://github.com/pzhren/InfiniteWorld)      
+[Genesis](https://genesis-embodied-ai.github.io/)      
+[Cosmos](https://www.nvidia.com/en-us/ai/cosmos/)      
 ### Projects
 * Manipulation
 
