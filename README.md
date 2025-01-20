@@ -68,6 +68,10 @@ Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Liang Lin.
 Zhiqiang Wang, Hao Zheng, Yunshuang Nie, Wenjun Xu, Qingwei Wang, Hua Ye, Zhe Li, Kaidong Zhang, Xuewen Cheng, Wanxi Dong, Chang Cai, Liang Lin, Feng Zheng, Xiaodan Liang           
 [[Paper](https://arxiv.org/pdf/2408.10899)][[Project](https://imaei.github.io/project_pages/ario/)]
 
+* **Embodied intelligence toward future smart manufacturing in the era of AI foundation model**, IEEE/ASME Transactions on Mechatronics, 2024         
+Lei Ren, Jiabao Dong, Shuai Liu, Lin Zhang, and Lihui Wang.         
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10697107)]
+
 * **A Survey of Embodied Learning for Object-Centric Robotic Manipulation**, arXiv:2408.11537, 2024   
 Ying Zheng, Lei Yao, Yuejiao Su, Yi Zhang, Yi Wang, Sicheng Zhao, Yiyi Zhang, Lap-Pui Chau    
 [[Paper](https://arxiv.org/pdf/2408.11537)]
@@ -2002,7 +2006,8 @@ To be updated...
 [Demonstrating HumanTHOR](https://sites.google.com/view/humanthor/)     
 [BestMan](https://github.com/AutonoBot-Lab/BestMan_Pybullet)
 [InfiniteWorld](https://github.com/pzhren/InfiniteWorld)
-
+[Genesis](https://genesis-embodied-ai.github.io/)   
+[Cosmos](https://www.nvidia.com/en-us/ai/cosmos/)   
 ### Projects
 * Manipulation
 
