@@ -1971,7 +1971,8 @@ To be updated...
 * **ALFRED**, 2020. [[link]](https://askforalfred.com/)  
 * **REVERIE**, 2020. [[link]](https://github.com/YuankaiQi/REVERIE) 
 * **CVDN**, 2019. [[link]](https://github.com/mmurray/cvdn/)     
-* **Room to Room (R2R)**, 2017. [[link]](https://paperswithcode.com/dataset/room-to-room)  
+* **Room to Room (R2R)**, 2017. [[link]](https://paperswithcode.com/dataset/room-to-room)    
+* **LH-VLN**, 2025. [[link]](https://hcplab-sysu.github.io/LH-VLN/)
  
 ### Embodied Question Answering
 
