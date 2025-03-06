@@ -213,6 +213,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
+* **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**, CVPR, 2025.  
+Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang.  
+[[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
+
 * **SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**, arxiv, 2024.    
 Yuncong Yang, Han Yang, Jiachen Zhou, Peihao Chen, Hongxin Zhang, Yilun Du, Chuang Gan.      
 [[page](https://arxiv.org/pdf/2411.17735)]
