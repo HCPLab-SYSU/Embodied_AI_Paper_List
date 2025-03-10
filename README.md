@@ -407,6 +407,10 @@ Klein, Georg, David, Murray.
 
 ### 3D Visual Perception and Grounding
 
+* **DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**, CVPR, 2025        
+Jingzhou Luo, Yang Liu, Weixing Chen, Zhen Li, Yaowei Wang, Guanbin Li, Liang Lin                                   
+[[page]](https://arxiv.org/pdf/2503.03190)[project](https://github.com/LZ-CH/DSPNet)    
+
 * **Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding**, arxiv, 2024        
 Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao, Xuelong Li                               
 [[page]](https://arxiv.org/pdf/2408.13024)
@@ -538,9 +542,9 @@ Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and
 
 ### Visual Language Navigation
 
-* **Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**, arxiv, 2024.       
+* **Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**, CVPR, 2025.       
 Xinshuai Song, Weixing Chen, Yang Liu, Weikai Chen, Guanbin Li, Liang Lin.             
-[[page](https://arxiv.org/pdf/2412.09082)]
+[[page](https://arxiv.org/pdf/2412.09082)][project](https://hcplab-sysu.github.io/LH-VLN/)   
 
 
 * **MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**, ACL, 2024.       
