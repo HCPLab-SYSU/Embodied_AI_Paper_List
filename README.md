@@ -1919,6 +1919,8 @@ To be updated...
 * **ARIO (All Robots In One)**, 2024.[link](https://imaei.github.io/project_pages/ario/)
 * **VLABench**, 2024.[link](https://vlabench.github.io/)
 * **Matterport3D**, 2017. [[link]](https://github.com/niessner/Matterport)
+* **RoboMIND**, 2025. [[link]](https://x-humanoid-robomind.github.io/)
+
 
 ### Embodied Perception
 #### Vision
