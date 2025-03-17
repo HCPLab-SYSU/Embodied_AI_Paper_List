@@ -1115,6 +1115,10 @@ Fishel, Jeremy A and Loeb, Gerald E.
 
 ## <a id="interaction"> Embodied Interaction <a href="#table-of-contents">🔝</a> </a> 
 
+* **Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**, arxiv, 2025     
+Kaixuan Jiang, Yang Liu, Weixing Chen, Jingzhou Luo, Ziliang Chen, Ling Pan, Guanbin Li, Liang Lin.        
+[[page]](https://arxiv.org/pdf/2503.11117)
+
 * **Cross-Embodiment Dexterous Grasping with Reinforcement Learning**, arxiv, 2024     
 Haoqi Yuan, Bohan Zhou, Yuhui Fu, Zongqing Lu.       
 [[page]](https://arxiv.org/pdf/2410.02479)
