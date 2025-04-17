@@ -213,6 +213,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
+* **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, arxiv, 2025.     
+Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang Lin.     
+[[Paper](https://arxiv.org/pdf/2504.11218)] [[Project](https://github.com/HCPLab-SYSU/3DAffordSplat)]    
+
 * **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**, CVPR, 2025.  
 Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang.  
 [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
