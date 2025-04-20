@@ -1338,6 +1338,9 @@ Yamauchi, Brian
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
 ### Embodied Multimodal Foundation Models and VLA Methods
+* **Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**, arXiv, 2025.     
+Wenqi Zhang, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang     
+[[page](https://arxiv.org/abs/2503.21696)]
 
 * **RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World**, arXiv, 2024.     
 Weixin Mao, Weiheng Zhong, Zhou Jiang, Dong Fang, Zhongyue Zhang, Zihan Lan, Fan Jia, Tiancai Wang, Haoqiang Fan, Osamu Yoshie.     
