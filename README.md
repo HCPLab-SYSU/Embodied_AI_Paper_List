@@ -56,6 +56,10 @@ Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artifici
 
 ## <a id="books-surveys"> Books & Surveys <a href="#table-of-contents">🔝</a> </a> 
 
+* **A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI**, arXiv:2505.01458, 2025       
+Lik Hang Kenny Wong, Xueyang Kang, Kaixin Bai, Jianwei Zhang.        
+[[Paper](https://arxiv.org/pdf/2505.01458)]
+
 * **Multimodal Large Models: The New Paradigm of Artificial General Intelligence**, Publishing House of Electronics Industry (PHE), 2024       
 Yang Liu, Liang Lin             
 [[Page](https://hcplab-sysu.github.io/Book-of-MLM/)]      
