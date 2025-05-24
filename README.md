@@ -438,7 +438,7 @@ Dongyue Lu, Lingdong Kong, Tianxin Huang, Gim Hee Lee
 Yawen Shao, Wei Zhai, Yuhang Yang, Hongchen Luo, Yang Cao, Zheng-Jun Zha, CVPR, 2025 
 [[page]](https://arxiv.org/pdf/2411.19626)  
 
-* **Laso: Language-guided affordance segmentation on 3d object**, CVPR, 2024  
+* **LASO: Language-guided affordance segmentation on 3d object**, CVPR, 2024  
 Yicong Li, Na Zhao, Junbin Xiao, Chun Feng, Xiang Wang, Tat-seng Chua  
 [[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf)  
 
