@@ -414,6 +414,41 @@ Klein, Georg, David, Murray.
 [[page]](https://ieeexplore.ieee.org/abstract/document/4538852/)
 
 ### 3D Visual Perception and Grounding
+* **UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation**, ICRA, 2025
+Yihe Tang, Wenlong Huang, Yingke Wang, Chengshu Li, Roy Yuan, Ruohan Zhang, Jiajun Wu, Li Fei-Fei  
+[[page]](https://openreview.net/pdf?id=an953WOpo2)
+
+* **Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions**, arxiv, 2025  
+He Zhu, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang  
+[[page]](https://arxiv.org/pdf/2504.04744)  
+
+* **3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds**, arxiv, 2025  
+Hengshuo Chu, Xiang Deng, Qi Lv, Xiaoyang Chen, Yinchuan Li, Jianye Hao, Liqiang Nie  
+[[page]](https://arxiv.org/pdf/2502.20041)  
+
+* **SeqAfford: Sequential 3D affordance reasoning via Multimodal Large Language Model**, CVPR, 2025  
+Hanqing Wang, Chunlin Yu, Haoyang Luo, Jingyi Yu, Ye Shi, Jingya Wang  
+[[page]](https://arxiv.org/pdf/2412.01550) 
+
+* **GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**, CVPR, 2025  
+Dongyue Lu, Lingdong Kong, Tianxin Huang, Gim Hee Lee  
+[[page]](https://arxiv.org/pdf/2412.09511)  
+
+* **GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding**, arxiv, 2024  
+Yawen Shao, Wei Zhai, Yuhang Yang, Hongchen Luo, Yang Cao, Zheng-Jun Zha, CVPR, 2025 
+[[page]](https://arxiv.org/pdf/2411.19626)  
+
+* **LASO: Language-guided affordance segmentation on 3d object**, CVPR, 2024  
+Yicong Li, Na Zhao, Junbin Xiao, Chun Feng, Xiang Wang, Tat-seng Chua  
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf)  
+
+* **SceneFun3D: fine-grained functionality and affordance understanding in 3D scenes**, CVPR, 2024  
+Alexandros Delitzas, Ayca Takmaz, Federico Tombari, Robert Sumner, Marc Pollefeys, Francis Engelmann  
+[[page]](https://openaccess.thecvf.com/content/CVPR2024/html/Delitzas_SceneFun3D_Fine-Grained_Functionality_and_Affordance_Understanding_in_3D_Scenes_CVPR_2024_paper.html)  
+
+* **Language-conditioned affordance-pose detection in 3d point clouds**, ICRA, 2024  
+Toan Nguyen, Minh Nhat Vu, Baoru Huang, Tuan Van Vo, Vy Truong, Ngan Le, Thieu Vo, Bac Le, Anh Nguyen  
+[[page]](https://arxiv.org/pdf/2309.10911)   
 
 * **DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**, CVPR, 2025        
 Jingzhou Luo, Yang Liu, Weixing Chen, Zhen Li, Yaowei Wang, Guanbin Li, Liang Lin                                   
@@ -441,7 +476,7 @@ Ruiyuan Lyu, Tai Wang, Jingli Lin, Shuai Yang, Xiaohan Mao, Yilun Chen, Runsen X
 
 * **ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**, arxiv, 2024          
 Zekun Qi, Runpei Dong, Shaochen Zhang, Haoran Geng, Chunrui Han, Zheng Ge, He Wang, Li Yi, Kaisheng Ma      
-[[page]](https://qizekun.github.io/shapellm/))
+[[page]](https://qizekun.github.io/shapellm/)
 
 * **LEO: An Embodied Generalist Agent in 3D World**, ICML, 2024      
 Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, and Siyuan Huang   
@@ -475,6 +510,14 @@ Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Y
 Wu, Yanmin and Cheng, Xinhua and Zhang, Renrui and Cheng, Zesen and Zhang, Jian   
 [[page]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.pdf)   
 
+* **Affordpose: A large-scale dataset of hand-object interactions with affordance-driven hand pose**, ICCV, 2023  
+Juntao Jian, Xiuping Liu, Manyi Li, Ruizhen Hu, Jian Liu  
+[[page]](https://openaccess.thecvf.com/content/ICCV2023/html/Jian_AffordPose_A_Large-Scale_Dataset_of_Hand-Object_Interactions_with_Affordance-Driven_Hand_ICCV_2023_paper.html)
+
+* **Grounding 3d object affordance from 2d interactions in images**, ICCV, 2023  
+Yuhang Yang, Wei Zhai, Hongchen Luo, Yang Cao, Jiebo Luo, Zheng-Jun Zha  
+[[page]](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Grounding_3D_Object_Affordance_from_2D_Interactions_in_Images_ICCV_2023_paper.html)  
+
 * **3d-vista: Pre-trained transformer for 3d vision and text alignment**, ICCV, 2023       
 Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, and Qing Li      
 [[page]](https://3d-vista.github.io/)    
@@ -485,7 +528,7 @@ Yunze Liu, Junyu Chen, Zekai Zhang, Li Yi
 
 * **SQA3D: Situated Question Answering in 3D Scenes**, ICLR, 2023    
 Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, and Siyuan Huang    
-[[page]]([https://sqa3d.github.io/))
+[[page]]([https://sqa3d.github.io/)
 
 * **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**, arXix, 2023   
 Yang, Jianing and Chen, Xuweiyi and Qian, Shengyi and Madaan, Nikhil and Iyengar, Madhavan and Fouhey, David F and Chai, Joyce   
@@ -510,6 +553,10 @@ Luo, Junyu and Fu, Jiahui and Kong, Xianghao and Gao, Chen and Ren, Haibing and 
 * **Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds**, ECCV, 2022   
 Jain, Ayush and Gkanatsios, Nikolaos and Mediratta, Ishita and Fragkiadaki, Katerina   
 [[page]](https://arxiv.org/pdf/2112.08879)   
+
+* **3d affordancenet: A benchmark for visual object affordance understanding**, CVPR, 2021  
+Shengheng Deng, Xun Xu, Chaozheng Wu, Ke Chen, Kui Jia  
+[[page]](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_3D_AffordanceNet_A_Benchmark_for_Visual_Object_Affordance_Understanding_CVPR_2021_paper.html)
 
 * **Text-guided graph neural networks for referring 3D instance segmentation**, AAAI, 2021   
 Huang, Pin-Hao and Lee, Han-Hung and Chen, Hwann-Tzong and Liu, Tyng-Luh   
