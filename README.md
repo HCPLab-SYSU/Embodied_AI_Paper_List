@@ -1,10 +1,10 @@
 <br>
 <p align="center">
-<h1 align="center"><strong>Paper list for Embodied AI</strong></h1>
+<h1 align="center"><strong>Paper List  and Resource Repository for Embodied AI</strong></h1>
   <p align="center">
     <a href='https://www.sysu-hcp.net/' target='_blank'>HCPLab</a>&emsp;
     <br>
-    Pengcheng Laboratory & SYSU HCP Lab
+    SYSU HCP Lab and Pengcheng Laboratory
     <br>
   </p>
 </p>
