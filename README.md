@@ -21,7 +21,7 @@
 
 ![Teaser](teaser.png "demo")
 
-[**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**](https://arxiv.org/pdf/2407.06886)    
+[**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI, IEEE/ASME Transactions on Mechatronics 2025**](https://arxiv.org/pdf/2407.06886)    
   [Yang Liu](https://yangliu9208.github.io), Weixing Chen, Yongjie Bai, [Xiaodan Liang](https://lemondan.github.io), [Guanbin Li](http://guanbinli.com/), [Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm), [Liang Lin](http://www.linliang.net/)     
 
 <p align="center">
@@ -30,9 +30,10 @@
 
 ## 🏠 About
 
-Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artificial General Intelligence (AGI) and serves as a foundation for various applications that bridge cyberspace and the physical world. Recently, the emergence of Multi-modal Large Models (MLMs) and World Models (WMs) have attracted significant attention due to their remarkable perception, interaction, and reasoning capabilities, making them a promising architecture for the brain of embodied agents. However, there is no comprehensive survey for Embodied AI in the era of MLMs. In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI. Our analysis firstly navigates through the forefront of representative works of embodied robots and simulators, to fully understand the research focuses and their limitations. Then, we analyze four main research targets: 1) embodied perception, 2) embodied interaction, 3) embodied agent, and 4) sim-to-real adaptation, covering the state-of-the-art methods, essential paradigms, and comprehensive datasets. Additionally, we explore the complexities of MLMs in virtual and real embodied agents, highlighting their significance in facilitating interactions in dynamic digital and physical environments.  Finally, we summarize the challenges and limitations of embodied AI and discuss their potential future directions. We hope this survey will serve as a foundational reference for the research community and inspire continued innovation. 
+Embodied Artificial Intelligence (Embodied AI) is crucial for achieving Artificial General Intelligence (AGI) and serves as a foundation for various applications (e.g., intelligent mechatronics systems, smart manufacturing) that bridge cyberspace and the physical world. Recently, the emergence of Multi-modal Large Models (MLMs) and World Models (WMs) have attracted significant attention due to their remarkable perception, interaction, and reasoning capabilities, making them a promising architecture for embodied agents. In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI. Our analysis firstly navigates through the forefront of representative works of embodied robots and simulators, to fully understand the research focuses and their limitations. Then, we analyze four main research targets: 1) embodied perception, 2) embodied interaction, 3) embodied agent, and 4) sim-to-real adaptation, covering state-of-the-art methods, essential paradigms, and comprehensive datasets. Additionally, we explore the complexities of MLMs in virtual and real embodied agents, highlighting their significance in facilitating interactions in digital and physical environments.  Finally, we summarize the challenges and limitations of embodied AI and discuss potential future directions. We hope this survey will serve as a foundational reference for the research community. 
 
 ## :collision: Update Log 
+* [2025.05.27] Our Embodied AI Survey paper is accepted by IEEE/ASME Transactions on Mechatronics!
 * [2024.09.08] We are constantly updating the Dataset section!
 * [2024.08.31] We added the Datasets section and classified the useful projects!
 * [2024.08.19] To make readers focus on newest works, we have arranged papers in chronological order!   
@@ -2122,6 +2123,14 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
   author={Liu, Yang and Chen, Weixing and Bai, Yongjie and Li, Guanbin and Gao, Wen and Lin, Liang},
   journal={arXiv preprint arXiv:2407.06886},
   year={2024}
+}
+```
+```bibtex
+@article{liu2025aligning,
+  title={Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI},
+  author={Liu, Yang and Chen, Weixing and Bai, Yongjie and Liang, Xiaodan and Li, Guanbin and Gao, Wen and Lin, Liang},
+  journal={IEEE/ASME Transactions on Mechatronics},
+  year={2025}
 }
 ```
 ## 👏 Acknowledgements
