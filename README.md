@@ -2120,7 +2120,7 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
 ```bibtex
 @article{liu2024aligning,
   title={Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI},
-  author={Liu, Yang and Chen, Weixing and Bai, Yongjie and Li, Guanbin and Gao, Wen and Lin, Liang},
+  author={Liu, Yang and Chen, Weixing and Bai, Yongjie and Liang, Xiaodan and Li, Guanbin and Gao, Wen and Lin, Liang},
   journal={arXiv preprint arXiv:2407.06886},
   year={2024}
 }
