@@ -1979,7 +1979,6 @@ To be updated...
 
 * **VisualAgentBench**, 2023.[link](https://github.com/THUDM/VisualAgentBench)
 * **Open X-Embodiment**, 2023.[link](https://robotics-transformer-x.github.io/)
-* **DivScene**, 2024.[link](https://github.com/zhaowei-wang-nlp/DivScene)
 * **RH20T-P**, 2024.[link](https://sites.google.com/view/rh20t-primitive/main)   
 * **ALOHA 2**, 2024.[link](https://aloha-2.github.io/)  
 * **GRUtopia**, 2024.[link](https://github.com/OpenRobotLab/GRUtopia)
@@ -2048,7 +2047,8 @@ To be updated...
 * **ALFRED**, 2020. [[link]](https://askforalfred.com/)  
 * **REVERIE**, 2020. [[link]](https://github.com/YuankaiQi/REVERIE) 
 * **CVDN**, 2019. [[link]](https://github.com/mmurray/cvdn/)     
-* **Room to Room (R2R)**, 2017. [[link]](https://paperswithcode.com/dataset/room-to-room)    
+* **Room to Room (R2R)**, 2017. [[link]](https://paperswithcode.com/dataset/room-to-room)
+* **DivScene**, 2024.[[link]](https://github.com/zhaowei-wang-nlp/DivScene)
 * **LH-VLN**, 2025. [[link]](https://hcplab-sysu.github.io/LH-VLN/)
  
 ### Embodied Question Answering
