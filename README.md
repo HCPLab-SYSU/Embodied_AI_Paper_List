@@ -602,6 +602,9 @@ Achlioptas, Panos and Abdelreheem, Ahmed and Xia, Fei and Elhoseiny, Mohamed and
 Xinshuai Song, Weixing Chen, Yang Liu, Weikai Chen, Guanbin Li, Liang Lin.             
 [[page](https://arxiv.org/pdf/2412.09082)][project](https://hcplab-sysu.github.io/LH-VLN/)   
 
+* **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**, arxiv, 2024.     
+Zhaowei Wang, Hongming Zhang, Tianqing Fang, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.     
+[[Paper](https://arxiv.org/abs/2410.02730)] [[Project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
 
 * **MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**, ACL, 2024.       
 Jiaqi Chen, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong.             
@@ -1976,6 +1979,7 @@ To be updated...
 
 * **VisualAgentBench**, 2023.[link](https://github.com/THUDM/VisualAgentBench)
 * **Open X-Embodiment**, 2023.[link](https://robotics-transformer-x.github.io/)
+* **DivScene**, 2024.[link](https://github.com/zhaowei-wang-nlp/DivScene)
 * **RH20T-P**, 2024.[link](https://sites.google.com/view/rh20t-primitive/main)   
 * **ALOHA 2**, 2024.[link](https://aloha-2.github.io/)  
 * **GRUtopia**, 2024.[link](https://github.com/OpenRobotLab/GRUtopia)
