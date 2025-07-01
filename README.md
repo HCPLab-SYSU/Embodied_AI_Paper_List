@@ -1475,6 +1475,10 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 
 ### Embodied Manipulation & Control
 
+* **PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning**, NeurIPS, 2024.    
+Chengyang Ying, Zhongkai Hao, Xinning Zhou, Xuezhou Xu, Hang Su, Xingxing Zhang, Jun Zhu.       
+[[page](https://arxiv.org/pdf/2405.14073)]
+
 * **Fourier Controller Networks for Real-Time Decision-Making in Embodied Learning**, ICML, 2024.    
 Hengkai Tan, Songming Liu, Kai Ma, Chengyang Ying, Xingxing Zhang, Hang Su, Jun Zhu.       
 [[page](https://arxiv.org/pdf/2405.19885)]
