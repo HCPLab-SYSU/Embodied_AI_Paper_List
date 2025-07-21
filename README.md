@@ -218,6 +218,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
+* **RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**, arxiv, 2025.  
+Enshen Zhou, Jingkun An, Cheng Chi, Yi Han, Shanyu Rong, Chi Zhang, Pengwei Wang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, Shanghang Zhang.  
+[[Paper](https://arxiv.org/abs/2506.04308)] [[Project](https://zhoues.github.io/RoboRefer/)]
+
 * **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, arxiv, 2025.     
 Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang Lin.     
 [[Paper](https://arxiv.org/pdf/2504.11218)] [[Project](https://github.com/HCPLab-SYSU/3DAffordSplat)]    
@@ -1980,7 +1984,7 @@ Miura, Hirofumi and Shimoyama, Isao
 
 ## <a id="datasets"> Datasets <a href="#table-of-contents">🔝</a> </a> 
 To be updated...     
-
+* **RefSpatial**, 2025. [[link]](https://huggingface.co/datasets/JingkunAn/RefSpatial)
 * **VisualAgentBench**, 2023.[link](https://github.com/THUDM/VisualAgentBench)
 * **Open X-Embodiment**, 2023.[link](https://robotics-transformer-x.github.io/)
 * **RH20T-P**, 2024.[link](https://sites.google.com/view/rh20t-primitive/main)   
@@ -1994,6 +1998,7 @@ To be updated...
 
 ### Embodied Perception
 #### Vision
+
 
 * **BEHAVIOR Vision Suite**, 2024. [[link]](https://behavior-vision-suite.github.io/)
 * **SpatialQA**, 2024.[[link]](https://github.com/BAAI-DCAI/SpatialBot)  
