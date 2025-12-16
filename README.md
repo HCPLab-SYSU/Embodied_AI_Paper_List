@@ -218,6 +218,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
 
+* **RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**, arxiv, 2025.  
+Enshen Zhou, Cheng Chi, Yibo Li, Jingkun An, Jiayuan Zhang, Shanyu Rong, Yi Han, Yuheng Ji, Mengzhen Liu, Pengwei Wang, Zhongyuan Wang, Lu Sheng, Shanghang Zhang.  
+[[Paper](https://arxiv.org/abs/2512.13660)] [[Project](https://zhoues.github.io/RoboTracer/)]
+
 * **RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**, arxiv, 2025.  
 Enshen Zhou, Jingkun An, Cheng Chi, Yi Han, Shanyu Rong, Chi Zhang, Pengwei Wang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, Shanghang Zhang.  
 [[Paper](https://arxiv.org/abs/2506.04308)] [[Project](https://zhoues.github.io/RoboRefer/)]
