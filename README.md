@@ -257,12 +257,28 @@ Puig, Xavier, Kevin, Ra, Marko, Boben, Jiaman, Li, Tingwu, Wang, Sanja, Fidler, 
 Chang, Angel, Angela, Dai, Thomas, Funkhouser, Maciej, Halber, Matthias, Niebner, Manolis, Savva, Shuran, Song, Andy, Zeng, Yinda, Zhang.   
 [[page](https://arxiv.org/pdf/1709.06158)]
 
+* **UnrealCV: Virtual Worlds for Computer Vision**, ACM MM, 2017
+Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang.
+[[page](https://doi.org/10.1145/3123266.3129396)] [[Project](https://github.com/unrealcv/unrealcv)]
+
 * **AI2-THOR: An Interactive 3D Environment for Visual AI**. arXiv, 2017  
 Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, Farhadi.   
 [[page](https://arxiv.org/pdf/1712.05474)]
 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
+* **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**, IEEE RA-L, 2026.
+Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong.
+[[Paper](https://arxiv.org/abs/2604.20305)]
+
+* **Hierarchical Instruction-aware Embodied Visual Tracking**, arXiv, 2025.
+Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.
+[[Paper](https://arxiv.org/abs/2505.20710)]
+
+* **VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**, IROS, 2025.
+Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, Fangwei Zhong.
+[[Paper](https://arxiv.org/abs/2505.20718)]
+
 * **Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection**, Arxiv, 2025.  
 Juil Koo*, Daehyeon Choi*, Sangwoo Youn*, Phillip Y. Lee, Minhyuk Sung.  
 [[Paper](https://arxiv.org/abs/2512.13250)]
@@ -290,6 +306,10 @@ Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang L
 * **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**, CVPR, 2025.  
 Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang.  
 [[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
+
+* **Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**, ECCV, 2024.
+Fangwei Zhong, Kui Wu, Hai Ci, Churan Wang, Hao Chen.
+[[page](https://arxiv.org/abs/2404.09857)] [[code](https://github.com/wukui-muc/Offline_RL_Active_Tracking)]
 
 * **SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**, arxiv, 2024.    
 Yuncong Yang, Han Yang, Jiachen Zhou, Peihao Chen, Hongxin Zhang, Yilun Du, Chuang Gan.      
@@ -347,6 +367,14 @@ Yutong Wang, Chaoyang Jiang, Xieyuanli Chen.
 Wang, Tai, Xiaohan, Mao, Chenming, Zhu, Runsen, Xu, Ruiyuan, Lyu, Peisen, Li, Xiao, Chen, Wenwei, Zhang, Kai, Chen, Tianfan, Xue, others.      
 [[page](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_EmbodiedScan_A_Holistic_Multi-Modal_3D_Perception_Suite_Towards_Embodied_AI_CVPR_2024_paper.pdf)]
 
+* **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**, IEEE RA-L, 2023.
+Hongcheng Wang, Yuxuan Wang, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong.
+[[page](https://arxiv.org/abs/2304.10773)]
+
+* **RSPT: Reconstruct Surroundings and Predict Trajectory for Generalizable Active Object Tracking**, AAAI, 2023.
+Fangwei Zhong, Xiao Bi, Yudi Zhang, Wei Zhang, Yizhou Wang.
+[[page](https://doi.org/10.1609/aaai.v37i3.25482)]
+
 * **Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering**, IROS, 2023.    
 Jin, Liren, Xieyuanli, Chen, Julius, Rückin, Marija, Popovi\'c.    
 [[page](https://arxiv.org/pdf/2303.01284)]    
@@ -383,9 +411,25 @@ Liao, Ziwei, Yutong, Hu, Jiadong, Zhang, Xianyu, Qi, Xiaoyu, Zhang, Wei, Wang.
 Cheng, Shuhong, Changhe, Sun, Shĳun, Zhang, Dianfan, Zhang.    
 [[page]](https://ieeexplore.ieee.org/abstract/document/9978699)   
 
+* **Towards Distraction-Robust Active Visual Tracking**, ICML, 2021.
+Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang.
+[[page](https://arxiv.org/abs/2106.10110)]
+
+* **AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking**, IEEE T-PAMI, 2021.
+Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang.
+[[page](https://doi.org/10.1109/TPAMI.2019.2952590)]
+
 * **Point transformer**, ICCV, 2021.
 Zhao, Hengshuang, Li, Jiang, Jiaya, Jia, Philip HS, Torr, Vladlen, Koltun.     
 [[page](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf)]    
+
+* **End-to-End Active Object Tracking and Its Real-World Deployment via Reinforcement Learning**, IEEE T-PAMI, 2020.
+Wenhan Luo, Peng Sun, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang.
+[[page](https://doi.org/10.1109/TPAMI.2019.2899570)]
+
+* **AD-VAT: An Asymmetric Dueling Mechanism for Learning Visual Active Tracking**, ICLR, 2019.
+Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang.
+[[page](https://iclr.cc/virtual/2019/poster/1082)]
 
 * **Pointpillars: Fast encoders for object detection from point clouds**, CVPR, 2019.    
 Lang, Alex H, Sourabh, Vora, Holger, Caesar, Lubing, Zhou, Jiong, Yang, Oscar, Beijbom.     
@@ -418,6 +462,14 @@ Nicholson, Lachlan, Michael, Milford, Niko, Sünderhauf.
 * **3d semantic segmentation with submanifold sparse convolutional networks**, CVPR, 2018.    
 Graham, Benjamin, Martin, Engelcke, Laurens, Van Der Maaten.     
 [[page](https://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)]
+
+* **Detect-SLAM: Making Object Detection and SLAM Mutually Beneficial**, WACV, 2018.
+Fangwei Zhong, Sheng Wang, Ziqi Zhang, China Chen, Yizhou Wang.
+[[page](https://doi.org/10.1109/WACV.2018.00115)]
+
+* **End-to-end Active Object Tracking via Reinforcement Learning**, ICML, 2018.
+Wenhan Luo, Peng Sun, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang.
+[[page](https://arxiv.org/abs/1705.10561)]
 
 * **Learning to look around: Intelligently exploring unseen environments for unknown tasks**, CVPR, 2018.   
 Jayaraman, Dinesh, Kristen, Grauman.    
@@ -1506,6 +1558,10 @@ Yamauchi, Brian
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
 ### Embodied Multimodal Foundation Models and VLA Methods
+* **Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**, ACL, 2026.
+Yuanfei Wang, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong.
+[[Paper](https://arxiv.org/abs/2505.22503)]
+
 * **π₀: A Vision-Language-Action Flow Model for General Robot Control**, arXiv, 2024.     
 Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.     
 [[Paper](https://arxiv.org/abs/2410.24164)] [[Project](https://physicalintelligence.company/blog/pi0)]
@@ -1631,6 +1687,10 @@ Brohan, Anthony, Noah, Brown, Justice, Carbajal, Yevgen, Chebotar, Joseph, Dabis
 [[page](https://arxiv.org/pdf/2212.06817)]    
 
 ### Embodied Manipulation & Control
+
+* **CRAVES: Controlling Robotic Arm with a Vision-Based Economic System**, CVPR, 2019.
+Yiming Zuo, Weichao Qiu, Lingxi Xie, Fangwei Zhong, Yizhou Wang, Alan L. Yuille.
+[[page](https://doi.org/10.1109/CVPR.2019.00434)]
 
 * **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**, RSS, 2023.    
 Cheng Chi, Zhenjia Xu, Siyuan Feng, Eric Cousineau, Yilun Du, Benjamin Burchfiel, Russ Tedrake, Shuran Song.       
