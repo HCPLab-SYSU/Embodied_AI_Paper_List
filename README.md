@@ -263,6 +263,10 @@ Kolve, Eric, Roozbeh, Mottaghi, Daniel, Gordon, Yuke, Zhu, Abhinav, Gupta, Ali, 
 
 ## <a id="perception">  Embodied Perception <a href="#table-of-contents">🔝</a> </a>
 ### Active Visual Exploration
+* **Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**, arXiv, 2026.  
+Kaixiang Yao, Xu Wang, Miao Pan, Hu Xiyue, Weishi Wang, Daniel Dahlmeier, Jintao Chen, Yongliang Shen, Xuhong Zhang, Wenqi Zhang.  
+[[Paper](https://arxiv.org/abs/2609.23038)] [[Project](https://zju-omniai.github.io/Spatial-Interactor/)]
+
 * **Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection**, Arxiv, 2025.  
 Juil Koo*, Daehyeon Choi*, Sangwoo Youn*, Phillip Y. Lee, Minhyuk Sung.  
 [[Paper](https://arxiv.org/abs/2512.13250)]
