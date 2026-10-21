@@ -1696,6 +1696,10 @@ Yiming Zuo, Weichao Qiu, Lingxi Xie, Fangwei Zhong, Yizhou Wang, Alan L. Yuille.
 Cheng Chi, Zhenjia Xu, Siyuan Feng, Eric Cousineau, Yilun Du, Benjamin Burchfiel, Russ Tedrake, Shuran Song.       
 [[page](https://arxiv.org/abs/2303.04137)] [[Project](https://diffusion-policy.cs.columbia.edu/)]
 
+* **ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning**, ICLR, 2026.    
+Yichao Liang, Dat Nguyen, Cambridge Yang, Tianyang Li, Joshua B. Tenenbaum, Carl Edward Rasmussen, Adrian Weller, Zenna Tavares, Tom Silver, Kevin Ellis.       
+[[page](https://arxiv.org/abs/2509.26255)] [[Project](https://www.basis.ai/blog/exopredicator/)]
+
 * **ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**, CVPR, 2025.    
 Kailin Li, Puhao Li, Tengyu Liu, Yuyang Li, Siyuan Huang.       
 [[page](https://arxiv.org/abs/2503.21860)]
@@ -1711,6 +1715,10 @@ AgiBot-World-Contributors, Qingwen Bu, Jisong Cai, Li Chen, Xiuqi Cui, Yan Ding,
 * **Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**, arXiv, 2025.    
 Abhiram Maddukuri, Zhenyu Jiang, Lawrence Yunliang Chen, Soroush Nasiriany, Yuqi Xie, Yu Fang, Wenqi Huang, Zu Wang, Zhenjia Xu, Nikita Chernyadev, Scott Reed, Ken Goldberg, Ajay Mandlekar, Linxi Fan, Yuke Zhu.       
 [[page](https://arxiv.org/abs/2503.24361)]
+
+* **VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**, ICLR, 2025.    
+Yichao Liang, Nishanth Kumar, Hao Tang, Adrian Weller, Joshua B. Tenenbaum, Tom Silver, João F. Henriques, Kevin Ellis.       
+[[page](https://arxiv.org/abs/2410.23156)]
 
 * **PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning**, NeurIPS, 2024.    
 Chengyang Ying, Zhongkai Hao, Xinning Zhou, Xuezhou Xu, Hang Su, Xingxing Zhang, Jun Zhu.       
@@ -1947,6 +1955,10 @@ Nicholas C. Metropolis, S. M. Ulam.
 
 ## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
 
+* **EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning**, arXiv, 2026    
+Yichao Liang, Amber Li, Dat Nguyen, Emily Bunnapradist, Michelangelo Naim, Sreela Kodali, Matteo Merler, Bowen Li, Kiran Gopinathan, Yiyun Liu, Nikhil Pimpalkhare, Joshua B. Tenenbaum, Adrian Weller, Zenna Tavares, Tom Silver, Kevin Ellis.       
+[[page]](https://arxiv.org/abs/2609.35047) [[Project]](https://basisresearch.github.io/empiric/)
+
 * **Phantom: Training Robots Without Robots Using Only Human Videos**, arXiv, 2025    
 Marion Lepert, Jiaying Fang, Jeannette Bohg.       
 [[page]](https://arxiv.org/pdf/2503.00779)
@@ -2102,6 +2114,10 @@ Xinyu Xu, Shengcheng Luo, Yanchao Yang, Yong-Lu Li, Cewu Lu.
 * **DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems**, ICML, 2024.        
 Kaibo He, Chenhui Zuo, Chengtian Ma, Yanan Sui.         
 [[page]](https://arxiv.org/pdf/2407.11472)
+
+* **Rapid Motor Adaptation for Robotic Manipulator Arms**, CVPR, 2024    
+Yichao Liang, Kevin Ellis, João Henriques.       
+[[page]](https://arxiv.org/abs/2312.04670)
 
 * **A-JEPA: Joint-Embedding Predictive Architecture Can Listen**, arXiv, 2023    
 Fei, Zhengcong and Fan, Mingyuan and Huang, Junshi   
