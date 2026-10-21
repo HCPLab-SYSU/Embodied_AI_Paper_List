@@ -2355,6 +2355,7 @@ To be updated...
 * Embodied Interaction
 
 [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA)  
+[RescueBench](https://github.com/UnrealZoo/RescueBench)
 
 * Embodied Perception
 
