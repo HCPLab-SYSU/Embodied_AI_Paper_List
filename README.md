@@ -1700,6 +1700,18 @@ Cheng Chi, Zhenjia Xu, Siyuan Feng, Eric Cousineau, Yilun Du, Benjamin Burchfiel
 Yichao Liang, Dat Nguyen, Cambridge Yang, Tianyang Li, Joshua B. Tenenbaum, Carl Edward Rasmussen, Adrian Weller, Zenna Tavares, Tom Silver, Kevin Ellis.       
 [[page](https://arxiv.org/abs/2509.26255)] [[Project](https://www.basis.ai/blog/exopredicator/)]
 
+* **Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories**, RSS, 2026.    
+Yiyuan Pan, Xusheng Luo, Hanjiang Hu, Peiqi Yu, Changliu Liu.       
+[[page](https://arxiv.org/abs/2603.25903)] [[Project](https://intelligent-control-lab.github.io/ENAP-project-webpage/)]
+
+* **Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure**, CoRL, 2026.    
+Yiyuan Pan, Hanjiang Hu, Shangtao Li, Xusheng Luo, Changliu Liu.       
+[[page](https://arxiv.org/abs/2606.26588)] [[Project](https://pyywill.github.io/restruct-corl2026/)]
+
+* **What Makes a Good Symbol for Hybrid Discrete-Continuous Planning?**, arXiv, 2026.    
+Yiyuan Pan, Changliu Liu, Jiayuan Mao.       
+[[page](https://arxiv.org/abs/2610.23010)] [[Project](https://pyywill.github.io/good-symbols/)]
+
 * **ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**, CVPR, 2025.    
 Kailin Li, Puhao Li, Tengyu Liu, Yuyang Li, Siyuan Huang.       
 [[page](https://arxiv.org/abs/2503.21860)]
