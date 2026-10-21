@@ -1959,6 +1959,10 @@ Nicholas C. Metropolis, S. M. Ulam.
 Yichao Liang, Amber Li, Dat Nguyen, Emily Bunnapradist, Michelangelo Naim, Sreela Kodali, Matteo Merler, Bowen Li, Kiran Gopinathan, Yiyun Liu, Nikhil Pimpalkhare, Joshua B. Tenenbaum, Adrian Weller, Zenna Tavares, Tom Silver, Kevin Ellis.       
 [[page]](https://arxiv.org/abs/2609.35047) [[Project]](https://basisresearch.github.io/empiric/)
 
+* **Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap**, arXiv, 2026    
+Youran Sun, Jiaxuan Guo, Xingyu Ren, Chugang Yi, Haizhao Yang.       
+[[page]](https://arxiv.org/pdf/2607.24079)
+
 * **Phantom: Training Robots Without Robots Using Only Human Videos**, arXiv, 2025    
 Marion Lepert, Jiaying Fang, Jeannette Bohg.       
 [[page]](https://arxiv.org/pdf/2503.00779)
