@@ -1558,6 +1558,10 @@ Yamauchi, Brian
 ## <a id="agent"> Embodied Agent <a href="#table-of-contents">🔝</a> </a> 
 
 ### Embodied Multimodal Foundation Models and VLA Methods
+* **Spotter: Let the Embodied Model Lead, and the VLM Reflect for It**, arXiv, 2026.  
+Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan.  
+[[Paper](https://arxiv.org/abs/2609.36808)] [[Project](https://zqc3117.github.io/Spotter/)] [[Code](https://github.com/zqc3117/Spotter)]
+
 * **Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**, ACL, 2026.
 Yuanfei Wang, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong.
 [[Paper](https://arxiv.org/abs/2505.22503)]
