@@ -2343,6 +2343,7 @@ To be updated...
 [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)    
 [Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)    
 [Awesome VLA Study](https://github.com/MilkClouds/awesome-vla-study)    
+[Awesome AI2-THOR](https://github.com/XUJay111/awesome-ai2-thor)    
 
 ### Simulate Platforms & Enviroments
 [Habitat-Lab](https://github.com/facebookresearch/habitat-lab)    
