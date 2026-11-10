@@ -196,6 +196,10 @@ Echeverria, Gilberto and Lassabe, Nicolas and Degroote, Arnaud and Lemaignan, S{
 
 ### Real-Scene Based Simulators
 
+* **RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks**, arXiv, 2026<br>
+Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu, Cael Magner, Alvin Zhu, Daehwa Kim, Eric Heiden, Erwin Coumans, Miles Macklin, Spencer Huang, Ken Goldberg.<br>
+[[paper](https://arxiv.org/abs/2610.18835), [page](https://robosimstudio.github.io/), [code](https://github.com/robosimstudio/robosimstudio)]
+
 * **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**, ICCV Highlight, 2025<br>
 Fangwei Zhong, Kui Wu, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang.<br>
 [[paper](https://arxiv.org/abs/2412.20977), [page](https://unrealzoo.site/), [code](https://github.com/UnrealZoo/unrealzoo-gym)]
