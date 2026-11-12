@@ -1562,6 +1562,10 @@ Yamauchi, Brian
 Yuanfei Wang, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong.
 [[Paper](https://arxiv.org/abs/2505.22503)]
 
+* **Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents**, CVPR Findings, 2026.     
+Nishad Singhi, Christian Bialas, Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki, Marcus Rohrbach, Anna Rohrbach.     
+[[Paper](https://arxiv.org/abs/2605.12620)] [[Project](https://nishadsinghi.github.io/vegas)] [[Code](https://github.com/nishadsinghi/vegas)]
+
 * **π₀: A Vision-Language-Action Flow Model for General Robot Control**, arXiv, 2024.     
 Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.     
 [[Paper](https://arxiv.org/abs/2410.24164)] [[Project](https://physicalintelligence.company/blog/pi0)]
