@@ -165,6 +165,10 @@ Koenig, Nathan, Andrew, Howard.
 Mihir Kulkarni and Theodor J. L. Forgaard and Kostas Alexis.     
 [[paper](https://arxiv.org/abs/2305.16510)]     
 
+* **Alloy: A Multi-Material Physics Engine for Robot Learning**, ArXiv, 2026    
+Pranay Gupta and Deepanshu Rohilla.     
+[[paper](https://arxiv.org/abs/2611.16312), [code](https://github.com/argonrobotics-ai/alloy)]     
+
 * **Webots: open-source robot simulator**, 2018      
 Cyberbotics      
 [[page](https://cyberbotics.com/doc/reference/index), [code](https://github.com/cyberbotics/webots)]     
